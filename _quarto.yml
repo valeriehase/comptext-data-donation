@@ -3,19 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Digitale Datenspuren: Workshop"
+  title: "Data Donation Studies: COMPTEXT Workshop"
   navbar:
     search: false
     pinned: true
     tools:
-      - icon: twitter
-        href: https://twitter.com/hase_va
       - icon: github
-        href: https://github.com/valeriehase/data-donation
+        href: https://github.com/valeriehase/comptext-data-donation
+      - icon: website
+        href: https://data-donation-science.de
 
 format:
   html:
     theme: lux
-    css: styles.css
     toc: true
 
