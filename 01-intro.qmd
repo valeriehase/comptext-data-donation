@@ -32,11 +32,13 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ## Agenda
 
-1)  Intro to the workshop
+\(1\) Intro to the workshop
 
-2)  What is digital trace data?
+\(2\) What is digital trace data?
 
-3)  How can we collect digital traces?
+\(3\) How can we collect digital traces?
+
+![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
 ## 1. Intro
 
@@ -102,7 +104,7 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 ## Timetable
 
 |  |  |
-|----------------------|--------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | ⏰ 10:00--10:20 | Session 1️⃣: Welcome & Intro to Digital Traces |
 | ⏰ 10:20--11:00 | Session 2️⃣: Data Donation Studies (Participant Perspective) |
 | ⏰ 11:00--12:15 | Session 3️⃣: Data Donation Studies (Researcher Perspective) |
@@ -254,7 +256,7 @@ Digital traces are neither necessarily less biased, nor cheaper, or larger (we w
 
 ## 3. How can we collect digital traces?
 
-![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){alt="Source: Image by Markus Winkler via Unsplash" fig-alt="image of lupe" fig-align="left" width="300"}
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
 ## 
 
