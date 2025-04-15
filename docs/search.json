@@ -922,5 +922,54 @@
     "title": "Follow the User?!",
     "section": "Timetable",
     "text": "Timetable\n\n\n\n\n\n\n\n⏰ 10:00–10:20\nSession 1️⃣: Welcome & Intro to Digital Traces\n\n\n⏰ 10:20–11:00\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\n\n⏰ 11:00–12:15\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\n\n⏰ 12:15–12:45\nSession 4️⃣: Bias in Data Donation Studies\n\n\n⏰ 12:45–13:00\nSession 5️⃣: Wrap-Up"
+  },
+  {
+    "objectID": "01-intro.html#who-are-you",
+    "href": "01-intro.html#who-are-you",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Who are you?",
+    "text": "Who are you?\nPlease raise your hand 🤚 if you ….\n\n\nare familiar with the term digital trace data\nhave worked with APIs\nhave worked with data donation\nhave worked with automated content analysis\nregularly use programming languages (e.g., R, Python)"
+  },
+  {
+    "objectID": "01-intro.html#who-are-we-frieder-rodewald",
+    "href": "01-intro.html#who-are-we-frieder-rodewald",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Who are we: Frieder Rodewald",
+    "text": "Who are we: Frieder Rodewald\n\nPhD, University of Mannheim (DFG project on data donation)\nResearch interests:\n\nCSS (automated content analysis, digital traces, bias)\nPrivacy concerns & behavior\n\nMore info: github.com/frodew & frieder-rodewald.de"
+  },
+  {
+    "objectID": "01-intro.html#who-are-we-valerie-hase",
+    "href": "01-intro.html#who-are-we-valerie-hase",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Who are we: Valerie Hase",
+    "text": "Who are we: Valerie Hase\n\nAkademische Rätin a. Z./Postdoc, LMU Munich (prev.: University of Zurich & LSE)\nResearch interests:\n\nCSS (automated content analysis, digital traces, bias, data access)\nDigital journalism, crisis communication\n\nMore info: github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "01-intro.html#a-big-thank-you-to-the-organizers",
+    "href": "01-intro.html#a-big-thank-you-to-the-organizers",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "A big thank you 🙌 to the organizers",
+    "text": "A big thank you 🙌 to the organizers\nShoutout to the organizers behind the 7th Comptext, especially\n\nFabienne Lind\nVeronika Ebner\nMarcin Stecker"
+  },
+  {
+    "objectID": "01-intro.html#what-is-the-goal-of-this-workshop",
+    "href": "01-intro.html#what-is-the-goal-of-this-workshop",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "What is the goal of this workshop?",
+    "text": "What is the goal of this workshop?\n\n\n✅ Understanding digital data traces as a type of data\n✅ Understanding data donation as a method of data access\n✅ Working through key steps of data donation methods (user & researcher view)\n✅ Discussing when (not) to use data donation studies\n❌ Detailed implementation (e.g., server set-up)"
+  },
+  {
+    "objectID": "01-intro.html#timetable",
+    "href": "01-intro.html#timetable",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Timetable",
+    "text": "Timetable\n\n\n\n\n\n\n\n⏰ 10:00–10:20\nSession 1️⃣: Welcome & Intro to Digital Traces\n\n\n⏰ 10:20–11:00\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\n\n⏰ 11:00–12:15\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\n\n⏰ 12:15–12:45\nSession 4️⃣: Bias in Data Donation Studies\n\n\n⏰ 12:45–13:00\nSession 5️⃣: Wrap-Up"
+  },
+  {
+    "objectID": "01-intro.html#section",
+    "href": "01-intro.html#section",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Questions? 🤔\n\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase"
   }
 ]

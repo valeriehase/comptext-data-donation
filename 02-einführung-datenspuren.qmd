@@ -1,7 +1,6 @@
 ---
 format:
   revealjs:
-    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
     footer: "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
     center-title-slide: false
     theme: ["theme/q-theme.scss"]
