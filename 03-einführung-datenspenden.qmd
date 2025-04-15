@@ -1,0 +1,120 @@
+---
+format:
+  revealjs:
+    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
+    footer: "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    highlight-style: atom-one
+    preview-links: auto
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+---
+
+<h1>Digitale Datenspuren nutzbar machen</h1>
+
+<h3>Datenspenden als Methode der Kommunikationswissenschaft</h3>
+
+<hr>
+
+Sitzung 3️⃣: Einführung: Datenspenden
+
+Valerie Hase (Ludwig-Maximilians-Universität München)
+
+👉 [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
+
+## 1) Was sind Datenspende-Studien?
+
+![Quelle: Foto von Markus Winkler auf Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+
+##
+
+::: {style="font-size: 200%;text-align:center;"}
+*Wer von euch hat - im Vorfeld dieses Workshops - schon einmal die eigenen Daten von einer digitalen Plattform angefragt?* 🤔
+:::
+
+## Was sind Datenspende-Studien?
+
+**Definition** 💡: Datenspende-Studien sind eine nutzerzentrierte Methode zur Sammlung von Daten:
+
+::: incremental
+-   Nutzende haben das Recht, Daten, die Plattformen über sie sammeln, anzufragen und herunterladen.
+-   Sie können ihre Datenpakete (DDPs) via Datenspende-Tools (DDTs), oft im Rahmen von Umfragen, der Wissenschaft zur Verfügung stellen.
+-   Forschende nutzen CSS-Methoden zur Filterung, Anonymisierung und Analyse dieser Daten.
+:::
+
+## Was für Daten enthalten "DDPs"?
+
+Für klassische soziale Medien wie Facebook, Instagram oder Youtube z. B.
+
+::: incremental
+-   digitale Nutzerprofile (soziodemografische Angaben, Privatsphäre-Einstellungen)
+-   digitale Aktivitäten (Freunde, Likes, Suchen, Privatnachrichten, passive Nutzung)
+-   digitales Targeting (Werbung, algorithmische inferierte Interessen)
+-   analoge Aktivitäten (Teilnahme an Events, Lebensereignisse)
+:::
+
+## Beispiel I
+
+Beispiel-Studie mit Smartphone-Datenspenden [@wu-ouyang_overestimating_2022, S. 10]
+
+![Quelle: Wu-Ouyang & Chan, 2022, S. 10](images/study-4.jpg){fig-alt="regression showing correlation between logged social media use and well-being" fig-align="left" width="300"}
+
+## Beispiel II
+
+Beispiel-Studie mit Instagram-Datenspenden [@van_driel_promises_2022, S. 273]
+
+![Quelle: van Driel et al., 2022, S. 273](images/study-5.jpg){fig-alt="data donation showing how teenagers use instagram" fig-align="left" width="300"}
+
+## Beispiel III
+
+Beispiel-Studie mit Social-Media-Datenspenden
+
+![Hase & Haim, under review](images/study-6.jpeg){fig-alt="null models indicating average news engagement" fig-align="left" width="300"}
+
+## Was ist neu an Daten aus DDPs?
+
+Im Vergleich zu Daten **via APIs** [@stollfus_computational_2023; @ohme_digital_2023] z.B.
+
+::: incremental
+-   Kontrolle & informierte Einwilligung der Nutzer:innen, welche Daten Forschung nutzen darf
+-   z.T. vollständige längsschnittliche Daten ohne "Rate Limits" (z.B. seit erstmaliger Nutzung von Accounts)
+-   z.T. neue Daten (z.B., wenn auch selten, passive Nutzung; nicht-öffentliche Daten wie Nachrichten)
+:::
+
+## Was ist neu an Daten aus DDPs?
+
+Im Vergleich zu Daten **via Tracking** [@stollfus_computational_2023; @ohme_digital_2023] z.B.
+
+::: incremental
+-   retrospektive Erhebung, die längsschnittliche Daten und weniger Reaktivität ermöglicht
+-   z.T. neue Daten (z.B. algorithmische Inferenzen)
+-   klarere Verankerung in EU-Recht im Vgl. zu Rechtsstreitigkeiten bei z.B. Tracking [@edelson_facebook_2021]
+-   aber: ähnlich aufwendig für Befragte!
+:::
+
+## Zusammenfassung: Datenspenden 📚
+
+-   **Zusammenfassung**: Methode zur Sammlung digitaler Verhaltensdaten, bei der Nutzende ihre Datenpakete (DDPs) von Plattformen herunterladen und via Datenspende-Tools (DDTs) der Wissenschaft zur Verfügung stellen.
+
+-   **Weiterführende Literatur**:
+
+    -   @van_driel_promises_2022
+
+    -   @boeschoten_privacy-preserving_2022
+
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Fragen?** 🤔
+:::
+
+## Quellen

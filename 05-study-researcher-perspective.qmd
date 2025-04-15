@@ -1,0 +1,358 @@
+---
+format:
+  revealjs:
+    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
+    footer: "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    highlight-style: atom-one
+    preview-links: auto
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+---
+
+<h1>Digitale Datenspuren nutzbar machen</h1>
+
+<h3>Datenspenden als Methode der Kommunikationswissenschaft</h3>
+
+<hr>
+
+Sitzung 5️⃣: Datenspende-Studien aus Sicht der Forscher:innen
+
+Valerie Hase (Ludwig-Maximilians-Universität München)
+
+👉 [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
+
+## 1) Wie laufen Datenspende-Studien aus Sicht der Forscher:innen ab?
+
+![Quelle: Foto von Markus Winkler auf Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+*Welche methodischen Entscheidungen müssen Forscher:innen treffen, die Datenspende-Studien durchführen wollen?* 🤔
+:::
+
+## Ablauf - Perspektive der Forschung
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/ablauf-6.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+
+## Schritt I: Forschungsdesign
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/ablauf-4.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+::: incremental
+-   Welche theoretischen Fragen wollen & können wir beantworten?
+-   Welches Datenspende-Tool nutzen wir wie?
+-   Wie wird die Datenspende in die Umfrage integriert?
+:::
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+-   **Welche theoretischen Fragen wollen & können wir beantworten?**
+-   Welches Datenspende-Tool nutzen wir wie?
+-   Wie wird die Datenspende in die Umfrage integriert?
+
+## Schritt I: Forschungsdesign - Forschungsfragen
+
+::: {style="font-size: 200%;text-align:center;"}
+*Bitte überlegt euch eine Forschungsfrage/Hypothese, die ihr auf Basis einer Datenspende-Studie beantworten wollen würdet.* 🤔
+:::
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+-   **Welche theoretischen Fragen wollen & können wir beantworten?**
+    -   Können wir theoretische Konzepte mit Datenspenden operationalisieren?
+    -   Können wir relevante Grundgesamtheiten abbilden?
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+-   Welche theoretischen Fragen wollen & können wir beantworten?
+-   **Welches Datenspende-Tool nutzen wir wie?**
+-   Wie wird die Datenspende in die Umfrage integriert?
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+Datenspende-Tools
+
+-   PORT [@boeschoten_privacy-preserving_2022] als Weiterentwicklung von OSD2F [@araujo_osd2f_2022] (Niederlande)
+-   Data Donation Module [@pfiffner_data_2022] (Schweiz)
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+::: incremental
+-   Teilnehmer:innen laden DDPs hoch
+-   Daten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert
+:::
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+-   Teilnehmer:innen laden DDPs hoch
+-   Daten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/extraktion.jpg){fig-alt="process of data donation study" fig-align="left" width="200"}
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+-   Teilnehmer:innen laden DDPs hoch
+-   Daten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert
+-   Daten werden lokal anonymisiert, z. B. über Whitelists
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/anonymisierung.jpg){fig-alt="process of data donation study" fig-align="left" width="200"}
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+-   Teilnehmer:innen laden DDPs hoch
+-   Daten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert
+-   Daten werden lokal anonymisiert, z. B. über Whitelists
+-   Teilnehmer:innen können Daten löschen
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/loeschen.png){fig-alt="process of data donation study" fig-align="left" width="200"}
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+-   Teilnehmer:innen laden DDPs hoch
+-   Daten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert
+-   Daten werden lokal anonymisiert, z. B. über Whitelists
+-   Teilnehmer:innen können Daten löschen
+-   nach informierter Einwilligung werden Daten an Server der Forscher:innen weitergeleitet
+
+## Schritt I: Forschungsdesign - Datenspende-Tool
+
+Beispiel: OSD2F [@araujo_osd2f_2022, S. 377]
+
+![Araujo et al., 2022, S. 377](images/osd2f.jpg){fig-alt="process of OSD2F as data donation tool" fig-align="left" width="200"}
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+-   Welche theoretischen Fragen wollen & können wir beantworten?
+-   **Welches Datenspende-Tool nutzen wir wie?**
+    -   Kann das Tool relevante Daten datenschutzkonform extrahieren & anonymisieren?
+    -   Können wir Skripte schnell an Veränderungen durch Plattformen anpassen?
+-   Wie wird die Datenspende in die Umfrage integriert?
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+-   Welche theoretischen Fragen wollen & können wir beantworten?
+-   Welches Datenspende-Tool nutzen wir wie?
+-   **Wie wird die Datenspende in die Umfrage integriert?**
+
+
+## Schritt I: Forschungsdesign - Umfrage
+
+-   geläufiges Vorgehen: Weiterleiten an externe Seite
+-   neu: Integration in Umfragen, z. B. via SoSci Survey [@haim_integrating_2023]; ermöglicht Messwiederholungen, Incentivierung, Experimentaldesigns, etc.
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/ablauf4a.png){fig-alt="process of data donation study" fig-align="left" width="200"}
+
+## Schritt I: Forschungsdesign - Umfrage
+
+Dadurch dass Datenspenden aufwendig sind (und damit Verzerrungen begünstigen), stellen sich weitere Fragen nach...
+
+-   Incentivierung
+-   Platzierung der Anfrage nach Datenspenden
+-   Formulierung der Bedeutsamkeit von Datenspenden
+
+## Schritt I: Forschungsdesign
+
+Zentrale Entscheidungen:
+
+-   Welche theoretischen Fragen wollen & können wir beantworten?
+-   Welches Datenspende-Tool nutzen wir wie?
+-   **Wie wird die Datenspende in die Umfrage integriert?**
+    -   Wie können wir die Datenspende technisch so leicht wie möglich für Teilnehmer:innen machen?
+    -   Welche Design-Strategien können wir nutzen, um Teilnehmer:innen für die Datenspende zu begeistern?
+
+## Schritt II: Bereinigung
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/ablauf-4.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+
+## Schritt II: Bereinigung
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung](images/ablauf-5.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+::: incremental
+-   Wie klassifizieren wir Inhalte?
+-   Wie matchen & aggregieren wir Inhalte?
+-   Wie testen wir für Verzerrungen?
+:::
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   Wie klassifizieren wir Inhalte?
+-   Wie matchen & aggregieren wir Inhalte?
+-   Wie testen wir für Verzerrungen?
+
+👉 Übergreifendes Tutorial hierzu: Hase, V. (2023, Juli). Data Donations---Tutorial Automated Content Analysis. [Link](https://bookdown.org/valerie_hase/DataDonations-TextasData)
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   **Wie klassifizieren wir Inhalte?**
+-   Wie matchen & aggregieren wir Inhalte?
+-   Wie testen wir für Verzerrungen?
+
+## Schritt II: Bereinigung - Klassifikation
+
+::: incremental
+-   Anonymisierung als erster Schritt der Klassifikation basiert zumeist auf Whitelists, d.h. z.B. Listen von Nachrichtenmedien 👉 [Beispiel](https://github.com/datenfruehstueck/osd2f/blob/main/osd2f/anonymizers/facebook.py)
+-   Aber auch anschliessend müssen...
+    -   Daten nachträglich via APIs gesammelt
+    -   Daten via automatisierter Inhaltsanalyse klassifiziert werden
+::: 
+
+## Schritt II: Bereinigung - Klassifikation
+
+![Grafik. Beispiel eines Datenspende-Datensatzes](images/cleaning_1.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+## Schritt II: Bereinigung - Klassifikation
+
+![Grafik. Beispiel eines Datenspende-Datensatzes](images/cleaning_2.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt II: Bereinigung - Klassifikation
+
+-   Anonymisierung als erster Schritt der Klassifikation basiert zumeist auf Whitelists, d.h. z.B. Listen von Nachrichtenmedien 👉 [Beispiel](https://github.com/datenfruehstueck/osd2f/blob/main/osd2f/anonymizers/facebook.py)
+
+-   Aber auch anschliessend müssen...
+    -   Daten nachträglich via APIs gesammelt
+    -   Daten via automatisierter Inhaltsanalyse klassifiziert werden
+-   Fraglich ist, ob
+    -   wir Nachrichten auf Basis ihrer Quelle (z.B. Nachrichtenaccounts) klassifizieren können [@reiss_dissecting_2022]
+    -   binäre Klassifikationen als Nachricht ja/nein überhaupt sinnvoll sind
+
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   **Wie klassifizieren wir Inhalte?**
+    -   Nutzen wir automatisierte Methoden?
+    -   Wie definieren wir, theoretisch gesehen, Nachrichten?
+-   Wie matchen & aggregieren wir Inhalte?
+-   Wie testen wir für Verzerrungen?
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   Wie klassifizieren wir Inhalte?
+-   **Wie matchen & aggregieren wir Inhalte?**
+-   Wie testen wir für Verzerrungen?
+
+## Schritt II: Bereinigung - Matching & Aggregation
+
+**Matching** 🤝, d.h. Zusammenführung von Umfragedaten und Datenspuren [@munzert_publishing_2023]
+
+-   meist via anonymer ID (z.B. "Interviewnummer")
+-   Daten sollten, soweit möglich, getrennt gespeichert werden
+
+## Schritt II: Bereinigung - Matching & Aggregation
+
+**Aggregation** 👆, d.h. Zusammenfassung von Datenpunkten über Individuen oder Zeit [@munzert_publishing_2023]
+
+-   zumeist notwendig für Analyse (und um Daten ggf. zu teilen)
+-   aber: Aggregation kann grossen Einfluss auf Resultate haben
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   Wie klassifizieren wir Inhalte?
+-   **Wie matchen & aggregieren wir Inhalte?**
+    -   Wie gewährleisten wir die anonymisierte Verlinkung unterschiedlicher Daten?
+    -   Welches Aggregationsniveau benötigen wir?
+-   Wie testen wir für Verzerrungen?
+
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   Wie klassifizieren wir Inhalte?
+-   Wie matchen & aggregieren wir Inhalte?
+-   **Wie testen wir für Verzerrungen?**
+
+## Schritt II: Bereinigung - Verzerrungen
+
+-   Verzerrungen durch Fehler in Bezug auf Stichproben und Messungen, z.B.
+    -   z.B. durch systematisches Drop-Out [@pak_correcting_2022]
+    -   z.B. durch maschinelles Lernen für Klassifikation [@teblunthuis_misclassification_2023]
+    
+## Schritt II: Bereinigung
+
+Zentrale Entscheidungen:
+
+-   Wie klassifizieren wir Inhalte?
+-   Wie matchen & aggregieren wir Inhalte?
+-   **Wie testen wir für Verzerrungen?**
+    -   aktuell wenig adressiertes Problem in den Sozialwissenschaften
+    -   eher Quantifizierung als Adressierung
+
+## Schritt II: Bereinigung
+
+![Grafik. Beispiel eines Datenspende-Datensatzes](images/ablauf-5.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt II: Auswertung
+
+![Grafik. Beispiel eines Datenspende-Datensatzes](images/ablauf-6.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+## Schritt II: Auswertung
+
+-   deskriptive/inferenzstatistische Analysen, z.B.
+    -   um Unterschiede zwischen Befragungsdaten und digitalen Datenspuren zu verstehen [@parry_systematic_2021; @scharkow_accuracy_2016]
+    -   um sozialwissenschaftliche Konzepte zu untersuchen [@thorson_algorithmic_2021]
+
+## Zusammenfassung: Datenspenden-Studien aus Sicht der Forscher:innen 📚
+
+-   **Zusammenfassung**: Zentrale Schritte umfassen...
+
+    1.  Forschungsdesign
+    2.  Bereinigung
+    3.  Auswertung
+
+-   **Weiterführende Literatur**:
+
+    -   @van_driel_promises_2022
+
+    -   @boeschoten_privacy-preserving_2022
+
+    -   @haim_integrating_2023
+
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Fragen?** 🤔
+:::
+
+## Quellen
