@@ -36,7 +36,11 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 2)  What is digital trace data?
 
-3)  What are platform- vs. user-centric methods for accessing digital trace data?
+3)  How can we collect digital traces?
+
+## 1. Intro
+
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
 ## Who are you?
 
@@ -79,7 +83,7 @@ More info: [github.com/valeriehase](https://github.com/valeriehase) & [valerie-h
 
 ## A big thank you 🙌 to the organizers
 
-Shoutout to the organizers behind the 7th Comptext, especially
+Shoutout to the organizers behind the 7th COMPTEXT, especially
 
 -   Fabienne Lind
 -   Veronika Ebner
@@ -98,252 +102,230 @@ Shoutout to the organizers behind the 7th Comptext, especially
 ## Timetable
 
 |  |  |
-|---------------------|---------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | ⏰ 10:00--10:20 | Session 1️⃣: Welcome & Intro to Digital Traces |
 | ⏰ 10:20--11:00 | Session 2️⃣: Data Donation Studies (Participant Perspective) |
 | ⏰ 11:00--12:15 | Session 3️⃣: Data Donation Studies (Researcher Perspective) |
 | ⏰ 12:15--12:45 | Session 4️⃣: Bias in Data Donation Studies |
 | ⏰ 12:45--13:00 | Session 5️⃣: Wrap-Up |
 
-## 1. What is digital trace data?
+## 2. What is digital trace data?
 
-![Quelle: Foto von Markus Winkler auf Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
 ## 
 
 ::: {style="font-size: 200%;text-align:center;"}
-*Kennt ihr Beispiele für digitale Datenspuren?* 🤔
+*Which examples for digital trace data you know?* 🤔
 :::
 
-## Beispiel I
+## What is digital trace data?
 
-![Schumacher et al. (2023)](images/study-I.JPG){fig-alt="Journal article by Schumacher et al. (2023)" width="300"}
-
-## Beispiel II
-
-![Schützeneder & Graßl (2022)](images/study-II.JPG){fig-alt="Book by Schützeneder & Graßl (2022)" width="300"}
-
-## Beispiel III
-
-![Kravets et al. (2023)](images/study-III.JPG){fig-alt="Journal article by Kravets et al. (2023)" width="300"}
-
-## Was sind digitale Datenspuren?
-
-**Definition** 💡: *Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen*
+**Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
 ::: incremental
 -   "records of activity (trace data) undertaken through an online information system" [@howison_validity_2011, S. 2]
 
--   "individuals leave behavioural residue (unconscious traces of actions \[.\]) when they interact online" [@hinds_what_2018, S. 2]
+-   "individuals leave behavioural residue (unconscious traces of actions) when they interact online" [@hinds_what_2018, S. 2]
 :::
 
-## Was sind digitale Datenspuren?
+## What is digital trace data?
 
-**Definition** 💡: *Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen*
+**Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
 ::: incremental
--   z.B. Tweets, Likes, Shares
--   z.B. Geo-Daten (Standort teilen, Sportaktivitäten)
--   z.B. digitale Zahlungen
--   z.B. Spotify-Playlisten
+-   e.g., tweets, likes, shares on social media
+-   e.g., geo data (locations, movements)
+-   e.g., digital payments
+-   e.g., Spotify playlists
 :::
 
-## Was sind digitale Datenspuren?
+## What is digital trace data?
 
-**Definition** 💡: *Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen*
+**Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
--   z.B. Tweets, **Likes**, Shares
+-   e.g., tweets, **likes**, shares on social media
 
-**Beispiel: Instagram Like**
+**Example: Instagram Like**
 
 ![](images/instagram-1.JPG){fig-alt="Screenshot of Instagram Like" fig-align="left" width="200"}
 
-## Was sind digitale Datenspuren?
+## What is digital trace data?
 
-**Definition** 💡: **Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen**
+**Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
--   z.B. Tweets, **Likes**, Shares
+-   e.g., tweets, **likes**, shares on social media
 
-**Beispiel: Instagram Like**
+**Example: Instagram Like**
 
 ![](images/instagram-2.JPG){fig-alt="Data behind Instagram Like" fig-align="left" width="200"}
 
-## Wo lassen sich digitale Datenspuren finden?
+## Where can we find/collect digital trace data?
 
 ::: incremental
--   Social Media Plattformen (z.B. Instagram)
--   Apps (z.B. Lauf-Apps)
--   Payment-Systeme (z.B. Paypal)
--   Wearable Devices (z.B. Smart Watch)
+-   Apps (e.g., running apps)
+-   Social media platforms (e.g., Instagram)
+-   Payment systems (e.g., Paypal)
+-   Wearable devices (e.g., smart watch)
 :::
 
-## Welche Daten enthalten digitale Datenspuren?
+## Which types of data does this include?
 
-Je nach Datenzugang u.a. [@engel_digital_2021; @stollfus_computational_2023; @ohme_digital_2023]:
+Depending on the data collection method... [@stollfus_computational_2023; @ohme_digital_2024]:
 
 ::: incremental
--   digitale Nutzerprofile/Einstellungen
--   digitale Aktivitäten (Nutzung, Nachrichten, Engagement, etc.)
--   digitales Targeting (Werbung, algorithmische inferierte Interessen)
--   analoge Aktivitäten (Reisen, Schlafen, Sport)
+-   Digital user profiles/settings (e.g., privacy settings)
+-   Digital activities (e.g., usage, messages, etc.)
+-   Digital targeting (e.g., ad exposure, algorithmically inferred interests)
+-   Analog activities (e.g., travelling, sleeping, sports)
 :::
 
-## Was können wir mit digitalen Datenspuren messen?
-
--   von individuellem Verhalten zu sozialen Interaktionen
--   von digitalem zu analogem Verhalten
-
-![Quelle: Keusch & Kreuter, 2023, S. 102 - übersetzte Version](images/digital-trace-examples.jpg){fig-alt="examples of digital trace data" fig-align="left"}
-
-## Was können wir mit digitalen Datenspuren messen?
+## Which (latent) constructs can we measure?
 
 ::: incremental
--   Internet-/Smartphone-Nutzung [@scharkow_accuracy_2016; @wu-ouyang_overestimating_2022; @ohme_mobile_2021]
--   Nachrichten-Nutzung [@thorson_algorithmic_2021; @reiss_dissecting_2022]
--   Prozesse öffentlicher Meinungsbildung [@yan_is_2022; @jurgens_mapping_2022]
+-   Internet usage [@parry_etal2021] related to ...
+    -   well-being [@ohme_digital_2024]
+    -   voting [@bach_etal2021]
+-   News usage [@reiss_2023] related to ...
+    -   news diversity [@juergens_etal2022]
+    -   public opinion formation [@yan_etal2022]
+-   Movements related to ...
+    -   Mobility during pandemics [@li_etal2021]
+    -   Social networks [@sepulvado_etal2022]
 :::
 
-## Warum werden digitale Datenspuren populärer?
+## Why are digital traces becoming more populary?
 
--   Probleme bei Selbstauskünften, z. B. bei Umfragen
--   Verfügbarkeit
+-   Problems with self-reported data (e.g., via survey)
 
-## Warum werden digitale Datenspuren populärer?
+“How many minutes a day do you use the internet to consume news?”
 
--   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
--   Verfügbarkeit
-
-## Warum werden digitale Datenspuren populärer?
-
--   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
-
-„Wie viele Minuten am Tag nutzen Sie das Internet, um Nachrichten zu konsumieren?"
-
-![Quelle: Foto von Scott Graham auf Unsplash](images/survey.jpg){fig-alt="image of human filling out survey" fig-align="left" width="300"}
+![Source: Image by Scott Graham via Unsplash](images/survey.jpg){fig-alt="image of human filling out survey" fig-align="left" width="300"}
 
 ::: incremental
--   „Internet"?
--   „Nachrichten"?
--   „wie viele Minuten"?
+-   „internet"?
+-   „news"?
+-   „how many minutes"?
 :::
 
-## Warum werden digitale Datenspuren populärer?
+## Why are digital traces becoming more popular?
 
--   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
-    -   Selbstauskünfte wenig akkurat bzw. verzerrt: Datenspuren versprechen genauere Messungen [@scharkow_accuracy_2016; @wu-ouyang_overestimating_2022; @parry_systematic_2021]
-    -   sinkende Teilnahmebereitschaft bei Unfragen [@luiten_survey_2020]
+-   **Problems with self-reported data (e.g., via survey)**
+    -   Self-reported data may be subject to specific bias [@scharkow_accuracy_2016; @parry_etal2021]
+    -   Response rates in surveys are declining [@luiten_survey_2020]
 
-## Warum werden digitale Datenspuren populärer?
+## Why are digital traces becoming more popular?
 
--   Probleme bei Selbstauskünften, z. B. bei Umfragen
--   **Verfügbarkeit**
-    -   kostengünstig (z. B. APIs)
-    -   grosse Menge an Daten ("Big Data")
+-   **Problems with self-reported data (e.g., via survey)**
+-   **Availabillity**
+    -   cheap (e.g., via APIs)
+    -   large data sets ("big data")
 
-## Warum werden digitale Datenspuren populärer?
+## Why are digital traces becoming more popular?
 
--   Probleme bei Selbstauskünften, z. B. bei Umfragen
--   Verfügbarkeit
+-   Problems with self-reported data (e.g., via survey)
+-   Availabillity
 
-**Aber**: nicht alle dieser Punkte treffen tatsächlich zu bzw. sind vorteilhaft
+**Be careful**: These "advantages" are often claimed, but **not** empirically proven.
 
-## Vor- und Nachteile digitaler Datenspuren
+Digital traces are neither necessarily less biased, nor cheaper, or larger (we will discuss this in Session 4️⃣ & 5️⃣).
+
+## (Dis-)advantages of digital trace data
 
 ::: incremental
--   ✅ akkuratere Messungen durch Zeitstempel
--   ✅ z.T. Messung neuer Variablen (z.B. zu algorithmischer Inferenz)
--   ❌ weiterhin Verzerrungen durch Stichproben- und Messfehler
--   ❌ unklare theoretische Rückbindung
--   ❌ z.T. hohe Kosten für Implementierung
--   ❌ mehr Daten heisst nicht bessere Daten!
+-   ✅ More fine-grained measures due to timestamps
+-   ✅ Partly measurement of new variables (e.g., algorithmic inference)
+-   ❌ Bias due to errors in representation and measurement
+-   ❌ Implementation can be expensive
+-   ❌ More data does not mean better data!
 :::
 
-## Zusammenfassung: Digitale Datenspuren 📚
+## Summary: What is digital trace data? 📚
 
--   **Definition**: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen (z.B. Nutzung, Engagement mit Inhalten), die Rückschlusse auf digitale wie analoge Phänomene ermöglichen
+-   **Definition**: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
--   **Weiterführende Literatur**:
+-   **Further literature**
 
     -   @engel_digital_2021
 
     -   @stollfus_computational_2023
 
-    -   @ohme_digital_2023
+    -   @ohme_digital_2024
 
-## 2. Mit welchen Methoden kann ich auf digitale Datenspuren zugreifen?
+## 3. How can we collect digital traces?
 
-![Quelle: Foto von Markus Winkler auf Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){alt="Source: Image by Markus Winkler via Unsplash" fig-alt="image of lupe" fig-align="left" width="300"}
 
 ## 
 
 ::: {style="font-size: 200%;text-align:center;"}
-*Welche methodischen Zugänge kennt ihr, um digitale Datenspuren zu sammeln?* 🤔
+Which methods do you know/have you used for collecting digital trace data*?* 🤔
 :::
 
-## Methodische Zugänge
+## Platform- and user-centric methods
 
 ::: incremental
--   API [@engel_brief_2021]
--   Datenspenden [@van_driel_promises_2022]
--   Kooperationen mit Plattformen [@wagner_independence_2023]
--   Scraping [@mitchell_web_2018]
--   Tracking [@christner_automated_2022]
+-   **Platform-centric** (based on platform cooperation)
+    -   API [@engel_brief_2021]
+    -   Cooperation with platforms [@wagner_etal2023]
+-   **User-centric** (based on user cooperation and informed consent)
+    -   Data donation [@carriere_etal2024]
+    -   Linkage [@sloan_etal2020]
+    -   Sensors [@struminskaya_etal2021]
+    -   Tracking [@christner_etal2022]
 :::
 
-## Methodische Zugänge
+## Platform- and user-centric methods
 
-![Methodische Zugänge im Vergleich, eigene Darstellung](images/methoden-vergleich.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+<div>
 
-## Technische Veränderungen
+-   Restriction of platform-centric methods
+    -   Discontinuation of APIs [@freelon_2018]
+    -   Concern about bias [@schatto-eckrodt_2022; @ulloa_etal2025]
+-   User-centric methods become more popular, given ...
+    -   Changes in law (GDPR, DSA)
+    -   Ethical considerations (informed consent)
+
+</div>
+
+## Changes in legal contexts
 
 ::: incremental
--   Einschränkung **plattformseitiger** Zugänge zu Daten
-    -   Einstellung zahlreicher APIs [@freelon_computational_2018; @bruns_after_2019]
-    -   Sorge über Verzerrung bei Zugang über APIs/Scraping [@ho_how_2020; @schatto-eckrodt_hidden_2022; @buehling_message_2023]
-    -   Kooperationen mit Plattformen sehr eingeschränkt möglich [@wagner_independence_2023]
--   Aufkommen **nutzerseitiger** Zugänge
-    -   Datenspende
-    -   Tracking
+-   EU secures right to own data in Art. 15 of the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/))
+    -   “The data subject shall have \[...\] access to the personal data” (§ Art. 15, 1)
+    -   “The controller shall provide a copy of the personal data” (§ Art. 15, 3)
+-   According to § Art. 20, users must receive their data "in a structured, commonly used and machine-readable format" (§ Art. 20, 1)
 :::
 
-## Rechtliche Veränderungen
+## Changes in legal contexts
 
-::: incremental
--   EU verankert **Recht auf eigene Daten** in Art. 15 Datenschutz-Grundverordnung, kurz [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679)
-    -   "Die betroffene Person hat [...] ein Recht auf Auskunft über diese personenbezogenen Daten" (Art. 15 (1)
-    -   "Der Verantwortliche stellt eine Kopie der personenbezogenen Daten [...] zur Verfügung" (Art. 15 (3))
--   Nutzer:innen müssen laut Art. 20 **Daten übermitteln** können: "Die betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten [...] in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten" (Art. 20 (1))
-:::
+-   EU secures right to own data in Art. 15 of the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/))
+    -   “The data subject shall have \[...\] access to the personal data” (§ Art. 15, 1)
+    -   “The controller shall provide a copy of the personal data” (§ Art. 15, 3)
+-   According to § Art. 20, users must receive their data "in a structured, commonly used and machine-readable format" (§ Art. 20, 1)
 
-## Rechtliche Veränderungen
+👉 **Solution:** Platforms offer data download packages (DDPs), which users can request and download to inspect data.
 
--   EU verankert **Recht auf eigene Daten** in Art. 15 Datenschutz-Grundverordnung, kurz [DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679)
-    -   "Die betroffene Person hat [...] ein Recht auf Auskunft über diese personenbezogenen Daten" (Art. 15 (1)
-    -   "Der Verantwortliche stellt eine Kopie der personenbezogenen Daten [...] zur Verfügung" (Art. 15 (3))
--   Nutzer:innen müssen laut Art. 20 **Daten übermitteln** können: "Die betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten [...] in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten" (Art. 20 (1))
+👉 **Consequence**: Researchers uses DDPs as part of user-centric data donation studies.
 
-👉 **Lösung**: Plattformen bieten **Daten-Pakete** (DDPs) an, die Informationen über Nutzer:innen enthalten und von diesen heruntergeladen werden können.
+## Summary: How can we collect digital traces? 📚
 
-👉 **Konsequenz**: Die Wissenschaft nutzt diese DDPs im Rahmen von **Datenspende-Studien**.
+-   **Summary**
 
-## Zusammenfassung: Datenzugänge 📚
+    -   Central methods including platform-centric methods (e.g., APIs) and user-centric methods (e.g., data donation)
 
--   **Zusammenfassung**: 
+    -   Key differences: control over samples & measurements, legal & ethical contexts
 
-    -   zentrale Methoden u.a. APIs, Datenspenden, Kooperationen mit Plattformen, Scraping, Tracking
-
-    -   zentrale Unterschiede: Kontrolle über Stichproben & Messungen durch Plattformen, Forschung (& Nutzer:innen); rechtlicher Rahmen
-
--   **Weiterführende Literatur**:
+-   **Further literature**
 
     -   @stollfus_computational_2023
 
-    -   @ohme_digital_2023
+    -   @ohme_digital_2024
 
 ## 
 
 ::: {style="font-size: 400%;text-align:center;"}
-**Fragen?** 🤔
+**Questions?** 🤔
 :::
 
-## Quellen
+## References

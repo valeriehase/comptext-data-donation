@@ -28,7 +28,7 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 ## **Timetable**
 
 |  |  |
-|----|----|
+|-----------------|----------------------------------------------------|
 | ⏰ 10:00--10:20 | Session 1️⃣: Welcome & Intro to Digital Traces |
 | ⏰ 10:20--11:00 | Session 2️⃣: Data Donation Studies (Participant Perspective) |
 | ⏰ 11:00--12:15 | Session 3️⃣: Data Donation Studies (Researcher Perspective) |
@@ -39,8 +39,8 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 
 **Session 1️⃣: Welcome & Intro to Digital Traces**
 
--   [Slides - HTML](docs/01-begrüssung.html)
--   [Slides - PDF](pdf/01-begrüssung.pdf)
+-   [Slide](docs/01-begrüssung.html)[s](docs/01-intro.html)[- HTML](01-intro.html)
+-   [Slides - PDF](pdf/01-intro.pdf)
 
 **Session 2️⃣: Data Donation Studies (Participant Perspective)**
 
