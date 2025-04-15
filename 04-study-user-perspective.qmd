@@ -1,0 +1,136 @@
+---
+format:
+  revealjs:
+    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
+    footer: "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    highlight-style: atom-one
+    preview-links: auto
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+---
+
+<h1>Digitale Datenspuren nutzbar machen</h1>
+
+<h3>Datenspenden als Methode der Kommunikationswissenschaft</h3>
+
+<hr>
+
+Sitzung 4️⃣: Datenspende-Studien aus Sicht der Nutzer:innen
+
+Valerie Hase (Ludwig-Maximilians-Universität München)
+
+👉 [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
+
+## 1) Wie laufen Datenspende-Studien aus Sicht der Nutzer:innen ab?
+
+![Quelle: Foto von Markus Winkler auf Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+
+## Ablauf - Perspektive der Nutzer:innen
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-3.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt I: Anfrage
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-1.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt I: Anfrage
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-1a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt I: Anfrage
+
+Anfragen unterschiedlich stark standardisiert [@hase_fulfilling_2023], s. Beispiele [hier für Facebook](https://valeriehase.github.io/data-donation/pdf/04-anleitung-facebook.pdf) und [hier für Instagram](https://valeriehase.github.io/data-donation/pdf/04-anleitung-instagram.pdf):
+
+::: incremental
+-   Verifikation bei Anfrage
+-   Spezifizierung der Daten (Metrik, Dauer)
+-   Benachrichtigung bei Bereitstellung DDP (E-Mail, Plattform)
+-   Dauer Bereitstellung DDP (z.T. wenige Tage)
+:::
+
+## Schritt II: Download
+
+![Grafik. Ablauf einer Datenspende-Studie](images/ablauf-2.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt II: Download
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-2a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+*Bitte schaut - gerne in Gruppen von 2-3 Personen - in eure DDPs: Welche möglichen "Variablen" könnt ihr identifizieren?* 🤔
+:::
+
+## Schritt II: Download
+
+DDPs unterschiedlich stark standardisiert [@hase_fulfilling_2023]:
+
+::: incremental
+-   Umfang & Vollständigkeit der bereitgestellten Daten (Variablen, zeitliche Dauer)
+-   Benennung & Messung von Variablen
+-   kann zu Messfehlern führen!
+:::
+
+## Schritt III: Datenspende
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-3.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt III: Datenspende
+
+![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-3a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Schritt III: Datenspende
+
+👉 Beispiel-Demonstration mit Pycharm & DDT *OSD2F* (lokal, nicht auf Server): [Anleitung lokale Version von OSD2F](data/Demo DDT.zip)
+
+-   Wir schauen uns (lokal laufendes) Beispiel eines DDTs an [@araujo_osd2f_2022; @haim_integrating_2023]
+-   Beispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung von Dateien bzw. Anonymisierung durch (weiteres) Whitelisting
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+*Was glaubt ihr, welche Schwierigkeiten ergeben sich für Nutzer:innen, die an Datenspende-Studien teilnehmen wollen?* 🤔
+:::
+
+## Schwierigkeiten für Nutzer:innen
+
+Bei Datenspende-Studien ähnlich wie bei Tracking-Studien [@keusch_willingness_2019; @silber_linking_2022; @silber_preregistered_2022;@gil-lopez_not_2023]:
+
+::: incremental
+-   Technische Herausforderungen/Skills
+-   Privatsphäre-Bedenken bzgl. bestimmter Datentypen und Plattformen
+-   Aufwand
+:::
+
+## Zusammenfassung: Datenspenden-Studien aus Sicht der Nutzer:innen 📚
+
+-   **Zusammenfassung**: Zentrale Schritte umfassen...
+
+    1.  Anfrage von Daten
+    2.  Download von Daten
+    3.  Datenspende
+
+-   **Weiterführende Literatur**:
+
+    -   @van_driel_promises_2022
+
+    -   @boeschoten_privacy-preserving_2022
+
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Fragen?** 🤔
+:::
+
+## Quellen
