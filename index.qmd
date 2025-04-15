@@ -7,7 +7,7 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 
 <hr>
 
-## Information about the workshop
+## About the workshop
 
 -   Method Workshop as part of the 7th [COMPTEXT](https://www.comptextconference.org/)
 
