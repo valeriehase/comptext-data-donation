@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Economica&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono:400,700);
+
+// fonts
+$font-family-sans-serif: "Economica", sans-serif !default;
+$font-family-serif: "Economica", serif !default;
+$font-family-monospace: "Fira Mono", monospace !default;
+
+// colors
+$body-bg: #fff !default;
+$body-color: #000 !default;
+$link-color: #00893B !default;
+$code-block-bg: #f2f2f2;
+$code-block-font-size: 0.4em;
+
+/*-- scss:rules --*/
+
+h1 {
+  font-family: "Economica";
+}
