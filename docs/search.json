@@ -1,0 +1,884 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digitale Datenspuren nutzbar machen",
+    "section": "",
+    "text": "Quelle: Foto von Sara Kurfeß auf Unsplash"
+  },
+  {
+    "objectID": "index.html#infos-zum-workshop",
+    "href": "index.html#infos-zum-workshop",
+    "title": "Digitale Datenspuren nutzbar machen",
+    "section": "Infos zum Workshop",
+    "text": "Infos zum Workshop\n\nMethodenworkshop als Teil der Jahrestagung der Fachgruppen Wissenschaftskommunikation und Journalistik/Journalismusforschung der DGPuK 2023. s. Call for Participants\n📅 20. September 2023, 11:00 - 13:30 Uhr\nWorkshop-Leitung: Valerie Hase (Ludwig-Maximilians-Universität München). Mehr Infos: github.com/valeriehase & valerie-hase.com\nOrganisation: Mittelbaunetzwerk Journalismusforschung & Mittelbaunetzwerk Wissenschaftskommunikation"
+  },
+  {
+    "objectID": "index.html#materialien",
+    "href": "index.html#materialien",
+    "title": "Digitale Datenspuren nutzbar machen",
+    "section": "Materialien",
+    "text": "Materialien\nSitzung 1️⃣: Begrüßung\n\nFolien - HTML\nFolien - PDF\n\nSitzung 2️⃣: Einführung: digitale Datenspuren\n\nFolien - HTML\nFolien - PDF\n\nSitzung 3️⃣: Einführung: Datenspenden\n\nFolien - HTML\nFolien - PDF\n\nSitzung 4️⃣: Datenspende-Studien aus Sicht von Nutzer:innen\n\nFolien - HTML\nFolien - PDF\nBeispiel - lokale Version von OSD2F\nAnleitung Download Daten - Facebook\nAnleitung Download Daten - Instagram\n\nSitzung 5️⃣: Datenspende-Studien aus Sicht von Forscher:innen\n\nFolien - HTML\nFolien - PDF\n\nSitzung 6️⃣: Wrap-Up\n\nFolien - HTML\nFolien - PDF"
+  },
+  {
+    "objectID": "index.html#weiterführende-tutorials",
+    "href": "index.html#weiterführende-tutorials",
+    "title": "Digitale Datenspuren nutzbar machen",
+    "section": "Weiterführende Tutorials",
+    "text": "Weiterführende Tutorials\n\nBail, C. A. (2020, Mai 29). What is Digital Trace Data? Link\n\nHase, V. (2023, Juli). Data Donations—Tutorial Automated Content Analysis. Link\n\nLorenz-Spleen, P., & Jaursch, J. (2023, August). Researcher access to platform data under the DSA: Questions and answers. Link"
+  },
+  {
+    "objectID": "index.html#weiterführende-literatur",
+    "href": "index.html#weiterführende-literatur",
+    "title": "Digitale Datenspuren nutzbar machen",
+    "section": "Weiterführende Literatur",
+    "text": "Weiterführende Literatur\n\nBoeschoten, L., Ausloos, J., Möller, J. E., Araujo, T., & Oberski, D. L. (2022). A framework for privacy preserving digital trace data collection through data donation. Computational Communication Research, 4(2), 388–423. Link\n\nBreuer, J., Kmetty, Z., Haim, M., & Stier, S. (2022). User-centric approaches for collecting Facebook data in the ‘post-API age’: Experiences from two studies and recommendations for future research. Information, Communication & Society. Online first publication. Link\n\nHaim, M. & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Hrsg.), Handbuch Digitale Medien und Methoden. Springer. Link\n\nHaim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. Medien & Kommunikationswissenschaft, 71(1–2), 130–137. Link\n\nKeusch, F., & Kreuter, F. (2021). Digital trace data. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg, Handbook of Computational Social Science, Volume 1 (1. Aufl., S. 100–118). Routledge. Link\n\nLazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful measures of human society in the twenty-first century. Nature, 595(7866), 189–196. Link\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2023). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures. Online first publication. Link\n\nOtto, L. P., Loecherbach, F., & Vliegenthart, R. (2023). Linkage Analysis Revised – Linking Digital Traces and Survey Data. Communication Methods and Measures. Online first publication. https://doi.org/10.1080/19312458.2023.2257595\n\nStier, S., Breuer, J., Siegers, P., & Thorson, K. (2020). Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field. Social Science Computer Review, 38(5), 503–516. Link\n\nvan Driel, I. I., Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures. Online first publication. Link"
+  },
+  {
+    "objectID": "06-wrap-up.html",
+    "href": "06-wrap-up.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung 6️⃣: Wrap-Up\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "06-wrap-up.html#wo-werden-sich-datenspende-studien-hinentwickeln",
+    "href": "06-wrap-up.html#wo-werden-sich-datenspende-studien-hinentwickeln",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "1) Wo werden sich Datenspende-Studien hinentwickeln?",
+    "text": "1) Wo werden sich Datenspende-Studien hinentwickeln?\n\n\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-i-neue-datentypen",
+    "href": "06-wrap-up.html#zukunftsperspektive-i-neue-datentypen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zukunftsperspektive I: Neue Datentypen",
+    "text": "Zukunftsperspektive I: Neue Datentypen\n\nNeue Plattformen 👩‍💻 (z.B. TikTok)\nMultimodale Daten 📸\n\naber damit auch neue Herausforderungen, u.a. …\n\n\nWie können wir Fotos, Videos oder Audiodateien anonymisieren?\nWie können wir DDPs “plattformagnostisch” anfragen und DDTs “platformagnostisch” bauen?"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-rund-um-den-dsa",
+    "href": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-rund-um-den-dsa",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zukunftsperspektive II: Politische Debatten rund um den DSA",
+    "text": "Zukunftsperspektive II: Politische Debatten rund um den DSA\n\nAnstehende Implementierung des Digital Services Act (Hase et al., 2023)\nDruck auf Plattformen, Daten in Einklang mit bestehendem Recht bereitzustellen\n\naber damit auch neue Herausforderungen, u.a. …\n\n\nWer prüft und sanktioniert, ob Plattformen ihrer Pflicht, Daten bereitzustellen, nachkommen?\nWelche Daten wollen und brauchen wir aus sozialwissenschaftlicer Perspektive überhaupt?"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-iii-kritische-perspektive-auf-empirische-anwendung",
+    "href": "06-wrap-up.html#zukunftsperspektive-iii-kritische-perspektive-auf-empirische-anwendung",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zukunftsperspektive III: Kritische Perspektive auf empirische Anwendung",
+    "text": "Zukunftsperspektive III: Kritische Perspektive auf empirische Anwendung\n\n\naktuell Datenspenden mehr methodisches “Spielfeld” (z.B. im Hinblick auf DDTs, Bias)\nhier braucht es interdisziplinäre Perspektiven auf…\n\nStrategien gegen Verzerrungen (z.B. statistische Methoden, Verankerung in probabilistischen Panels)\nForschungsinfrastrukturen (Strippel et al., 2023)\n\ndarüber hinaus: 👉 Relevanz der Methode wird sich an ihrem empirischen Beitrag zur Beantwortung substanzieller sozial- bzw. kommunikationswissenschaftlicher Fragen messen lassen müssen"
+  },
+  {
+    "objectID": "06-wrap-up.html#zusammenfassung-datenspenden-studien",
+    "href": "06-wrap-up.html#zusammenfassung-datenspenden-studien",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zusammenfassung: Datenspenden-Studien 📚",
+    "text": "Zusammenfassung: Datenspenden-Studien 📚\n\n✅ akkuratere Messungen durch Zeitstempel\n✅ z.T. Messung neuer Variablen (z.B. zu algorithmischer Inferenz)\n✅ zusätzliche Datenquellen neben APIs, Tracking, etc.\n❌ weiterhin Verzerrungen durch Stichproben- und Messfehler\n❌ unklare theoretische Rückbindung\n❌ (bisher) fehlende Umsetzung für substanzielle theoretische Fragen"
+  },
+  {
+    "objectID": "06-wrap-up.html#section",
+    "href": "06-wrap-up.html#section",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "06-wrap-up.html#euer-feedback",
+    "href": "06-wrap-up.html#euer-feedback",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Euer Feedback 🙃",
+    "text": "Euer Feedback 🙃\n\n1 Satz, was euch gut gefallen hat/im Workshop weiterbehalten werden soll\n1 Satz, was euch nicht gut gefallen hat/im Workshop verändert werden soll"
+  },
+  {
+    "objectID": "06-wrap-up.html#section-1",
+    "href": "06-wrap-up.html#section-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Danke 🙌"
+  },
+  {
+    "objectID": "04-study-user-perspective.html",
+    "href": "04-study-user-perspective.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung 4️⃣: Datenspende-Studien aus Sicht der Nutzer:innen\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#wie-laufen-datenspende-studien-aus-sicht-der-nutzerinnen-ab",
+    "href": "04-study-user-perspective.html#wie-laufen-datenspende-studien-aus-sicht-der-nutzerinnen-ab",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "1) Wie laufen Datenspende-Studien aus Sicht der Nutzer:innen ab?",
+    "text": "1) Wie laufen Datenspende-Studien aus Sicht der Nutzer:innen ab?\n\n\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#ablauf---perspektive-der-nutzerinnen",
+    "href": "04-study-user-perspective.html#ablauf---perspektive-der-nutzerinnen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Ablauf - Perspektive der Nutzer:innen",
+    "text": "Ablauf - Perspektive der Nutzer:innen\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-i-anfrage",
+    "href": "04-study-user-perspective.html#schritt-i-anfrage",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Anfrage",
+    "text": "Schritt I: Anfrage\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-i-anfrage-1",
+    "href": "04-study-user-perspective.html#schritt-i-anfrage-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Anfrage",
+    "text": "Schritt I: Anfrage\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-i-anfrage-2",
+    "href": "04-study-user-perspective.html#schritt-i-anfrage-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Anfrage",
+    "text": "Schritt I: Anfrage\nAnfragen unterschiedlich stark standardisiert (Hase et al., 2023), s. Beispiele hier für Facebook und hier für Instagram:\n\n\nVerifikation bei Anfrage\nSpezifizierung der Daten (Metrik, Dauer)\nBenachrichtigung bei Bereitstellung DDP (E-Mail, Plattform)\nDauer Bereitstellung DDP (z.T. wenige Tage)"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-ii-download",
+    "href": "04-study-user-perspective.html#schritt-ii-download",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Download",
+    "text": "Schritt II: Download\n\n\n\nGrafik. Ablauf einer Datenspende-Studie"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-ii-download-1",
+    "href": "04-study-user-perspective.html#schritt-ii-download-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Download",
+    "text": "Schritt II: Download\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#section",
+    "href": "04-study-user-perspective.html#section",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Bitte schaut - gerne in Gruppen von 2-3 Personen - in eure DDPs: Welche möglichen “Variablen” könnt ihr identifizieren? 🤔"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-ii-download-2",
+    "href": "04-study-user-perspective.html#schritt-ii-download-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Download",
+    "text": "Schritt II: Download\nDDPs unterschiedlich stark standardisiert (Hase et al., 2023):\n\n\nUmfang & Vollständigkeit der bereitgestellten Daten (Variablen, zeitliche Dauer)\nBenennung & Messung von Variablen\nkann zu Messfehlern führen!"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-iii-datenspende",
+    "href": "04-study-user-perspective.html#schritt-iii-datenspende",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt III: Datenspende",
+    "text": "Schritt III: Datenspende\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-iii-datenspende-1",
+    "href": "04-study-user-perspective.html#schritt-iii-datenspende-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt III: Datenspende",
+    "text": "Schritt III: Datenspende\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schritt-iii-datenspende-2",
+    "href": "04-study-user-perspective.html#schritt-iii-datenspende-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt III: Datenspende",
+    "text": "Schritt III: Datenspende\n👉 Beispiel-Demonstration mit Pycharm & DDT OSD2F (lokal, nicht auf Server): Anleitung lokale Version von OSD2F\n\nWir schauen uns (lokal laufendes) Beispiel eines DDTs an (Araujo et al., 2022; Haim et al., 2023)\nBeispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung von Dateien bzw. Anonymisierung durch (weiteres) Whitelisting"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#section-1",
+    "href": "04-study-user-perspective.html#section-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Was glaubt ihr, welche Schwierigkeiten ergeben sich für Nutzer:innen, die an Datenspende-Studien teilnehmen wollen? 🤔"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#schwierigkeiten-für-nutzerinnen",
+    "href": "04-study-user-perspective.html#schwierigkeiten-für-nutzerinnen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schwierigkeiten für Nutzer:innen",
+    "text": "Schwierigkeiten für Nutzer:innen\nBei Datenspende-Studien ähnlich wie bei Tracking-Studien (Gil-López et al., 2023; Keusch et al., 2019; Silber, Breuer, et al., 2022; Silber, Gerdon, et al., 2022):\n\n\nTechnische Herausforderungen/Skills\nPrivatsphäre-Bedenken bzgl. bestimmter Datentypen und Plattformen\nAufwand"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#zusammenfassung-datenspenden-studien-aus-sicht-der-nutzerinnen",
+    "href": "04-study-user-perspective.html#zusammenfassung-datenspenden-studien-aus-sicht-der-nutzerinnen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zusammenfassung: Datenspenden-Studien aus Sicht der Nutzer:innen 📚",
+    "text": "Zusammenfassung: Datenspenden-Studien aus Sicht der Nutzer:innen 📚\n\nZusammenfassung: Zentrale Schritte umfassen…\n\nAnfrage von Daten\nDownload von Daten\nDatenspende\n\nWeiterführende Literatur:\n\nDriel et al. (2022)\nBoeschoten et al. (2022)"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#section-2",
+    "href": "04-study-user-perspective.html#section-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html",
+    "href": "02-einführung-datenspuren.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung 2️⃣: Einführung: digitale Datenspuren\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#agenda",
+    "href": "02-einführung-datenspuren.html#agenda",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Agenda",
+    "text": "Agenda\n\nWas sind digitale Datenspuren?\nMit welchen Methoden kann ich auf digitale Datenspuren zugreifen?"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "1. Was sind digitale Datenspuren?",
+    "text": "1. Was sind digitale Datenspuren?\n\n\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section",
+    "href": "02-einführung-datenspuren.html#section",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Kennt ihr Beispiele für digitale Datenspuren? 🤔"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#beispiel-i",
+    "href": "02-einführung-datenspuren.html#beispiel-i",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Beispiel I",
+    "text": "Beispiel I\n\n\n\nSchumacher et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#beispiel-ii",
+    "href": "02-einführung-datenspuren.html#beispiel-ii",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Beispiel II",
+    "text": "Beispiel II\n\n\n\nSchützeneder & Graßl (2022)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#beispiel-iii",
+    "href": "02-einführung-datenspuren.html#beispiel-iii",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Beispiel III",
+    "text": "Beispiel III\n\n\n\nKravets et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-1",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen\n\n\n“records of activity (trace data) undertaken through an online information system” (Howison et al., 2011, S. 2)\n“individuals leave behavioural residue (unconscious traces of actions [.]) when they interact online” (Hinds & Joinson, 2018, S. 2)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-2",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen\n\n\nz.B. Tweets, Likes, Shares\nz.B. Geo-Daten (Standort teilen, Sportaktivitäten)\nz.B. digitale Zahlungen\nz.B. Spotify-Playlisten"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-3",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-3",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen\n\nz.B. Tweets, Likes, Shares\n\nBeispiel: Instagram Like"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-4",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-4",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen\n\nz.B. Tweets, Likes, Shares\n\nBeispiel: Instagram Like"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#wo-lassen-sich-digitale-datenspuren-finden",
+    "href": "02-einführung-datenspuren.html#wo-lassen-sich-digitale-datenspuren-finden",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Wo lassen sich digitale Datenspuren finden?",
+    "text": "Wo lassen sich digitale Datenspuren finden?\n\n\nSocial Media Plattformen (z.B. Instagram)\nApps (z.B. Lauf-Apps)\nPayment-Systeme (z.B. Paypal)\nWearable Devices (z.B. Smart Watch)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#welche-daten-enthalten-digitale-datenspuren",
+    "href": "02-einführung-datenspuren.html#welche-daten-enthalten-digitale-datenspuren",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Welche Daten enthalten digitale Datenspuren?",
+    "text": "Welche Daten enthalten digitale Datenspuren?\nJe nach Datenzugang u.a. (Haim & Hase, 2023; Keusch & Kreuter, 2021; Ohme et al., 2023):\n\n\ndigitale Nutzerprofile/Einstellungen\ndigitale Aktivitäten (Nutzung, Nachrichten, Engagement, etc.)\ndigitales Targeting (Werbung, algorithmische inferierte Interessen)\nanaloge Aktivitäten (Reisen, Schlafen, Sport)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen",
+    "href": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was können wir mit digitalen Datenspuren messen?",
+    "text": "Was können wir mit digitalen Datenspuren messen?\n\nvon individuellem Verhalten zu sozialen Interaktionen\nvon digitalem zu analogem Verhalten\n\n\n\n\nQuelle: Keusch & Kreuter, 2023, S. 102 - übersetzte Version"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen-1",
+    "href": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was können wir mit digitalen Datenspuren messen?",
+    "text": "Was können wir mit digitalen Datenspuren messen?\n\n\nInternet-/Smartphone-Nutzung (Ohme et al., 2021; Scharkow, 2016; Wu-Ouyang & Chan, 2022)\nNachrichten-Nutzung (Reiss, 2022; Thorson et al., 2021)\nProzesse öffentlicher Meinungsbildung (Jürgens & Stark, 2022; Yan et al., 2022)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Warum werden digitale Datenspuren populärer?",
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-1",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Warum werden digitale Datenspuren populärer?",
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-2",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Warum werden digitale Datenspuren populärer?",
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\n\n„Wie viele Minuten am Tag nutzen Sie das Internet, um Nachrichten zu konsumieren?”\n\n\n\nQuelle: Foto von Scott Graham auf Unsplash\n\n\n\n\n„Internet”?\n„Nachrichten”?\n„wie viele Minuten”?"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-3",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-3",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Warum werden digitale Datenspuren populärer?",
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\n\nSelbstauskünfte wenig akkurat bzw. verzerrt: Datenspuren versprechen genauere Messungen (Parry et al., 2021; Scharkow, 2016; Wu-Ouyang & Chan, 2022)\nsinkende Teilnahmebereitschaft bei Unfragen (Luiten et al., 2020)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-4",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-4",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Warum werden digitale Datenspuren populärer?",
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit\n\nkostengünstig (z. B. APIs)\ngrosse Menge an Daten (“Big Data”)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-5",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-5",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Warum werden digitale Datenspuren populärer?",
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit\n\nAber: nicht alle dieser Punkte treffen tatsächlich zu bzw. sind vorteilhaft"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#vor--und-nachteile-digitaler-datenspuren",
+    "href": "02-einführung-datenspuren.html#vor--und-nachteile-digitaler-datenspuren",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Vor- und Nachteile digitaler Datenspuren",
+    "text": "Vor- und Nachteile digitaler Datenspuren\n\n\n✅ akkuratere Messungen durch Zeitstempel\n✅ z.T. Messung neuer Variablen (z.B. zu algorithmischer Inferenz)\n❌ weiterhin Verzerrungen durch Stichproben- und Messfehler\n❌ unklare theoretische Rückbindung\n❌ z.T. hohe Kosten für Implementierung\n❌ mehr Daten heisst nicht bessere Daten!"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#zusammenfassung-digitale-datenspuren",
+    "href": "02-einführung-datenspuren.html#zusammenfassung-digitale-datenspuren",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zusammenfassung: Digitale Datenspuren 📚",
+    "text": "Zusammenfassung: Digitale Datenspuren 📚\n\nDefinition: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen (z.B. Nutzung, Engagement mit Inhalten), die Rückschlusse auf digitale wie analoge Phänomene ermöglichen\nWeiterführende Literatur:\n\nKeusch & Kreuter (2021)\nHaim & Hase (2023)\nOhme et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#mit-welchen-methoden-kann-ich-auf-digitale-datenspuren-zugreifen",
+    "href": "02-einführung-datenspuren.html#mit-welchen-methoden-kann-ich-auf-digitale-datenspuren-zugreifen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "2. Mit welchen Methoden kann ich auf digitale Datenspuren zugreifen?",
+    "text": "2. Mit welchen Methoden kann ich auf digitale Datenspuren zugreifen?\n\n\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section-1",
+    "href": "02-einführung-datenspuren.html#section-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Welche methodischen Zugänge kennt ihr, um digitale Datenspuren zu sammeln? 🤔"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#methodische-zugänge",
+    "href": "02-einführung-datenspuren.html#methodische-zugänge",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Methodische Zugänge",
+    "text": "Methodische Zugänge\n\n\nAPI (Jünger, 2021)\nDatenspenden (Driel et al., 2022)\nKooperationen mit Plattformen (Wagner, 2023)\nScraping (Mitchell, 2018)\nTracking (Christner et al., 2022)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#methodische-zugänge-1",
+    "href": "02-einführung-datenspuren.html#methodische-zugänge-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Methodische Zugänge",
+    "text": "Methodische Zugänge\n\n\n\nMethodische Zugänge im Vergleich, eigene Darstellung"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#technische-veränderungen",
+    "href": "02-einführung-datenspuren.html#technische-veränderungen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Technische Veränderungen",
+    "text": "Technische Veränderungen\n\n\nEinschränkung plattformseitiger Zugänge zu Daten\n\nEinstellung zahlreicher APIs (Bruns, 2019; Freelon, 2018)\nSorge über Verzerrung bei Zugang über APIs/Scraping (Buehling, 2023; Ho, 2020; Schatto-Eckrodt, 2022)\nKooperationen mit Plattformen sehr eingeschränkt möglich (Wagner, 2023)\n\nAufkommen nutzerseitiger Zugänge\n\nDatenspende\nTracking"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#rechtliche-veränderungen",
+    "href": "02-einführung-datenspuren.html#rechtliche-veränderungen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Rechtliche Veränderungen",
+    "text": "Rechtliche Veränderungen\n\n\nEU verankert Recht auf eigene Daten in Art. 15 Datenschutz-Grundverordnung, kurz DSGVO\n\n“Die betroffene Person hat […] ein Recht auf Auskunft über diese personenbezogenen Daten” (Art. 15 (1)\n“Der Verantwortliche stellt eine Kopie der personenbezogenen Daten […] zur Verfügung” (Art. 15 (3))\n\nNutzer:innen müssen laut Art. 20 Daten übermitteln können: “Die betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten […] in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten” (Art. 20 (1))"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#rechtliche-veränderungen-1",
+    "href": "02-einführung-datenspuren.html#rechtliche-veränderungen-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Rechtliche Veränderungen",
+    "text": "Rechtliche Veränderungen\n\nEU verankert Recht auf eigene Daten in Art. 15 Datenschutz-Grundverordnung, kurz DSGVO\n\n“Die betroffene Person hat […] ein Recht auf Auskunft über diese personenbezogenen Daten” (Art. 15 (1)\n“Der Verantwortliche stellt eine Kopie der personenbezogenen Daten […] zur Verfügung” (Art. 15 (3))\n\nNutzer:innen müssen laut Art. 20 Daten übermitteln können: “Die betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten […] in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten” (Art. 20 (1))\n\n👉 Lösung: Plattformen bieten Daten-Pakete (DDPs) an, die Informationen über Nutzer:innen enthalten und von diesen heruntergeladen werden können.\n👉 Konsequenz: Die Wissenschaft nutzt diese DDPs im Rahmen von Datenspende-Studien."
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#zusammenfassung-datenzugänge",
+    "href": "02-einführung-datenspuren.html#zusammenfassung-datenzugänge",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zusammenfassung: Datenzugänge 📚",
+    "text": "Zusammenfassung: Datenzugänge 📚\n\nZusammenfassung:\n\nzentrale Methoden u.a. APIs, Datenspenden, Kooperationen mit Plattformen, Scraping, Tracking\nzentrale Unterschiede: Kontrolle über Stichproben & Messungen durch Plattformen, Forschung (& Nutzer:innen); rechtlicher Rahmen\n\nWeiterführende Literatur:\n\nHaim & Hase (2023)\nOhme et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section-2",
+    "href": "02-einführung-datenspuren.html#section-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "01-begrüssung.html",
+    "href": "01-begrüssung.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung 1️⃣: Begrüßung\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "01-begrüssung.html#wer-seid-ihr",
+    "href": "01-begrüssung.html#wer-seid-ihr",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Wer seid ihr?",
+    "text": "Wer seid ihr?\nBitte die Hand heben 🤚, wenn ihr ….\n\n\nvon digitalen Datenspuren als Begriff bereits gehört habt\nmit APIs gearbeitet habt\nmit Datenspenden gearbeitet habt\nmit automatisierter Inhaltsanalyse gearbeitet habt\nR regelmäßig nutzt\nandere Programmiersprachen (z. B. Python) regelmäßig nutzt"
+  },
+  {
+    "objectID": "01-begrüssung.html#wer-bin-ich",
+    "href": "01-begrüssung.html#wer-bin-ich",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Wer bin ich?",
+    "text": "Wer bin ich?\n\nAkademische Rätin a. Z., LMU München (vorher: Universität Zürich, LSE, WWU Münster)\nFokus:\n\nCSS (automatisierte Inhaltsanalyse & digitale Datenspuren)\nDigitaler Journalismus\nKrisenkommunikation\n\nMehr Infos: github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "01-begrüssung.html#vielen-dank-für-die-organisation",
+    "href": "01-begrüssung.html#vielen-dank-für-die-organisation",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Vielen Dank für die Organisation 🙌",
+    "text": "Vielen Dank für die Organisation 🙌\nShoutout an: Mittelbaunetzwerk Journalismusforschung & Mittelbaunetzwerk Wissenschaftskommunikation\n\nJanine N. Blessing\nLea Sophia Lehner\nMichael Graßl\nNils Bienzeisler\nNina Fabiola Schumacher\nVera Katzenberger"
+  },
+  {
+    "objectID": "01-begrüssung.html#worum-geht-es-heute",
+    "href": "01-begrüssung.html#worum-geht-es-heute",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Worum geht es heute?",
+    "text": "Worum geht es heute?\n\n\n✅ Digitale Datenspuren als Typ von Daten verstehen\n✅ Datenspende als Methode des Datenzugangs verstehen\n✅ Überblick schaffen (Entscheidungen; Vor- & Nachteile)\n❌ Detailierte Implementierung (z.B. Server-Integration von Datenspende-Tools)"
+  },
+  {
+    "objectID": "01-begrüssung.html#ablauf",
+    "href": "01-begrüssung.html#ablauf",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Ablauf",
+    "text": "Ablauf\n\n\n\n\n\n\n\n\n\n\n\n11:00 – 11:10\n1️⃣ Begrüßung\n\n\n11:10 – 12:00\n2️⃣ Einführung: digitale Datenspuren; 3️⃣ Einführung: Datenspenden; 4️⃣ Datenspende-Studien aus Sicht von Nutzer:innen\n\n\n12:00 – 12:15\nKaffeepause ☕\n\n\n12:15 – 13:30\n5️⃣ Datenspende-Studien aus Sicht von Forscher:innen; 6️⃣ Wrap-Up"
+  },
+  {
+    "objectID": "01-begrüssung.html#section",
+    "href": "01-begrüssung.html#section",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html",
+    "href": "03-einführung-datenspenden.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung 3️⃣: Einführung: Datenspenden\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#was-sind-datenspende-studien",
+    "href": "03-einführung-datenspenden.html#was-sind-datenspende-studien",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "1) Was sind Datenspende-Studien?",
+    "text": "1) Was sind Datenspende-Studien?\n\n\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#section",
+    "href": "03-einführung-datenspenden.html#section",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Wer von euch hat - im Vorfeld dieses Workshops - schon einmal die eigenen Daten von einer digitalen Plattform angefragt? 🤔"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#was-sind-datenspende-studien-1",
+    "href": "03-einführung-datenspenden.html#was-sind-datenspende-studien-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was sind Datenspende-Studien?",
+    "text": "Was sind Datenspende-Studien?\nDefinition 💡: Datenspende-Studien sind eine nutzerzentrierte Methode zur Sammlung von Daten:\n\n\nNutzende haben das Recht, Daten, die Plattformen über sie sammeln, anzufragen und herunterladen.\nSie können ihre Datenpakete (DDPs) via Datenspende-Tools (DDTs), oft im Rahmen von Umfragen, der Wissenschaft zur Verfügung stellen.\nForschende nutzen CSS-Methoden zur Filterung, Anonymisierung und Analyse dieser Daten."
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#was-für-daten-enthalten-ddps",
+    "href": "03-einführung-datenspenden.html#was-für-daten-enthalten-ddps",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was für Daten enthalten “DDPs”?",
+    "text": "Was für Daten enthalten “DDPs”?\nFür klassische soziale Medien wie Facebook, Instagram oder Youtube z. B.\n\n\ndigitale Nutzerprofile (soziodemografische Angaben, Privatsphäre-Einstellungen)\ndigitale Aktivitäten (Freunde, Likes, Suchen, Privatnachrichten, passive Nutzung)\ndigitales Targeting (Werbung, algorithmische inferierte Interessen)\nanaloge Aktivitäten (Teilnahme an Events, Lebensereignisse)"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#beispiel-i",
+    "href": "03-einführung-datenspenden.html#beispiel-i",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Beispiel I",
+    "text": "Beispiel I\nBeispiel-Studie mit Smartphone-Datenspenden (Wu-Ouyang & Chan, 2022, S. 10)\n\n\n\nQuelle: Wu-Ouyang & Chan, 2022, S. 10"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#beispiel-ii",
+    "href": "03-einführung-datenspenden.html#beispiel-ii",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Beispiel II",
+    "text": "Beispiel II\nBeispiel-Studie mit Instagram-Datenspenden (Driel et al., 2022, S. 273)\n\n\n\nQuelle: van Driel et al., 2022, S. 273"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#beispiel-iii",
+    "href": "03-einführung-datenspenden.html#beispiel-iii",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Beispiel III",
+    "text": "Beispiel III\nBeispiel-Studie mit Social-Media-Datenspenden\n\n\n\nHase & Haim, under review"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps",
+    "href": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was ist neu an Daten aus DDPs?",
+    "text": "Was ist neu an Daten aus DDPs?\nIm Vergleich zu Daten via APIs (Haim & Hase, 2023; Ohme et al., 2023) z.B.\n\n\nKontrolle & informierte Einwilligung der Nutzer:innen, welche Daten Forschung nutzen darf\nz.T. vollständige längsschnittliche Daten ohne “Rate Limits” (z.B. seit erstmaliger Nutzung von Accounts)\nz.T. neue Daten (z.B., wenn auch selten, passive Nutzung; nicht-öffentliche Daten wie Nachrichten)"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps-1",
+    "href": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Was ist neu an Daten aus DDPs?",
+    "text": "Was ist neu an Daten aus DDPs?\nIm Vergleich zu Daten via Tracking (Haim & Hase, 2023; Ohme et al., 2023) z.B.\n\n\nretrospektive Erhebung, die längsschnittliche Daten und weniger Reaktivität ermöglicht\nz.T. neue Daten (z.B. algorithmische Inferenzen)\nklarere Verankerung in EU-Recht im Vgl. zu Rechtsstreitigkeiten bei z.B. Tracking (Edelson & McCoy, 2021)\naber: ähnlich aufwendig für Befragte!"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#zusammenfassung-datenspenden",
+    "href": "03-einführung-datenspenden.html#zusammenfassung-datenspenden",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zusammenfassung: Datenspenden 📚",
+    "text": "Zusammenfassung: Datenspenden 📚\n\nZusammenfassung: Methode zur Sammlung digitaler Verhaltensdaten, bei der Nutzende ihre Datenpakete (DDPs) von Plattformen herunterladen und via Datenspende-Tools (DDTs) der Wissenschaft zur Verfügung stellen.\nWeiterführende Literatur:\n\nDriel et al. (2022)\nBoeschoten et al. (2022)"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#section-1",
+    "href": "03-einführung-datenspenden.html#section-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html",
+    "href": "05-study-researcher-perspective.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung 5️⃣: Datenspende-Studien aus Sicht der Forscher:innen\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#wie-laufen-datenspende-studien-aus-sicht-der-forscherinnen-ab",
+    "href": "05-study-researcher-perspective.html#wie-laufen-datenspende-studien-aus-sicht-der-forscherinnen-ab",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "1) Wie laufen Datenspende-Studien aus Sicht der Forscher:innen ab?",
+    "text": "1) Wie laufen Datenspende-Studien aus Sicht der Forscher:innen ab?\n\n\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#section",
+    "href": "05-study-researcher-perspective.html#section",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Welche methodischen Entscheidungen müssen Forscher:innen treffen, die Datenspende-Studien durchführen wollen? 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#ablauf---perspektive-der-forschung",
+    "href": "05-study-researcher-perspective.html#ablauf---perspektive-der-forschung",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Ablauf - Perspektive der Forschung",
+    "text": "Ablauf - Perspektive der Forschung\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-1",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-2",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---forschungsfragen",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---forschungsfragen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Forschungsfragen",
+    "text": "Schritt I: Forschungsdesign - Forschungsfragen\n\nBitte überlegt euch eine Forschungsfrage/Hypothese, die ihr auf Basis einer Datenspende-Studie beantworten wollen würdet. 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-3",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-3",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\n\nKönnen wir theoretische Konzepte mit Datenspenden operationalisieren?\nKönnen wir relevante Grundgesamtheiten abbilden?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-4",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-4",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\nDatenspende-Tools\n\nPORT (Boeschoten et al., 2022) als Weiterentwicklung von OSD2F (Araujo et al., 2022) (Niederlande)\nData Donation Module (Pfiffner et al., 2022) (Schweiz)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-1",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-2",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\n\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-3",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-3",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\nDaten werden lokal anonymisiert, z. B. über Whitelists\n\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-4",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-4",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\nDaten werden lokal anonymisiert, z. B. über Whitelists\nTeilnehmer:innen können Daten löschen\n\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-5",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-5",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\nDaten werden lokal anonymisiert, z. B. über Whitelists\nTeilnehmer:innen können Daten löschen\nnach informierter Einwilligung werden Daten an Server der Forscher:innen weitergeleitet"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-6",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-6",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\nBeispiel: OSD2F (Araujo et al., 2022, S. 377)\n\n\n\nAraujo et al., 2022, S. 377"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-5",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-5",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\n\nKann das Tool relevante Daten datenschutzkonform extrahieren & anonymisieren?\nKönnen wir Skripte schnell an Veränderungen durch Plattformen anpassen?\n\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-6",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-6",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Umfrage",
+    "text": "Schritt I: Forschungsdesign - Umfrage\n\ngeläufiges Vorgehen: Weiterleiten an externe Seite\nneu: Integration in Umfragen, z. B. via SoSci Survey (Haim et al., 2023); ermöglicht Messwiederholungen, Incentivierung, Experimentaldesigns, etc.\n\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage-1",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign - Umfrage",
+    "text": "Schritt I: Forschungsdesign - Umfrage\nDadurch dass Datenspenden aufwendig sind (und damit Verzerrungen begünstigen), stellen sich weitere Fragen nach…\n\nIncentivierung\nPlatzierung der Anfrage nach Datenspenden\nFormulierung der Bedeutsamkeit von Datenspenden"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-7",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-7",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?\n\nWie können wir die Datenspende technisch so leicht wie möglich für Teilnehmer:innen machen?\nWelche Design-Strategien können wir nutzen, um Teilnehmer:innen für die Datenspende zu begeistern?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\n\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-2",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-3",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-3",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?\n\n👉 Übergreifendes Tutorial hierzu: Hase, V. (2023, Juli). Data Donations—Tutorial Automated Content Analysis. Link"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-4",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-4",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\n\nAnonymisierung als erster Schritt der Klassifikation basiert zumeist auf Whitelists, d.h. z.B. Listen von Nachrichtenmedien 👉 Beispiel\nAber auch anschliessend müssen…\n\nDaten nachträglich via APIs gesammelt\nDaten via automatisierter Inhaltsanalyse klassifiziert werden"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\n\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-2",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-2",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\n\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-3",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-3",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\nAnonymisierung als erster Schritt der Klassifikation basiert zumeist auf Whitelists, d.h. z.B. Listen von Nachrichtenmedien 👉 Beispiel\nAber auch anschliessend müssen…\n\nDaten nachträglich via APIs gesammelt\nDaten via automatisierter Inhaltsanalyse klassifiziert werden\n\nFraglich ist, ob\n\nwir Nachrichten auf Basis ihrer Quelle (z.B. Nachrichtenaccounts) klassifizieren können (Reiss, 2022)\nbinäre Klassifikationen als Nachricht ja/nein überhaupt sinnvoll sind"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-5",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-5",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\n\nNutzen wir automatisierte Methoden?\nWie definieren wir, theoretisch gesehen, Nachrichten?\n\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-6",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-6",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Matching & Aggregation",
+    "text": "Schritt II: Bereinigung - Matching & Aggregation\nMatching 🤝, d.h. Zusammenführung von Umfragedaten und Datenspuren (Munzert et al., 2023)\n\nmeist via anonymer ID (z.B. “Interviewnummer”)\nDaten sollten, soweit möglich, getrennt gespeichert werden"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Matching & Aggregation",
+    "text": "Schritt II: Bereinigung - Matching & Aggregation\nAggregation 👆, d.h. Zusammenfassung von Datenpunkten über Individuen oder Zeit (Munzert et al., 2023)\n\nzumeist notwendig für Analyse (und um Daten ggf. zu teilen)\naber: Aggregation kann grossen Einfluss auf Resultate haben"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-7",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-7",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\n\nWie gewährleisten wir die anonymisierte Verlinkung unterschiedlicher Daten?\nWelches Aggregationsniveau benötigen wir?\n\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-8",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-8",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---verzerrungen",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---verzerrungen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung - Verzerrungen",
+    "text": "Schritt II: Bereinigung - Verzerrungen\n\nVerzerrungen durch Fehler in Bezug auf Stichproben und Messungen, z.B.\n\nz.B. durch systematisches Drop-Out (Pak et al., 2022)\nz.B. durch maschinelles Lernen für Klassifikation (TeBlunthuis et al., 2023)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-9",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-9",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?\n\naktuell wenig adressiertes Problem in den Sozialwissenschaften\neher Quantifizierung als Adressierung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-10",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-10",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\n\n\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-auswertung",
+    "href": "05-study-researcher-perspective.html#schritt-ii-auswertung",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Auswertung",
+    "text": "Schritt II: Auswertung\n\n\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-auswertung-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-auswertung-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Schritt II: Auswertung",
+    "text": "Schritt II: Auswertung\n\ndeskriptive/inferenzstatistische Analysen, z.B.\n\num Unterschiede zwischen Befragungsdaten und digitalen Datenspuren zu verstehen (Parry et al., 2021; Scharkow, 2016)\num sozialwissenschaftliche Konzepte zu untersuchen (Thorson et al., 2021)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#zusammenfassung-datenspenden-studien-aus-sicht-der-forscherinnen",
+    "href": "05-study-researcher-perspective.html#zusammenfassung-datenspenden-studien-aus-sicht-der-forscherinnen",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "Zusammenfassung: Datenspenden-Studien aus Sicht der Forscher:innen 📚",
+    "text": "Zusammenfassung: Datenspenden-Studien aus Sicht der Forscher:innen 📚\n\nZusammenfassung: Zentrale Schritte umfassen…\n\nForschungsdesign\nBereinigung\nAuswertung\n\nWeiterführende Literatur:\n\nDriel et al. (2022)\nBoeschoten et al. (2022)\nHaim et al. (2023)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#section-1",
+    "href": "05-study-researcher-perspective.html#section-1",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Fragen? 🤔"
+  }
+]
