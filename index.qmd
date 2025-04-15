@@ -19,6 +19,8 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 
     -   Valerie Hase (LMU Munich): [valerie-hase.com](https://valerie-hase.com/)
 
+    -   Part of the DFG project "*Integrating Data Donations in Survey Infrastructure*" ([see project website](Integrating Data Donation in Survey Infrastructure – Quantifying, Explaining, and Addressing Errors in Representation and Measurement))
+
 -   Organization: COMPTEXT team, special shoutout 🙌 to Fabienne Lind, Veronika Ebner, & Marvin Stecker (and the rest of the team at the University of Vienna)
 
 ## Workshop materials
