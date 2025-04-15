@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#Other stuff
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.Rapp.history
+*.Rproj
+*.Renviron
+*.DS_Store
+/.quarto/
+/site_libs
