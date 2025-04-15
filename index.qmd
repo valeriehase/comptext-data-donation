@@ -3,7 +3,7 @@ title: "Follow the User?!"
 subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 ---
 
-![Source: Image by Adem Ay via Unsplash](images/social-media.jpg){fig-alt="image of smartphone" fig-align="center" width="200"}
+![Source: Image by Adem Ay via Unsplash](images/social-media.jpg){fig-alt="image of smartphone" fig-align="center" width="500"}
 
 <hr>
 
