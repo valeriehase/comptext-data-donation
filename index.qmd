@@ -9,9 +9,11 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 
 ## About the workshop
 
--   Method Workshop as part of the 7th [COMPTEXT](https://www.comptextconference.org/)
+-   💻 Method Workshop as part of the 7th [COMPTEXT](https://www.comptextconference.org/)
 
 -   📅 April 24th, 2025 (10 am to 1 pm)
+
+-   📍 University of Vienna ([Universitätsring 1](https://maps.app.goo.gl/4PCBbtP1Ay7ZFYaq5), Room SR01)
 
 -   Workshop led by:
 
@@ -22,6 +24,16 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
     -   Part of the DFG project "*Integrating Data Donations in Survey Infrastructure*" ([see project website](Integrating Data Donation in Survey Infrastructure – Quantifying, Explaining, and Addressing Errors in Representation and Measurement))
 
 -   Organization: COMPTEXT team, special shoutout 🙌 to Fabienne Lind, Veronika Ebner, & Marvin Stecker (and the rest of the team at the University of Vienna)
+
+**Timetable**
+
+| Time | Session |
+|-------------------|-----------------------------------------------------|
+| 10:00--10:20 | Session 1️⃣: Welcome & Intro to Digital Traces |
+| 10:20--11:00 | Session 2️⃣: Data Donation Studies (Participant Perspective) |
+| 11:00--12:15 | Session 3️⃣: Data Donation Studies (Researcher Perspective) & ☕ Coffee break |
+| 12:15--12:45 | Session 4️⃣: Bias in Data Donation Studies |
+| 12:45--13:00 | Session 5️⃣: Wrap-Up |
 
 ## Workshop materials
 
