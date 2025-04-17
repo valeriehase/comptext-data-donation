@@ -54,7 +54,7 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 
 **Session 4️⃣: Bias & Outro **
 
--   Slides - HTML
+-   [Slides - HTML](docs/04-bias-outro.html)
 -   Slides - PDF
 
 ## Further tutorials
