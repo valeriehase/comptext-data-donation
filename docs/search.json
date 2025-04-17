@@ -893,7 +893,7 @@
     "href": "index.html#workshop-materials",
     "title": "Follow the User?!",
     "section": "Workshop materials",
-    "text": "Workshop materials\nSession 1️⃣: Welcome & Intro to Digital Traces\n\nSlides- HTML\nSlides - PDF\n\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\nSlides - HTML\nSlides - PDF\n📢 Task 1\n\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\nSlides - HTML\nSlides - PDF\n📢 Task 2\nManual: Requesting Data from Instagram\n\nSession 4️⃣: Bias in Data Donation Studies\n\nSlides - HTML\nSlides - PDF\n📢 Task 3\n\nSession 5️⃣: Wrap-Up\n\nSlides - HTML\nSlides - PDF"
+    "text": "Workshop materials\nSession 1️⃣: Welcome & Intro to Digital Traces\n\nSlides- HTML\nSlides - PDF\n\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\nSlides - HTML\nSlides - PDF\n\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\nSlides - HTML\nSlides - PDF\n📢 Data for Task 3\n\nSession 4️⃣: Bias& Outro \n\nSlides - HTML\nSlides - PDF"
   },
   {
     "objectID": "index.html#further-tutorials",
@@ -921,7 +921,7 @@
     "href": "index.html#timetable",
     "title": "Follow the User?!",
     "section": "Timetable",
-    "text": "Timetable\n\n\n\n\n\n\n\n⏰ 10:00–10:20\nSession 1️⃣: Welcome & Intro to Digital Traces\n\n\n⏰ 10:20–11:00\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\n\n⏰ 11:00–12:15\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\n\n⏰ 12:15–12:45\nSession 4️⃣: Bias in Data Donation Studies\n\n\n⏰ 12:45–13:00\nSession 5️⃣: Wrap-Up"
+    "text": "Timetable\n\n\n\n\n\n\n\n⏰ 10:00–10:20\nSession 1️⃣: Welcome & Intro to Digital Traces\n\n\n⏰ 10:20–11:00\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\n\n⏰ 11:00–12:15\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\n\n⏰ 12:15–13:00\nSession 4️⃣: Bias & Outro"
   },
   {
     "objectID": "01-intro.html#who-are-you",
@@ -963,7 +963,7 @@
     "href": "01-intro.html#timetable",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Timetable",
-    "text": "Timetable\n\n\n\n\n\n\n\n⏰ 10:00–10:20\nSession 1️⃣: Welcome & Intro to Digital Traces\n\n\n⏰ 10:20–11:00\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\n\n⏰ 11:00–12:15\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\n\n⏰ 12:15–12:45\nSession 4️⃣: Bias in Data Donation Studies\n\n\n⏰ 12:45–13:00\nSession 5️⃣: Wrap-Up"
+    "text": "Timetable\n\n\n\n\n\n\n\n⏰ 10:00–10:20\nSession 1️⃣: Welcome & Intro to Digital Traces\n\n\n⏰ 10:20–11:00\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\n\n⏰ 11:00–12:15\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\n\n⏰ 12:15–13:00\nSession 4️⃣: Bias & Outro"
   },
   {
     "objectID": "01-intro.html#section",
@@ -977,7 +977,7 @@
     "href": "01-intro.html#agenda",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Agenda",
-    "text": "Agenda\n(1) Intro to the workshop\n(2) What is digital trace data?\n(3) How can we collect digital traces?\n\nImage by Hope House Press via Unsplash"
+    "text": "Agenda\n1. Intro to the workshop\n2. What is digital trace data?\n3. How can we collect digital traces?\n\nImage by Hope House Press via Unsplash"
   },
   {
     "objectID": "01-intro.html#intro",
@@ -1005,7 +1005,7 @@
     "href": "01-intro.html#what-is-digital-trace-data-2",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "What is digital trace data?",
-    "text": "What is digital trace data?\nDefinition 💡: The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena\n\n\ne.g., tweets, likes, shares on social media\ne.g., geo data (locations, movements)\ne.g., digital payments\ne.g., Spotify playlists"
+    "text": "What is digital trace data?\nDefinition 💡: The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena\n\ne.g., tweets, likes, shares on social media\ne.g., geo data (locations, movements)\ne.g., digital payments\ne.g., Spotify playlists"
   },
   {
     "objectID": "01-intro.html#what-is-digital-trace-data-3",
@@ -1026,7 +1026,7 @@
     "href": "01-intro.html#where-can-we-findcollect-digital-trace-data",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Where can we find/collect digital trace data?",
-    "text": "Where can we find/collect digital trace data?\n\n\nApps (e.g., running apps)\nSocial media platforms (e.g., Instagram)\nPayment systems (e.g., Paypal)\nWearable devices (e.g., smart watch)"
+    "text": "Where can we find/collect digital trace data?\n\nApps (e.g., running apps)\nSocial media platforms (e.g., Instagram)\nPayment systems (e.g., Paypal)\nWearable devices (e.g., smart watch)"
   },
   {
     "objectID": "01-intro.html#which-types-of-data-does-digital-trace-data-include",
@@ -1054,28 +1054,28 @@
     "href": "01-intro.html#why-are-digital-traces-becoming-more-popular",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Why are digital traces becoming more popular?",
-    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\n\nSelf-reported data may be subject to specific bias (Parry et al., 2021; Scharkow, 2016)\nResponse rates in surveys are declining (Luiten et al., 2020)"
+    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\n\n“How many minutes a day do you use the internet to consume news?”\n\nSource: Image by Scott Graham via Unsplash\n\n„internet”?\n„news”?\n„how many minutes”?"
   },
   {
     "objectID": "01-intro.html#why-are-digital-traces-becoming-more-popular-1",
     "href": "01-intro.html#why-are-digital-traces-becoming-more-popular-1",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Why are digital traces becoming more popular?",
-    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\nAvailabillity\n\ncheap (e.g., via APIs)\nlarge data sets (“big data”)"
+    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\n\nSelf-reported data may be subject to specific bias, like social desirability (Parry et al., 2021; Scharkow, 2016)\nResponse rates in surveys are declining (Luiten et al., 2020)"
   },
   {
     "objectID": "01-intro.html#why-are-digital-traces-becoming-more-popular-2",
     "href": "01-intro.html#why-are-digital-traces-becoming-more-popular-2",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Why are digital traces becoming more popular?",
-    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\nAvailabillity\n\nBe careful: These “advantages” are often claimed, but not empirically proven.\nDigital traces are neither necessarily less biased, nor cheaper, or larger (we will discuss this in Session 4️⃣ & 5️⃣)."
+    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\nAvailabillity\n\ncheap (e.g., via APIs)\nlarge data sets (“big data”)"
   },
   {
     "objectID": "01-intro.html#dis-advantages-of-digital-trace-data",
     "href": "01-intro.html#dis-advantages-of-digital-trace-data",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "(Dis-)advantages of digital trace data",
-    "text": "(Dis-)advantages of digital trace data\n\n\n✅ More fine-grained measures due to timestamps\n✅ Partly measurement of new variables (e.g., algorithmic inference)\n❌ Bias due to errors in representation and measurement\n❌ Implementation can be expensive\n❌ More data does not mean better data!"
+    "text": "(Dis-)advantages of digital trace data\n\n\n✅ More fine-grained, often longitudinal measures due to timestamps\n✅ Partly measurement of new variables (e.g., algorithmic inference)\n❌ Bias due to errors in representation and measurement\n❌ Implementation can be expensive\n❌ More data does not mean better data!"
   },
   {
     "objectID": "01-intro.html#summary-digital-trace-data",
@@ -1103,14 +1103,14 @@
     "href": "01-intro.html#platform--and-user-centric-methods",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Platform- and user-centric methods",
-    "text": "Platform- and user-centric methods\n\n\nPlatform-centric (based on platform cooperation)\n\nAPI (Jünger, 2021)\nCooperation with platforms (Wagner, 2023)\n\nUser-centric (based on user cooperation and informed consent)\n\nData donation (Carrière et al., 2024)\nLinkage (Sloan et al., 2020)\nSensors (Struminskaya et al., 2021)\nTracking (Christner et al., 2022)"
+    "text": "Platform- and user-centric methods\n\n\nPlatform-centric (based on platform cooperation)\n\nAPI (Jünger, 2021)\nCooperation with platforms (Wagner, 2023)\n\nUser-centric (based on user cooperation and informed consent) or “follow the user” approaches (Caliandro, 2024)\n\nData donation (Carrière et al., 2024)\nLinkage (Sloan et al., 2020)\nSensors (Struminskaya et al., 2021)\nTracking (Christner et al., 2022)"
   },
   {
     "objectID": "01-intro.html#platform--and-user-centric-methods-1",
     "href": "01-intro.html#platform--and-user-centric-methods-1",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Platform- and user-centric methods",
-    "text": "Platform- and user-centric methods\n\n\nRestriction of platform-centric methods\n\nDiscontinuation of APIs (Freelon, 2018)\nConcern about bias (Schatto-Eckrodt, 2022; Ulloa et al., 2025)\n\nUser-centric methods become more popular, given …\n\nChanges in law (GDPR, DSA)\nEthical considerations (informed consent)"
+    "text": "Platform- and user-centric methods\n\n\nRestrictions of platform-centric methods\n\nDiscontinuation of APIs (Freelon, 2018)\nConcerns about bias (Schatto-Eckrodt, 2022; Ulloa et al., 2025)\n\nUser-centric methods become more popular, given …\n\nChanges in law that enable such studies (GDPR, DSA)\nPresumably (!) less biased data\nEthical considerations (informed consent)"
   },
   {
     "objectID": "01-intro.html#rechtliche-veränderungen",
@@ -1145,7 +1145,7 @@
     "href": "01-intro.html#references",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "References",
-    "text": "References\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBach, R. L., Kern, C., Amaya, A., Keusch, F., Kreuter, F., Hecht, J., & Heinemann, J. (2021). Predicting Voting Behavior Using Digital Trace Data. Social Science Computer Review, 39(5), 862–883. https://doi.org/10.1177/0894439319882896\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nChristner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. Communication Methods and Measures, 16(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841\n\n\nFreelon, D. (2018). Computational research in the post-API age. Political Communication, 35(4), 665–668. https://doi.org/10.1080/10584609.2018.1477506\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://link.springer.com/10.1007/978-3-658-36629-2_41-1\n\n\nHinds, J., & Joinson, A. N. (2018). What demographic attributes do our digital footprints reveal? A systematic review. PLOS ONE, 13(11), e0207112. https://doi.org/10.1371/journal.pone.0207112\n\n\nHowison, J., Wiggins, A., & Crowston, K. (2011). Validity Issues in the Use of Social Network Analysis with Digital Trace Data. Journal of the Association for Information Systems, 12(12), 767–797. https://doi.org/10.17705/1jais.00282\n\n\nJünger, J. (2021). A brief history of APIs. In Handbook of Computational Social Science, Volume 2 (1st ed., pp. 17–32). Routledge. https://www.taylorfrancis.com/books/9781003025245/chapters/10.4324/9781003025245-3\n\n\nJürgens, P., & Stark, B. (2022). Mapping Exposure Diversity: The Divergent Effects of Algorithmic Curation on News Consumption. Journal of Communication, 72(3), 322–344. https://doi.org/10.1093/joc/jqac009\n\n\nKeusch, F., & Kreuter, F. (2021). Digital trace data. In Handbook of Computational Social Science, Volume 1 (1st ed., pp. 100–118). Routledge. https://www.taylorfrancis.com/books/9781003024583/chapters/10.4324/9781003024583-8\n\n\nLi, X., Xu, H., Huang, X., Guo, C., Kang, Y., & Ye, X. (2021). Emerging geo-data sources to reveal human mobility dynamics during COVID-19 pandemic: Opportunities and challenges. Computational Urban Science, 1(1), 22. https://doi.org/10.1007/s43762-021-00022-x\n\n\nLuiten, A., Hox, J., & Leeuw, E. de. (2020). Survey Nonresponse Trends and Fieldwork Effort in the 21st Century: Results of an International Study across Countries and Surveys. Journal of Official Statistics, 36(3), 469–487. https://doi.org/10.2478/jos-2020-0025\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nReiss, M. V. (2023). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 11(2), 363–383. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nSchatto-Eckrodt, T. (2022). Hidden biases – The effects of unavailable content on Twitter on sampling quality. In Grenzen, Probleme und Lösungen bei der Stichprobenziehung (pp. 178–195). Halem.\n\n\nSepulvado, B., Wood, M. L., Fridmanski, E., Wang, C., Chandler, M. J., Lizardo, O., & Hachen, D. (2022). Predicting Homophily and Social Network Connectivity From Dyadic Behavioral Similarity Trajectory Clusters. Social Science Computer Review, 40(1), 195–211. https://doi.org/10.1177/0894439320923123\n\n\nSloan, L., Jessop, C., Al Baghal, T., & Williams, M. (2020). Linking Survey and Twitter Data: Informed Consent, Disclosure, Security, and Archiving. Journal of Empirical Research on Human Research Ethics, 15(1-2), 63–76. https://doi.org/10.1177/1556264619853447\n\n\nStruminskaya, B., Lugtig, P., Toepoel, V., Schouten, B., Giesen, D., & Dolmans, R. (2021). Sharing Data Collected with Smartphone Sensors. Public Opinion Quarterly, 85(S1), 423–462. https://doi.org/10.1093/poq/nfab025\n\n\nUlloa, R., Mangold, F., Schmidt, F., Gilsbach, J., & Stier, S. (2025). Beyond time delays: How web scraping distorts measures of online news consumption. Communication Methods and Measures, 1–22. https://doi.org/10.1080/19312458.2025.2482538\n\n\nWagner, M. W. (2023). Independence by permission. Science, 381(6656), 388–391. https://doi.org/10.1126/science.adi2430\n\n\nYan, P., Schroeder, R., & Stier, S. (2022). Is there a link between climate change scepticism and populism? An analysis of web tracking and survey data from Europe and the US. Information, Communication & Society, 25(10), 1400–1439. https://doi.org/10.1080/1369118X.2020.1864005"
+    "text": "References\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBach, R. L., Kern, C., Amaya, A., Keusch, F., Kreuter, F., Hecht, J., & Heinemann, J. (2021). Predicting Voting Behavior Using Digital Trace Data. Social Science Computer Review, 39(5), 862–883. https://doi.org/10.1177/0894439319882896\n\n\nCaliandro, A. (2024). Follow the user: Taking advantage of Internet users as methodological resources. Convergence: The International Journal of Research into New Media Technologies, 13548565241307569. https://doi.org/10.1177/13548565241307569\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nChristner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. Communication Methods and Measures, 16(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841\n\n\nFreelon, D. (2018). Computational research in the post-API age. Political Communication, 35(4), 665–668. https://doi.org/10.1080/10584609.2018.1477506\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://link.springer.com/10.1007/978-3-658-36629-2_41-1\n\n\nHinds, J., & Joinson, A. N. (2018). What demographic attributes do our digital footprints reveal? A systematic review. PLOS ONE, 13(11), e0207112. https://doi.org/10.1371/journal.pone.0207112\n\n\nHowison, J., Wiggins, A., & Crowston, K. (2011). Validity Issues in the Use of Social Network Analysis with Digital Trace Data. Journal of the Association for Information Systems, 12(12), 767–797. https://doi.org/10.17705/1jais.00282\n\n\nJünger, J. (2021). A brief history of APIs. In Handbook of Computational Social Science, Volume 2 (1st ed., pp. 17–32). Routledge. https://www.taylorfrancis.com/books/9781003025245/chapters/10.4324/9781003025245-3\n\n\nJürgens, P., & Stark, B. (2022). Mapping Exposure Diversity: The Divergent Effects of Algorithmic Curation on News Consumption. Journal of Communication, 72(3), 322–344. https://doi.org/10.1093/joc/jqac009\n\n\nKeusch, F., & Kreuter, F. (2021). Digital trace data. In Handbook of Computational Social Science, Volume 1 (1st ed., pp. 100–118). Routledge. https://www.taylorfrancis.com/books/9781003024583/chapters/10.4324/9781003024583-8\n\n\nLi, X., Xu, H., Huang, X., Guo, C., Kang, Y., & Ye, X. (2021). Emerging geo-data sources to reveal human mobility dynamics during COVID-19 pandemic: Opportunities and challenges. Computational Urban Science, 1(1), 22. https://doi.org/10.1007/s43762-021-00022-x\n\n\nLuiten, A., Hox, J., & Leeuw, E. de. (2020). Survey Nonresponse Trends and Fieldwork Effort in the 21st Century: Results of an International Study across Countries and Surveys. Journal of Official Statistics, 36(3), 469–487. https://doi.org/10.2478/jos-2020-0025\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nReiss, M. V. (2023). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 11(2), 363–383. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nSchatto-Eckrodt, T. (2022). Hidden biases – The effects of unavailable content on Twitter on sampling quality. In Grenzen, Probleme und Lösungen bei der Stichprobenziehung (pp. 178–195). Halem.\n\n\nSepulvado, B., Wood, M. L., Fridmanski, E., Wang, C., Chandler, M. J., Lizardo, O., & Hachen, D. (2022). Predicting Homophily and Social Network Connectivity From Dyadic Behavioral Similarity Trajectory Clusters. Social Science Computer Review, 40(1), 195–211. https://doi.org/10.1177/0894439320923123\n\n\nSloan, L., Jessop, C., Al Baghal, T., & Williams, M. (2020). Linking Survey and Twitter Data: Informed Consent, Disclosure, Security, and Archiving. Journal of Empirical Research on Human Research Ethics, 15(1-2), 63–76. https://doi.org/10.1177/1556264619853447\n\n\nStruminskaya, B., Lugtig, P., Toepoel, V., Schouten, B., Giesen, D., & Dolmans, R. (2021). Sharing Data Collected with Smartphone Sensors. Public Opinion Quarterly, 85(S1), 423–462. https://doi.org/10.1093/poq/nfab025\n\n\nUlloa, R., Mangold, F., Schmidt, F., Gilsbach, J., & Stier, S. (2025). Beyond time delays: How web scraping distorts measures of online news consumption. Communication Methods and Measures, 1–22. https://doi.org/10.1080/19312458.2025.2482538\n\n\nWagner, M. W. (2023). Independence by permission. Science, 381(6656), 388–391. https://doi.org/10.1126/science.adi2430\n\n\nYan, P., Schroeder, R., & Stier, S. (2022). Is there a link between climate change scepticism and populism? An analysis of web tracking and survey data from Europe and the US. Information, Communication & Society, 25(10), 1400–1439. https://doi.org/10.1080/1369118X.2020.1864005"
   },
   {
     "objectID": "01-intro.html#summary-what-is-digital-trace-data",
@@ -1187,14 +1187,14 @@
     "href": "01-intro.html#which-types-of-data-does-this-include",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Which types of data does this include?",
-    "text": "Which types of data does this include?\nDepending on the data collection method… (Haim & Hase, 2023; Ohme et al., 2024):\n\n\nDigital user profiles/settings (e.g., privacy settings)\nDigital activities (e.g., usage, messages, etc.)\nDigital targeting (e.g., ad exposure, algorithmically inferred interests)\nAnalog activities (e.g., travelling, sleeping, sports)"
+    "text": "Which types of data does this include?\nDepending on the data collection method… (Haim & Hase, 2023; Ohme et al., 2024):\n\n\noften fine-grained (e.g., time-stamped)\noften longitudinal (e.g., over years, within-individual change)\noften less reactive (e.g., less concerns about social desirability)"
   },
   {
     "objectID": "01-intro.html#which-latent-constructs-can-we-measure",
     "href": "01-intro.html#which-latent-constructs-can-we-measure",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Which (latent) constructs can we measure?",
-    "text": "Which (latent) constructs can we measure?\n\n\nInternet usage (Parry et al., 2021) related to …\n\nwell-being (Ohme et al., 2024)\nvoting (Bach et al., 2021)\n\nNews usage (Reiss, 2023) related to …\n\nnews diversity (Jürgens & Stark, 2022)\npublic opinion formation (Yan et al., 2022)\n\nMovements related to …\n\nMobility during pandemics (Li et al., 2021)\nSocial networks (Sepulvado et al., 2022)"
+    "text": "Which (latent) constructs can we measure?\n\n\nInternet use (Parry et al., 2021) related to …\n\nwell-being (Ohme et al., 2024)\nvoting (Bach et al., 2021)\n\nNews engagement (Reiss, 2023) related to …\n\nnews diversity (Jürgens & Stark, 2022)\npublic opinion formation (Yan et al., 2022)\n\nMovements related to …\n\nMobility during pandemics (Li et al., 2021)\nSocial networks (Sepulvado et al., 2022)"
   },
   {
     "objectID": "01-intro.html#how-can-we-collect-digital-traces",
@@ -1209,5 +1209,607 @@
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Summary: How can we collect digital traces? 📚",
     "text": "Summary: How can we collect digital traces? 📚\n\nSummary\n\nCentral methods including platform-centric methods (e.g., APIs) and user-centric methods (e.g., data donation)\nKey differences: control over samples & measurements, legal & ethical contexts\n\nFurther literature\n\nHaim & Hase (2023)\nOhme et al. (2024)"
+  },
+  {
+    "objectID": "01-intro.html#which-types-of-data-does-this-include-1",
+    "href": "01-intro.html#which-types-of-data-does-this-include-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Which types of data does this include?",
+    "text": "Which types of data does this include?\nDepending on the data collection method… (Haim & Hase, 2023; Ohme et al., 2024):\n\nDigital user profiles/settings (e.g., privacy settings)\nDigital activities (e.g., usage, messages, etc.)\nDigital targeting (e.g., ad exposure, algorithmically inferred interests)\nAnalog activities (e.g., travelling, sleeping, sports)"
+  },
+  {
+    "objectID": "01-intro.html#why-are-digital-traces-becoming-more-popular-3",
+    "href": "01-intro.html#why-are-digital-traces-becoming-more-popular-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Why are digital traces becoming more popular?",
+    "text": "Why are digital traces becoming more popular?\n\nProblems with self-reported data (e.g., via survey)\nAvailabillity\n\nBe careful: These “advantages” are often claimed, but not empirically proven.\nDigital traces are neither necessarily less biased, nor cheaper, or larger (we will discuss this in Session 4️⃣)."
+  },
+  {
+    "objectID": "01-intro.html#about-us-frieder-rodewald",
+    "href": "01-intro.html#about-us-frieder-rodewald",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "About us: Frieder Rodewald",
+    "text": "About us: Frieder Rodewald\n\nPhD, University of Mannheim (DFG project on data donation)\nResearch interests:\n\nCSS (automated content analysis, digital traces, bias)\nPrivacy concerns & behavior\n\nMore info: github.com/frodew & frieder-rodewald.de"
+  },
+  {
+    "objectID": "01-intro.html#about-us-valerie-hase",
+    "href": "01-intro.html#about-us-valerie-hase",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "About us: Valerie Hase",
+    "text": "About us: Valerie Hase\n\nAkademische Rätin a. Z./Postdoc, LMU Munich (prev.: University of Zurich & LSE)\nResearch interests:\n\nCSS (automated content analysis, digital traces, bias, data access)\nDigital journalism, crisis communication\n\nMore info: github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#agenda",
+    "href": "02-study-user-perspective.html#agenda",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Agenda",
+    "text": "Agenda\n\nWhat are data donation studies?\nParticipant perspective, including\n2.1 📢 Task 1: Inspect your DDPs\n2.2 📢 Task 2: Try donating your data\n\n\nImage by Hope House Press via Unsplash"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#what-are-data-donation-studies",
+    "href": "02-study-user-perspective.html#what-are-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1) What are data donation studies?",
+    "text": "1) What are data donation studies?\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#changes-in-legal-contexts",
+    "href": "02-study-user-perspective.html#changes-in-legal-contexts",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Changes in legal contexts",
+    "text": "Changes in legal contexts\n\n\nEU secures right to own data in Art. 15 of the General Data Protection Regulation (GDPR)\n\n“The data subject shall have […] access to the personal data” (§ Art. 15, 1)\n“The controller shall provide a copy of the personal data” (§ Art. 15, 3)\n\nAccording to § Art. 20, users must receive their data “in a structured, commonly used and machine-readable format” (§ Art. 20, 1)"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#changes-in-legal-contexts-1",
+    "href": "02-study-user-perspective.html#changes-in-legal-contexts-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Changes in legal contexts",
+    "text": "Changes in legal contexts\n\nEU secures right to own data in Art. 15 of the General Data Protection Regulation (GDPR)\n\n“The data subject shall have […] access to the personal data” (§ Art. 15, 1)\n“The controller shall provide a copy of the personal data” (§ Art. 15, 3)\n\nAccording to § Art. 20, users must receive their data “in a structured, commonly used and machine-readable format” (§ Art. 20, 1)\n\n👉 Solution: Platforms offer data download packages (DDPs), which users can request and download to inspect data.\n👉 Consequence: Researchers uses DDPs as part of user-centric data donation studies."
+  },
+  {
+    "objectID": "02-study-user-perspective.html#section",
+    "href": "02-study-user-perspective.html#section",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Please raise your hand ✋ : Who has ever tried to request their data from an online platform? 🤔"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#what-are-data-donation-studies-1",
+    "href": "02-study-user-perspective.html#what-are-data-donation-studies-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "What are data donation studies?",
+    "text": "What are data donation studies?\nDefinition 💡: Data donation studies are a user-centric method for collecting digital traces:\n\n\nUsers have the right to request, access, and download data that platforms collect about them.\nThey can make their data packages (DDPs) available to science via data donation tools (DDTs), often in the context of surveys.\nResearchers use CSS methods to filter, anonymize, and aggregate this data locally on participants’ devices before any data is sent to researchers."
+  },
+  {
+    "objectID": "02-study-user-perspective.html#which-types-of-data-do-ddps-contain",
+    "href": "02-study-user-perspective.html#which-types-of-data-do-ddps-contain",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Which types of data do DDPs contain?",
+    "text": "Which types of data do DDPs contain?\nFor platforms like Facebook, Instagram, or YouTube, for example… (Hase et al., 2024)\n\nUser profiles (e.g., privacy settings)\nActivities (e.g., friends, likes, searches, exposure, analog movements)\nContent and context (e.g., ads watched, algorithmically inferred interests)"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#how-is-data-from-ddps-different",
+    "href": "02-study-user-perspective.html#how-is-data-from-ddps-different",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "How is data from DDPs different?",
+    "text": "How is data from DDPs different?\nCompared to APIs (Haim & Hase, 2023; Ohme et al., 2024)…\n\nControl & informed consent of users\nLongitudinal data without “rate limits”\nPartly additional measurements (e.g., exposure data; non-public data)"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#how-is-data-from-ddps-different-1",
+    "href": "02-study-user-perspective.html#how-is-data-from-ddps-different-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "How is data from DDPs different?",
+    "text": "How is data from DDPs different?\nCompared to tracking (Haim & Hase, 2023; Ohme et al., 2024)…\n\nRetrospective & often more longitudinal\nPartly additional measurements (e.g., algorithmic inferences)\nAnchored in current provisions in law (for issues with tracking, see Edelson & McCoy, 2021)\n\n👉 but similarly burdensome for participants!"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#summary-what-are-data-donation-studies",
+    "href": "02-study-user-perspective.html#summary-what-are-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: What are data donation studies? 📚",
+    "text": "Summary: What are data donation studies? 📚\n\nSummary: User-centric method for collecting digital traces: Users download their data packages (DDPs) from platforms and make them available to science via data donation tools (DDTs).\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#participant-perspective",
+    "href": "02-study-user-perspective.html#participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2) Participant perspective",
+    "text": "2) Participant perspective\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#data-donation-studies---participant-perspective",
+    "href": "02-study-user-perspective.html#data-donation-studies---participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Data donation studies - participant perspective",
+    "text": "Data donation studies - participant perspective\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-i-data-request",
+    "href": "02-study-user-perspective.html#step-i-data-request",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-i-data-request-1",
+    "href": "02-study-user-perspective.html#step-i-data-request-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-i-data-request-2",
+    "href": "02-study-user-perspective.html#step-i-data-request-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#section-1",
+    "href": "02-study-user-perspective.html#section-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "How easy (or hard) did you find it to request your data? Did you encounter any obstacles? 🤔"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-i-data-request-3",
+    "href": "02-study-user-perspective.html#step-i-data-request-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\nDifferent degrees in standardization for data requests (Hase et al., 2024)…\n\nVerification procedure\nSpecification of data (metrics, observation period)\nNotification on provision of DDP\nDuration of DDP availability"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-ii-download",
+    "href": "02-study-user-perspective.html#step-ii-download",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Download",
+    "text": "Step II: Download\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-ii-download-1",
+    "href": "02-study-user-perspective.html#step-ii-download-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Download",
+    "text": "Step II: Download\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#section-2",
+    "href": "02-study-user-perspective.html#section-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "📢 Task 1: Inspect your DDPs.\nWhich variables can you identify? How could you use these for research in your field?\nFeel free to work in groups of 2-3 people."
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-ii-download-2",
+    "href": "02-study-user-perspective.html#step-ii-download-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Download",
+    "text": "Step II: Download\nDifferent degrees in standardization for DDP content (Hase et al., 2024)…\n\nDocumentation\n\nDDP structure?\nMeasurements?\n\nCompleteness & scope\n\nMissing data?\nLimited time frames?"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-iii-data-donation",
+    "href": "02-study-user-perspective.html#step-iii-data-donation",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-iii-data-donation-1",
+    "href": "02-study-user-perspective.html#step-iii-data-donation-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-iii-data-donation-2",
+    "href": "02-study-user-perspective.html#step-iii-data-donation-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#step-iii-data-donation-3",
+    "href": "02-study-user-perspective.html#step-iii-data-donation-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#bias-in-data-donation-studies",
+    "href": "02-study-user-perspective.html#bias-in-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Bias in Data Donation Studies",
+    "text": "Bias in Data Donation Studies\nSimilar to tracking studies, data donation characterized by (Hase et al., 2024; Hase & Haim, 2024; Keusch et al., 2024):\n\nErrors in representation (coverage error, non-response error)\nMeasurement errors (Missing data, Specification error)\n\n👉 Not necessarily less biased than survey data - but subject to different bias?\n👉 We will talk about this in Session 4️⃣."
+  },
+  {
+    "objectID": "02-study-user-perspective.html#summary-data-donation-studies-participant-perspective",
+    "href": "02-study-user-perspective.html#summary-data-donation-studies-participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: Data donation studies (Participant perspective) 📚",
+    "text": "Summary: Data donation studies (Participant perspective) 📚\n\nSummary: Key steps from the participant perspective …\n\nData request\nData download\nData donation\n\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#section-3",
+    "href": "02-study-user-perspective.html#section-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "📢 Task 2: Try donating your data.\nUpload and inspect your data. Did you encounter any difficulties in sharing your data?\nFeel free to work in groups of 2-3 people."
+  },
+  {
+    "objectID": "02-study-user-perspective.html#quellen",
+    "href": "02-study-user-perspective.html#quellen",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nEdelson, L., & McCoy, D. (2021). Facebook is obstructing our work on disinformation. Other researchers could be next. The Guardian. https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://link.springer.com/10.1007/978-3-658-36629-2_41-1\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Carrière, T., De Vreese, C., Haßler, J., Loecherbach, F., Kmetty, Z., Möller, J., Ohme, J., Schmidbauer, E., Struminskaya, B., Trilling, D., Welbers, K., & Haim, M. (2024). Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies? Internet Policy Review, 13(3). https://doi.org/10.14763/2024.3.1793\n\n\nHase, V., & Haim, M. (2024). Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies. Computational Communication Research, 6(2), 1. https://doi.org/10.5117/CCR2024.2.2.HASE\n\n\nKeusch, F., Pankowska, P. K., Cernat, A., & Bach, R. L. (2024). Do You Have Two Minutes to Talk about Your Data? Willingness to Participate and Nonparticipation Bias in Facebook Data Donation. Field Methods, 36(4), 279–293. https://doi.org/10.1177/1525822X231225907\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#summary-participant-perspective",
+    "href": "02-study-user-perspective.html#summary-participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: Participant perspective 📚",
+    "text": "Summary: Participant perspective 📚\n\nSummary: Key steps from the participant perspective …\n\nData request\nData download\nData donation\n\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#section-4",
+    "href": "02-study-user-perspective.html#section-4",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Questions? 🤔"
+  },
+  {
+    "objectID": "02-study-user-perspective.html#references",
+    "href": "02-study-user-perspective.html#references",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "References",
+    "text": "References\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nEdelson, L., & McCoy, D. (2021). Facebook is obstructing our work on disinformation. Other researchers could be next. The Guardian. https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://link.springer.com/10.1007/978-3-658-36629-2_41-1\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Carrière, T., De Vreese, C., Haßler, J., Loecherbach, F., Kmetty, Z., Möller, J., Ohme, J., Schmidbauer, E., Struminskaya, B., Trilling, D., Welbers, K., & Haim, M. (2024). Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies? Internet Policy Review, 13(3). https://doi.org/10.14763/2024.3.1793\n\n\nHase, V., & Haim, M. (2024). Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies. Computational Communication Research, 6(2), 1. https://doi.org/10.5117/CCR2024.2.2.HASE\n\n\nKeusch, F., Pankowska, P. K., Cernat, A., & Bach, R. L. (2024). Do You Have Two Minutes to Talk about Your Data? Willingness to Participate and Nonparticipation Bias in Facebook Data Donation. Field Methods, 36(4), 279–293. https://doi.org/10.1177/1525822X231225907\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#section",
+    "href": "03-study-researcher-perspective.html#section",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "What are methodological decisions researchers you have to take in data donation studies? 🤔"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#agenda",
+    "href": "03-study-researcher-perspective.html#agenda",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Agenda",
+    "text": "Agenda\n\nResearch design & tool set-up, including\n📢 Task 3: Modify the data donation tool\nData cleaning & augmentation, including\n📢 Task 4: Classify search terms\nModelling digital traces\n\n\nImage by Hope House Press via Unsplash"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#research-design-tool-set-up",
+    "href": "03-study-researcher-perspective.html#research-design-tool-set-up",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1) Research design & tool set-up",
+    "text": "1) Research design & tool set-up\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#data-donation-study---researcher-perspective",
+    "href": "03-study-researcher-perspective.html#data-donation-study---researcher-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Data donation study - researcher perspective",
+    "text": "Data donation study - researcher perspective\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up",
+    "href": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Research design & tool set-up",
+    "text": "Step I: Research design & tool set-up\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-1",
+    "href": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Research design & tool set-up",
+    "text": "Step I: Research design & tool set-up\nKey decisions:\n\nWhich theoretical questions do I want to answer?\nHow do I operationalize key variables via my data donation tool?\nHow do I integrate the tool in surveys & recruit participants?"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-2",
+    "href": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Research design & tool set-up",
+    "text": "Step I: Research design & tool set-up\nKey decisions:\n\nWhich theoretical questions do I want to answer?\nHow do I operationalize key variables via my data donation tool?\nHow do I integrate the tool in surveys & recruit participants?"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.i-which-theoretical-questions-do-i-want-to-answer",
+    "href": "03-study-researcher-perspective.html#step-i.i-which-theoretical-questions-do-i-want-to-answer",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.I Which theoretical questions do I want to answer?",
+    "text": "Step I.I Which theoretical questions do I want to answer?\nThis may sound silly but:\n\nNovel method, few empirical applications\nTo date: methodological playground\nWhat good is a method that is not used to advance theories/empirical knowledge?"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-3",
+    "href": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Research design & tool set-up",
+    "text": "Step I: Research design & tool set-up\nKey decisions:\n\nWhich theoretical questions do I want to answer?\nHow do I operationalize key variables via my data donation tool?\nHow do I integrate the tool in surveys & recruit participants?"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables via my data donation tool?",
+    "text": "Step I.II: How do I operationalize key variables via my data donation tool?\nChoose a tool, e.g., …\n\nPort (Boeschoten et al., 2023) (Netherlands, different platforms)\nData Donation Module (Pfiffner et al., 2022) (Switzerland, different platforms)\nWhatsR (Kohne & Montag, 2024)"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-1",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables via my data donation tool?",
+    "text": "Step I.II: How do I operationalize key variables via my data donation tool?\n\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-2",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables via my data donation tool?",
+    "text": "Step I.II: How do I operationalize key variables via my data donation tool?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server\n\n ## Step I.II: How do I operationalize key variables via my data donation tool?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server\n\n\n\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-3",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables via my data donation tool?",
+    "text": "Step I.II: How do I operationalize key variables via my data donation tool?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nInformed consent, only then: send to researcher server\n\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-4",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-4",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables via my data donation tool?",
+    "text": "Step I.II: How do I operationalize key variables via my data donation tool?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server\n\n ## Step I.II: How do I operationalize key variables via my data donation tool?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server\n\n\n\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-5",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-via-my-data-donation-tool-5",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables via my data donation tool?",
+    "text": "Step I.II: How do I operationalize key variables via my data donation tool?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server\n\n ## Step I.II: How do I operationalize key variables via my data donation tool?\nThis is how much “fun” 🫠testing DDTs is:\n ## Step I.II: How do I operationalize key variables via my data donation tool?\nKey issues 🚨 (Hase et al., 2024)\n\nMissing documentation by platforms (e.g., file structure)\nSudden changes in DDPs\nDifferences across languages & devices\nInsufficient in-tool classification\n\n\n**Let’s have a look at the technical set-up (Frieder: Run example?)*\n\n\n📢 Task 3: Modify the data donation tool\nFrieder: can we ask them to change filtering scripts, etc.? YouTube-URL extraction?\nFeel free to work in groups of 2-3 people."
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-4",
+    "href": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-4",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Research design & tool set-up",
+    "text": "Step I: Research design & tool set-up\nKey decisions:\n\nWhich theoretical questions do I want to answer?\nHow do I operationalize key variables via my data donation tool?\nHow do I integrate the tool in surveys & recruit participants?"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.iii-how-do-i-integrate-the-tool-in-surveys-recruit-participants",
+    "href": "03-study-researcher-perspective.html#step-i.iii-how-do-i-integrate-the-tool-in-surveys-recruit-participants",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.III: How do I integrate the tool in surveys & recruit participants?",
+    "text": "Step I.III: How do I integrate the tool in surveys & recruit participants?\n\nOften: Survey, then forwarding to an external site\nLess often: Integration in existing survey infrastructure (Haim et al., 2023)"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.iii-how-do-i-integrate-the-tool-in-surveys-recruit-participants-1",
+    "href": "03-study-researcher-perspective.html#step-i.iii-how-do-i-integrate-the-tool-in-surveys-recruit-participants-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.III: How do I integrate the tool in surveys & recruit participants?",
+    "text": "Step I.III: How do I integrate the tool in surveys & recruit participants?\n\n\nLow response rates (e.g., Hase & Haim, 2024; Keusch et al., 2024)\n\nBehavioral intentions as “willingness to donate” high (79-52% of survey respondents)\nActual behavior as “participation in data donation” low (37-12% of survey respondents)\nWell known intention-behavior gap (Kmetty & Stefkovics, 2025)\n\nNon-response bias\nPrimary used in non-probability panels (e.g. online access panels)\nSurvey design strategies: For now, 🤑 is the only thing that works.\n👉 Again, we will talk about this in session 4️⃣."
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-5",
+    "href": "03-study-researcher-perspective.html#step-i-research-design-tool-set-up-5",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Research design & tool set-up",
+    "text": "Step I: Research design & tool set-up\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii-data-cleaning-augmentation",
+    "href": "03-study-researcher-perspective.html#step-ii-data-cleaning-augmentation",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Data cleaning & augmentation",
+    "text": "Step II: Data cleaning & augmentation\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data",
+    "href": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II.I: How do I clean and extend data?",
+    "text": "Step II.I: How do I clean and extend data?\nThis is how your data may look like:\n\nFigure. Donated data - example"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii.ii-how-do-i-check-for-bias",
+    "href": "03-study-researcher-perspective.html#step-ii.ii-how-do-i-check-for-bias",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II.II: How do I check for bias?",
+    "text": "Step II.II: How do I check for bias?\n\nErrors in representation and measurements, e.g.\n\nbased on systematic drop-out (Pak et al., 2022)\nbased on systematic misclassification of digital traces (TeBlunthuis et al., 2024)\n\n\n👉 You know the drill: We will talk about this in session 4️⃣."
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii-data-cleaning-augmentation-1",
+    "href": "03-study-researcher-perspective.html#step-ii-data-cleaning-augmentation-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Data cleaning & augmentation",
+    "text": "Step II: Data cleaning & augmentation\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-iii-modelling",
+    "href": "03-study-researcher-perspective.html#step-iii-modelling",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Modelling",
+    "text": "Step III: Modelling\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-iii.i-how-do-i-analyze-results",
+    "href": "03-study-researcher-perspective.html#step-iii.i-how-do-i-analyze-results",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III.I: How do I analyze results?",
+    "text": "Step III.I: How do I analyze results?\nThink carefully about…\n\nHow to create indices from different metrics (e.g., liking, sharing, or commenting on content)\nHierarchical structure (nested in time, metrics, platforms)\nSkewed data, non-linearity"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#summary-data-donation-studies-research-perspective",
+    "href": "03-study-researcher-perspective.html#summary-data-donation-studies-research-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: Data donation studies (Research perspective) 📚",
+    "text": "Summary: Data donation studies (Research perspective) 📚\n\nSummary: Key steps include…\n\nResearch design & tool set-up\nData cleaning & augmentation\nModelling\n\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#section-1",
+    "href": "03-study-researcher-perspective.html#section-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Let’s have a look at the technical set-up (Frieder: Run example?)"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#references",
+    "href": "03-study-researcher-perspective.html#references",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "References",
+    "text": "References\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nBoeschoten, L., Schipper, N. C. de, Mendrik, A. M., Veen, E. van der, Struminskaya, B., Janssen, H., & Araujo, T. (2023). Port: A software tool for digital data donation. Journal of Open Source Software, 8(90), 5596.\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nHaim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. Medien & Kommunikationswissenschaft, 71(1-2), 130–137. https://doi.org/10.5771/1615-634X-2023-1-2-130\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Carrière, T., De Vreese, C., Haßler, J., Loecherbach, F., Kmetty, Z., Möller, J., Ohme, J., Schmidbauer, E., Struminskaya, B., Trilling, D., Welbers, K., & Haim, M. (2024). Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies? Internet Policy Review, 13(3). https://doi.org/10.14763/2024.3.1793\n\n\nHase, V., & Haim, M. (2024). Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies. Computational Communication Research, 6(2), 1. https://doi.org/10.5117/CCR2024.2.2.HASE\n\n\nKeusch, F., Pankowska, P. K., Cernat, A., & Bach, R. L. (2024). Do You Have Two Minutes to Talk about Your Data? Willingness to Participate and Nonparticipation Bias in Facebook Data Donation. Field Methods, 36(4), 279–293. https://doi.org/10.1177/1525822X231225907\n\n\nKmetty, Z., & Stefkovics, Á. (2025). Validating a willingness to share measure of a vignette experiment using real-world behavioral data. Scientific Reports, 15(1), 9319. https://doi.org/10.1038/s41598-025-92349-2\n\n\nKohne, J., & Montag, C. (2024). ChatDashboard: A Framework to collect, link, and process donated WhatsApp Chat Log Data. Behavior Research Methods, 56(4), 3658–3684.\n\n\nPak, C., Cotter, K., & Thorson, K. (2022). Correcting Sample Selection Bias of Historical Digital Trace Data: Inverse Probability Weighting (IPW) and Type II Tobit Model. Communication Methods and Measures, 16(2), 134–155. https://doi.org/10.1080/19312458.2022.2037537\n\n\nPfiffner, N., Witlox, P., & Friemel, T. N. (2022). Data Donation Module. https://github.com/uzh/ddm\n\n\nTeBlunthuis, N., Hase, V., & Chan, C.-H. (2024). Misclassification in Automated Content Analysis Causes Bias in Regression. Can We Fix It? Yes We Can! Communication Methods and Measures, 18(3), 278–299. https://doi.org/10.1080/19312458.2023.2293713"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.i-which-questions-do-i-want-to-answer",
+    "href": "03-study-researcher-perspective.html#step-i.i-which-questions-do-i-want-to-answer",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.I Which questions do I want to answer?",
+    "text": "Step I.I Which questions do I want to answer?\nThis may sound silly but:\n\nNovel method, few empirical applications\nTo date: methodological playground\nWhat good is a method that is not used to advance theories/empirical knowledge?"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\nChoose a tool, e.g., …\n\nPort (Boeschoten et al., 2023) (Netherlands, different platforms)\nData Donation Module (Pfiffner et al., 2022) (Switzerland, different platforms)\nWhatsR (Kohne & Montag, 2024) (Germany, WhatsApp)"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-1",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-2",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-3",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nExtraction🔎:\n\n\nFigure. Filtering data - File extraction"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-4",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-4",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nExtraction🔎:\n\n\nFigure. Filtering data - Python code"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-5",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-5",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nExtraction🔎:\n\n\nFigure. Filtering data - Python code"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-6",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-6",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-7",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-7",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nAnonymization 🙈:\n\n\nFigure. Anonymization - Example of Whitelists"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-8",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-8",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nAnonymization 🙈:\n\n\nFigure. Example of anonymized data"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-9",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-9",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-10",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-10",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nAggregation 🧮:\n\n\nFigure. Aggregation - Python code"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-11",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-11",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nParticipants “upload” data\nLocal extraction, anonymization, & aggregation\nUsers can delete data\nInformed consent, only then: send to researcher server"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-12",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-12",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\n\nData deletion by users ❌:\n\n\nFigure. Data deletion"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-13",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-13",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\nThis is how much “fun” testing DDTs is:\n\nFigure. Github issues - Testing the tool"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-14",
+    "href": "03-study-researcher-perspective.html#step-i.ii-how-do-i-operationalize-key-variables-14",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I.II: How do I operationalize key variables?",
+    "text": "Step I.II: How do I operationalize key variables?\nKey issues 🚨 (Hase et al., 2024)\n\nMissing documentation by platforms (e.g., file structure)\nSudden changes in DDPs\nDifferences across languages & devices\nInsufficient in-tool classification"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#section-2",
+    "href": "03-study-researcher-perspective.html#section-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "📢 Task 3: Modify the data donation tool\nFrieder: can we ask them to change filtering scripts, etc.? YouTube-URL extraction?\nFeel free to work in groups of 2-3 people."
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#section-3",
+    "href": "03-study-researcher-perspective.html#section-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "📢 Task 4: Classify search terms\nDownload the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python…..\n\nhow you would clean the data?\nhow you would identify health-related searches using NLP methods?\n\n\n\nFigure. Donated data - example"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-1",
+    "href": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II.I: How do I clean and extend data?",
+    "text": "Step II.I: How do I clean and extend data?\nThis is how your data may look like:\n\nFigure. Donated data - example"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-2",
+    "href": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II.I: How do I clean and extend data?",
+    "text": "Step II.I: How do I clean and extend data?\n\nManual annotation by participants during data donation\nAPIs/scraping to extend collected data"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#section-4",
+    "href": "03-study-researcher-perspective.html#section-4",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Questions? 🤔"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#summary-researcher-perspective",
+    "href": "03-study-researcher-perspective.html#summary-researcher-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: Researcher perspective 📚",
+    "text": "Summary: Researcher perspective 📚\n\nSummary: Key steps include…\n\nResearch design & tool set-up\nData cleaning & augmentation\nModelling\n\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
   }
 ]

@@ -28,12 +28,11 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 ## **Timetable**
 
 |  |  |
-|-----------------|----------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | ⏰ 10:00--10:20 | Session 1️⃣: Welcome & Intro to Digital Traces |
 | ⏰ 10:20--11:00 | Session 2️⃣: Data Donation Studies (Participant Perspective) |
 | ⏰ 11:00--12:15 | Session 3️⃣: Data Donation Studies (Researcher Perspective) |
-| ⏰ 12:15--12:45 | Session 4️⃣: Bias in Data Donation Studies |
-| ⏰ 12:45--13:00 | Session 5️⃣: Wrap-Up |
+| ⏰ 12:15--13:00 | Session 4️⃣: Bias  & Outro |
 
 ## Workshop materials
 
@@ -44,27 +43,19 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 
 **Session 2️⃣: Data Donation Studies (Participant Perspective)**
 
--   [Slides - HTML](docs/03-einführung-datenspenden.html)
--   [Slides - PDF](pdf/03-einführung-datenspenden.pdf)
--   📢 Task 1
+-   [Slides - HTML](docs/02-study-participant-perspective.html)
+-   [Slides - PDF](pdf/02-study-participant-perspective.pdf)
 
 **Session 3️⃣: Data Donation Studies (Researcher Perspective)**
 
--   [Slides - HTML](docs/04-study-user-perspective.html)
--   [Slides - PDF](pdf/04-study-user-perspective.pdf)
--   📢 Task 2
--   [Manual: Requesting Data from Instagram](pdf/04-anleitung-facebook.pdf)
+-   [Slides - HTML](docs/03-study-researcher-perspective.html)
+-   [Slides - PDF](pdf/03-study-researcher-perspective.pdf)
+-   📢 [Data for Task 3](data/sample_youtube.csv)
 
-**Session 4️⃣: Bias in Data Donation Studies**
+**Session 4️⃣: Bias& Outro **
 
--   [Slides - HTML](docs/05-study-researcher-perspective.html)
--   [Slides - PDF](pdf/05-study-researcher-perspective.pdf)
--   📢 Task 3
-
-**Session 5️⃣: Wrap-Up**
-
--   [Slides - HTML](docs/06-wrap-up.html)
--   [Slides - PDF](pdf/06-wrap-up.pdf)
+-   Slides - HTML
+-   Slides - PDF
 
 ## Further tutorials
 

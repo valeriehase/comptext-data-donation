@@ -1,0 +1,331 @@
+---
+format:
+  revealjs:
+    footer: "Data Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase"
+    center-title-slide: false
+    theme: ["theme/q-theme.scss"]
+    code-fold: show
+    code-copy: true
+    self-contained: true
+    number-sections: false
+    smaller: true
+    highlight-style: atom-one
+    preview-links: auto
+    progress: true
+execute:
+  echo: true
+bibliography: "references/references.bib"
+csl: references/apa.csl
+---
+
+<h1>Follow the User?!</h1>
+
+<h3>Data Donation Studies for Collecting Digital Trace Data</h3>
+
+<hr>
+
+Session 3️⃣: Data Donation Studies (Researcher Perspective)
+
+Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
+
+<hr>
+
+👉 Part of the SPP DFG Project [Integrating Data Donations in Survey Infrastructure](https://data-donation-science.de)
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+*What are methodological decisions researchers you have to take in data donation studies?* 🤔
+:::
+
+## Data donation study - researcher perspective
+
+![Figure. Data donation study - researcher perspective](images/ablauf-4.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Agenda
+
+1. **Research design & tool set-up**, including
+   
+   📢 **Task 3**: Modify the data donation tool
+
+2. **Data cleaning & augmentation**, including
+
+   📢 **Task 4**: Classify search terms
+
+3. **Modelling digital traces**
+
+![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
+
+## 1) Research design & tool set-up
+
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+
+## Step I: Research design & tool set-up
+
+![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+## Step I: Research design & tool set-up
+
+Key decisions:
+
+-   Which theoretical questions do I want to answer?
+-   How do I operationalize key variables via my data donation tool?
+-   How do I integrate the tool in surveys & recruit participants?
+
+## Step I: Research design & tool set-up
+
+Key decisions:
+
+-   **Which theoretical questions do I want to answer?**
+-   How do I operationalize key variables via my data donation tool?
+-   How do I integrate the tool in surveys & recruit participants?
+
+## Step I.I Which questions do I want to answer?
+
+This may sound silly but:
+
+-   Novel method, few empirical applications
+-   To date: methodological playground
+-   *What good is a method that is not used to advance theories/empirical knowledge?*
+
+## Step I: Research design & tool set-up
+
+Key decisions:
+
+-   Which theoretical questions do I want to answer?
+-   **How do I operationalize key variables via my data donation tool?**
+-   How do I integrate the tool in surveys & recruit participants?
+
+## Step I.II: How do I operationalize key variables?
+
+Choose a tool, e.g., ...
+
+-   Port [@boeschoten_etal2023] (Netherlands, different platforms)
+-   Data Donation Module [@pfiffner_data_2022] (Switzerland, different platforms)
+-   WhatsR [@kohne_etal2024] (Germany, WhatsApp)
+
+## Step I.II: How do I operationalize key variables?
+
+-   Participants "upload" data
+-   Local extraction, anonymization, & aggregation
+-   Users can delete data
+-   Informed consent, only then: send to researcher server
+
+## Step I.II: How do I operationalize key variables?
+
+-   Participants "upload" data
+-   Local **extraction**, anonymization, & aggregation
+-   Users can delete data
+-   Informed consent, only then: send to researcher server
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Extraction🔎:</h3> 
+
+![Figure. Filtering data - File extraction](images/extraction.jpg){fig-alt="Files in data donation packages" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Extraction🔎:</h3> 
+
+![Figure. Filtering data - Python code](images/filtering.jpg){fig-alt="Python code for extracting files" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Extraction🔎:</h3> 
+
+![Figure. Filtering data - Python code](images/filtering-a.jpg){fig-alt="Python code for extracting files" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+-   Participants "upload" data
+-   Local extraction, **anonymization**, & aggregation
+-   Users can delete data
+-   Informed consent, only then: send to researcher server
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Anonymization 🙈:</h3> 
+
+![Figure. Anonymization - Example of Whitelists](images/anonymization.jpg){fig-alt="Example whitelists for news outlets" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Anonymization 🙈:</h3> 
+
+![Figure. Example of anonymized data](images/anonymization-a.jpg){fig-alt="Example of anonymized data" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+-   Participants "upload" data
+-   Local extraction, anonymization, & **aggregation**
+-   Users can delete data
+-   Informed consent, only then: send to researcher server
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Aggregation 🧮:</h3> 
+
+![Figure. Aggregation - Python code](images/filtering-a.jpg){fig-alt="Python code for aggregation" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+-   Participants "upload" data
+-   Local extraction, anonymization, & aggregation
+-   Users can **delete data**
+-   Informed consent, only then: send to researcher server
+
+## Step I.II: How do I operationalize key variables?
+
+<h3>Data deletion by users ❌:</h3>
+
+![Figure. Data deletion](images/deletion.jpg){fig-alt="Example of how users can delete their data" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+This is how much "fun" testing DDTs is:
+
+![Figure. Github issues - Testing the tool](images/testing.jpg){fig-alt="Github screenshot of testing" fig-align="left" width="200"}
+
+## Step I.II: How do I operationalize key variables?
+
+Key issues 🚨 [@hase_etal2024]
+
+-   Missing documentation by platforms (e.g., file structure)
+-   Sudden changes in DDPs
+-   Differences across languages & devices
+-   Insufficient in-tool classification
+
+## 
+::: {style="font-size: 200%;text-align:center;"}
+**Let's have a look at the technical set-up (Frieder: Run example?)** 
+:::
+
+##
+
+::: {style="font-size: 200%;text-align:center;"}
+**📢 Task 3: Modify the data donation tool** 
+
+*Frieder: can we ask them to change filtering scripts, etc.? YouTube-URL extraction?* 
+
+Feel free to work in groups of 2-3 people.
+:::
+
+## Step I: Research design & tool set-up
+
+Key decisions:
+
+-   Which theoretical questions do I want to answer?
+-   How do I operationalize key variables via my data donation tool?
+-   **How do I integrate the tool in surveys & recruit participants?**
+
+## Step I.III: How do I integrate the tool in surveys & recruit participants?
+
+-   Often: Survey, then forwarding to an external site
+-   Less often: Integration in existing survey infrastructure [@haim_integrating_2023]
+
+## Step I.III: How do I integrate the tool in surveys & recruit participants?
+
+::: incremental
+-   Low response rates [e.g., @hase_haim2024a; @keusch_etal2024]
+
+    - Behavioral intentions as "willingness to donate" high (79-52% of survey respondents)
+    - Actual behavior as "participation in data donation" low (37-12% of survey respondents)
+    - Well known intention-behavior gap [@kmetty_etal2025]
+
+-   Non-response bias
+
+-   Primary used in non-probability panels (e.g. online access panels)
+
+-   Survey design strategies: For now, 🤑 is the only thing that works.
+
+-   👉 Again, we will talk about this in session 4️⃣.
+
+:::
+
+## Step I: Research design & tool set-up
+
+![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+## Step II: Data cleaning & augmentation
+
+![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+
+## Step II.I: How do I clean and extend data?
+
+This is how your data may look like:
+
+![Figure. Donated data - example](images/cleaning_1.jpg){fig-alt="Example of donated data" fig-align="left" width="300"}
+
+## Step II.I: How do I clean and extend data?
+
+This is how your data may look like:
+
+![Figure. Donated data - example](images/cleaning_2.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
+## Step II.I: How do I clean and extend data?
+
+-   Manual annotation by participants during data donation
+-   APIs/scraping to extend collected data
+
+##
+::: {style="font-size: 100%;text-align:center;"}
+**📢 Task 4: Classify search terms** 
+
+*Download the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python.....*
+
+(1) how you would clean the data?
+
+(2) how you would identify health-related searches using NLP methods?
+
+:::
+
+![Figure. Donated data - example](images/sample-yt.jpg){fig-alt="Example of YouTube searches" fig-align="left" width="200"}
+
+## Step II.II: How do I check for bias?
+
+-   Errors in representation and measurements, e.g.
+    -   based on systematic drop-out [@pak_correcting_2022]
+    -   based on systematic misclassification of digital traces [@teblunthuis_etal2024]
+    
+    
+👉 You know the drill: We will talk about this in session 4️⃣.
+
+## Step II: Data cleaning & augmentation
+
+![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+
+## Step III: Modelling
+
+![Figure. Data donation study - researcher perspective](images/ablauf-4c.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+    
+## Step III.I: How do I analyze results?
+
+Think carefully about...
+
+-   How to create indices from different metrics (e.g., liking, sharing, or commenting on content)
+-   Hierarchical structure (nested in time, metrics, platforms)
+-   Skewed data, non-linearity
+
+## Summary: Researcher perspective 📚
+
+-   **Summary**: Key steps include...
+
+    1.  Research design & tool set-up
+    2.  Data cleaning & augmentation
+    3.  Modelling
+
+-   **Further literature**:
+
+    -   @boeschoten_privacy-preserving_2022
+
+    -   @carriere_etal2024
+
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Questions?** 🤔
+:::
+
+## References

@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "c54a1da5"
+  },
+  "01-begrüssung.qmd": {
+    "01-begrüssung.html": "9c12f226"
+  },
+  "02-einführung-datenspuren.qmd": {
+    "02-einführung-datenspuren.html": "3fcf93be"
+  },
+  "03-einführung-datenspenden.qmd": {
+    "03-einführung-datenspenden.html": "a9437356"
+  },
+  "04-study-user-perspective.qmd": {
+    "04-study-user-perspective.html": "b206c4f5"
+  },
+  "05-study-researcher-perspective.qmd": {
+    "05-study-researcher-perspective.html": "86b4fa1f"
+  },
+  "06-wrap-up.qmd": {
+    "06-wrap-up.html": "5536473e"
+  },
+  "01-intro.qmd": {
+    "01-intro.html": "9b2c3057"
+  },
+  "02-study-user-perspective.qmd": {
+    "02-study-user-perspective.html": "9c1f2afe"
+  },
+  "03-study-researcher-perspective.qmd": {
+    "03-study-researcher-perspective.html": "3cee0fa1"
+  }
+}

@@ -28,15 +28,17 @@ Session 1️⃣ : Welcome & Intro to Digital Traces
 
 Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
+<hr>
+
 👉 Part of the SPP DFG Project [Integrating Data Donations in Survey Infrastructure](https://data-donation-science.de)
 
 ## Agenda
 
-\(1\) Intro to the workshop
+**1. Intro to the workshop**
 
-\(2\) What is digital trace data?
+**2. What is digital trace data?**
 
-\(3\) How can we collect digital traces?
+**3. How can we collect digital traces?**
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
@@ -56,7 +58,7 @@ Please raise your hand 🤚 if you ....
 -   regularly use programming languages (e.g., R, Python)
 :::
 
-## Who are we: Frieder Rodewald
+## About us: Frieder Rodewald
 
 ![](images/frieder-rodewald.jpg){fig-alt="Frieder Rodwald" width="200"}
 
@@ -70,7 +72,7 @@ Research interests:
 
 More info: [github.com/frodew](https://github.com/frodew) & [frieder-rodewald.de](https://frieder-rodewald.de/)
 
-## Who are we: Valerie Hase
+## About us: Valerie Hase
 
 ![](images/valerie-hase.jpg){fig-alt="Valerie Hase" width="200"}
 
@@ -104,12 +106,11 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 ## Timetable
 
 |  |  |
-|-----------------------|-------------------------------------------------|
+|------------------------|------------------------------------------------|
 | ⏰ 10:00--10:20 | Session 1️⃣: Welcome & Intro to Digital Traces |
 | ⏰ 10:20--11:00 | Session 2️⃣: Data Donation Studies (Participant Perspective) |
 | ⏰ 11:00--12:15 | Session 3️⃣: Data Donation Studies (Researcher Perspective) |
-| ⏰ 12:15--12:45 | Session 4️⃣: Bias in Data Donation Studies |
-| ⏰ 12:45--13:00 | Session 5️⃣: Wrap-Up |
+| ⏰ 12:15--13:00 | Session 4️⃣: Bias & Outro |
 
 ## 2. What is digital trace data?
 
@@ -135,12 +136,10 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 
 **Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
-::: incremental
 -   e.g., tweets, likes, shares on social media
 -   e.g., geo data (locations, movements)
 -   e.g., digital payments
 -   e.g., Spotify playlists
-:::
 
 ## What is digital trace data?
 
@@ -164,39 +163,47 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 
 ## Where can we find/collect digital trace data?
 
-::: incremental
 -   Apps (e.g., running apps)
 -   Social media platforms (e.g., Instagram)
 -   Payment systems (e.g., Paypal)
 -   Wearable devices (e.g., smart watch)
-:::
 
 ## Which types of data does this include?
 
 Depending on the data collection method... [@stollfus_computational_2023; @ohme_digital_2024]:
 
 ::: incremental
+-   often fine-grained (e.g., time-stamped)
+-   often longitudinal (e.g., over years, within-individual change)
+-   often less reactive (e.g., less concerns about social desirability)
+:::
+
+## Which types of data does this include?
+
+Depending on the data collection method... [@stollfus_computational_2023; @ohme_digital_2024]:
+
 -   Digital user profiles/settings (e.g., privacy settings)
 -   Digital activities (e.g., usage, messages, etc.)
 -   Digital targeting (e.g., ad exposure, algorithmically inferred interests)
 -   Analog activities (e.g., travelling, sleeping, sports)
-:::
 
 ## Which (latent) constructs can we measure?
 
-::: incremental
--   Internet usage [@parry_etal2021] related to ...
+<div>
+
+-   **Internet use** [@parry_etal2021] related to ...
     -   well-being [@ohme_digital_2024]
     -   voting [@bach_etal2021]
--   News usage [@reiss_2023] related to ...
+-   **News engagement** [@reiss_2023] related to ...
     -   news diversity [@juergens_etal2022]
     -   public opinion formation [@yan_etal2022]
--   Movements related to ...
+-   **Movements** related to ...
     -   Mobility during pandemics [@li_etal2021]
     -   Social networks [@sepulvado_etal2022]
-:::
 
-## Why are digital traces becoming more populary?
+</div>
+
+## Why are digital traces becoming more popular?
 
 -   Problems with self-reported data (e.g., via survey)
 
@@ -212,13 +219,13 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 
 ## Why are digital traces becoming more popular?
 
--   **Problems with self-reported data (e.g., via survey)**
-    -   Self-reported data may be subject to specific bias [@scharkow_accuracy_2016; @parry_etal2021]
+-   **Problems with self-reported data** (e.g., via survey)
+    -   Self-reported data may be subject to specific bias, like social desirability [@scharkow_accuracy_2016; @parry_etal2021]
     -   Response rates in surveys are declining [@luiten_survey_2020]
 
 ## Why are digital traces becoming more popular?
 
--   **Problems with self-reported data (e.g., via survey)**
+-   **Problems with self-reported data** (e.g., via survey)
 -   **Availabillity**
     -   cheap (e.g., via APIs)
     -   large data sets ("big data")
@@ -230,12 +237,12 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 
 **Be careful**: These "advantages" are often claimed, but **not** empirically proven.
 
-Digital traces are neither necessarily less biased, nor cheaper, or larger (we will discuss this in Session 4️⃣ & 5️⃣).
+Digital traces are neither necessarily less biased, nor cheaper, or larger (we will discuss this in Session 4️⃣).
 
 ## (Dis-)advantages of digital trace data
 
 ::: incremental
--   ✅ More fine-grained measures due to timestamps
+-   ✅ More fine-grained, often longitudinal measures due to timestamps
 -   ✅ Partly measurement of new variables (e.g., algorithmic inference)
 -   ❌ Bias due to errors in representation and measurement
 -   ❌ Implementation can be expensive
@@ -270,7 +277,7 @@ Which methods do you know/have you used for collecting digital trace data*?* �
 -   **Platform-centric** (based on platform cooperation)
     -   API [@engel_brief_2021]
     -   Cooperation with platforms [@wagner_etal2023]
--   **User-centric** (based on user cooperation and informed consent)
+-   **User-centric** (based on user cooperation and informed consent) or "follow the user" approaches [@caliandro_2024]
     -   Data donation [@carriere_etal2024]
     -   Linkage [@sloan_etal2020]
     -   Sensors [@struminskaya_etal2021]
@@ -281,34 +288,15 @@ Which methods do you know/have you used for collecting digital trace data*?* �
 
 <div>
 
--   Restriction of platform-centric methods
+-   Restrictions of platform-centric methods
     -   Discontinuation of APIs [@freelon_2018]
-    -   Concern about bias [@schatto-eckrodt_2022; @ulloa_etal2025]
+    -   Concerns about bias [@schatto-eckrodt_2022; @ulloa_etal2025]
 -   User-centric methods become more popular, given ...
-    -   Changes in law (GDPR, DSA)
+    -   Changes in law that enable such studies (GDPR, DSA)
+    -   Presumably (!) less biased data
     -   Ethical considerations (informed consent)
 
 </div>
-
-## Changes in legal contexts
-
-::: incremental
--   EU secures right to own data in Art. 15 of the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/))
-    -   “The data subject shall have \[...\] access to the personal data” (§ Art. 15, 1)
-    -   “The controller shall provide a copy of the personal data” (§ Art. 15, 3)
--   According to § Art. 20, users must receive their data "in a structured, commonly used and machine-readable format" (§ Art. 20, 1)
-:::
-
-## Changes in legal contexts
-
--   EU secures right to own data in Art. 15 of the General Data Protection Regulation ([GDPR](https://gdpr-info.eu/))
-    -   “The data subject shall have \[...\] access to the personal data” (§ Art. 15, 1)
-    -   “The controller shall provide a copy of the personal data” (§ Art. 15, 3)
--   According to § Art. 20, users must receive their data "in a structured, commonly used and machine-readable format" (§ Art. 20, 1)
-
-👉 **Solution:** Platforms offer data download packages (DDPs), which users can request and download to inspect data.
-
-👉 **Consequence**: Researchers uses DDPs as part of user-centric data donation studies.
 
 ## Summary: How can we collect digital traces? 📚
 
