@@ -893,7 +893,7 @@
     "href": "index.html#workshop-materials",
     "title": "Follow the User?!",
     "section": "Workshop materials",
-    "text": "Workshop materials\nSession 1️⃣: Welcome & Intro to Digital Traces\n\nSlides- HTML\nSlides - PDF\n\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\nSlides - HTML\nSlides - PDF\n\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\nSlides - HTML\nSlides - PDF\n📢 Data for Task 3\n\nSession 4️⃣: Bias& Outro \n\nSlides - HTML\nSlides - PDF"
+    "text": "Workshop materials\nSession 1️⃣: Welcome & Intro to Digital Traces\n\nSlides- HTML\nSlides - PDF\n\nSession 2️⃣: Data Donation Studies (Participant Perspective)\n\nSlides - HTML\nSlides - PDF\n\nSession 3️⃣: Data Donation Studies (Researcher Perspective)\n\nSlides - HTML\nSlides - PDF\n📢 Data for Task 3\n\nSession 4️⃣: Bia s& Outro \n\nSlides - HTML\nSlides - PDF"
   },
   {
     "objectID": "index.html#further-tutorials",
@@ -1811,5 +1811,215 @@
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Summary: Researcher perspective 📚",
     "text": "Summary: Researcher perspective 📚\n\nSummary: Key steps include…\n\nResearch design & tool set-up\nData cleaning & augmentation\nModelling\n\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#agenda",
+    "href": "02-study-participant-perspective.html#agenda",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Agenda",
+    "text": "Agenda\n\nWhat are data donation studies?\nParticipant perspective, including\n2.1 📢 Task 1: Inspect your DDPs\n2.2 📢 Task 2: Try donating your data\n\n\nImage by Hope House Press via Unsplash"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#what-are-data-donation-studies",
+    "href": "02-study-participant-perspective.html#what-are-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1) What are data donation studies?",
+    "text": "1) What are data donation studies?\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#changes-in-legal-contexts",
+    "href": "02-study-participant-perspective.html#changes-in-legal-contexts",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Changes in legal contexts",
+    "text": "Changes in legal contexts\n\n\nEU secures right to own data in Art. 15 of the General Data Protection Regulation (GDPR)\n\n“The data subject shall have […] access to the personal data” (§ Art. 15, 1)\n“The controller shall provide a copy of the personal data” (§ Art. 15, 3)\n\nAccording to § Art. 20, users must receive their data “in a structured, commonly used and machine-readable format” (§ Art. 20, 1)"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#changes-in-legal-contexts-1",
+    "href": "02-study-participant-perspective.html#changes-in-legal-contexts-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Changes in legal contexts",
+    "text": "Changes in legal contexts\n\nEU secures right to own data in Art. 15 of the General Data Protection Regulation (GDPR)\n\n“The data subject shall have […] access to the personal data” (§ Art. 15, 1)\n“The controller shall provide a copy of the personal data” (§ Art. 15, 3)\n\nAccording to § Art. 20, users must receive their data “in a structured, commonly used and machine-readable format” (§ Art. 20, 1)\n\n👉 Solution: Platforms offer data download packages (DDPs), which users can request and download to inspect data.\n👉 Consequence: Researchers uses DDPs as part of user-centric data donation studies."
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#section",
+    "href": "02-study-participant-perspective.html#section",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Please raise your hand ✋ : Who has ever tried to request their data from an online platform? 🤔"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#what-are-data-donation-studies-1",
+    "href": "02-study-participant-perspective.html#what-are-data-donation-studies-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "What are data donation studies?",
+    "text": "What are data donation studies?\nDefinition 💡: Data donation studies are a user-centric method for collecting digital traces:\n\n\nUsers have the right to request, access, and download data that platforms collect about them.\nThey can make their data packages (DDPs) available to science via data donation tools (DDTs), often in the context of surveys.\nResearchers use CSS methods to filter, anonymize, and aggregate this data locally on participants’ devices before any data is sent to researchers."
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#which-types-of-data-do-ddps-contain",
+    "href": "02-study-participant-perspective.html#which-types-of-data-do-ddps-contain",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Which types of data do DDPs contain?",
+    "text": "Which types of data do DDPs contain?\nFor platforms like Facebook, Instagram, or YouTube, for example… (Hase et al., 2024)\n\nUser profiles (e.g., privacy settings)\nActivities (e.g., friends, likes, searches, exposure, analog movements)\nContent and context (e.g., ads watched, algorithmically inferred interests)"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#how-is-data-from-ddps-different",
+    "href": "02-study-participant-perspective.html#how-is-data-from-ddps-different",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "How is data from DDPs different?",
+    "text": "How is data from DDPs different?\nCompared to APIs (Haim & Hase, 2023; Ohme et al., 2024)…\n\nControl & informed consent of users\nLongitudinal data without “rate limits”\nPartly additional measurements (e.g., exposure data; non-public data)"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#how-is-data-from-ddps-different-1",
+    "href": "02-study-participant-perspective.html#how-is-data-from-ddps-different-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "How is data from DDPs different?",
+    "text": "How is data from DDPs different?\nCompared to tracking (Haim & Hase, 2023; Ohme et al., 2024)…\n\nRetrospective & often more longitudinal\nPartly additional measurements (e.g., algorithmic inferences)\nAnchored in current provisions in law (for issues with tracking, see Edelson & McCoy, 2021)\n\n👉 but similarly burdensome for participants!"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#summary-what-are-data-donation-studies",
+    "href": "02-study-participant-perspective.html#summary-what-are-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: What are data donation studies? 📚",
+    "text": "Summary: What are data donation studies? 📚\n\nSummary: User-centric method for collecting digital traces: Users download their data packages (DDPs) from platforms and make them available to science via data donation tools (DDTs).\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#participant-perspective",
+    "href": "02-study-participant-perspective.html#participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2) Participant perspective",
+    "text": "2) Participant perspective\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#data-donation-studies---participant-perspective",
+    "href": "02-study-participant-perspective.html#data-donation-studies---participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Data donation studies - participant perspective",
+    "text": "Data donation studies - participant perspective\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-i-data-request",
+    "href": "02-study-participant-perspective.html#step-i-data-request",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-i-data-request-1",
+    "href": "02-study-participant-perspective.html#step-i-data-request-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-i-data-request-2",
+    "href": "02-study-participant-perspective.html#step-i-data-request-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#section-1",
+    "href": "02-study-participant-perspective.html#section-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "How easy (or hard) did you find it to request your data? Did you encounter any obstacles? 🤔"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-i-data-request-3",
+    "href": "02-study-participant-perspective.html#step-i-data-request-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step I: Data request",
+    "text": "Step I: Data request\nDifferent degrees in standardization for data requests (Hase et al., 2024)…\n\nVerification procedure\nSpecification of data (metrics, observation period)\nNotification on provision of DDP\nDuration of DDP availability"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-ii-download",
+    "href": "02-study-participant-perspective.html#step-ii-download",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Download",
+    "text": "Step II: Download\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-ii-download-1",
+    "href": "02-study-participant-perspective.html#step-ii-download-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Download",
+    "text": "Step II: Download\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#section-2",
+    "href": "02-study-participant-perspective.html#section-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "📢 Task 1: Inspect your DDPs.\nWhich variables can you identify? How could you use these for research in your field?\nFeel free to work in groups of 2-3 people."
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-ii-download-2",
+    "href": "02-study-participant-perspective.html#step-ii-download-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Download",
+    "text": "Step II: Download\nDifferent degrees in standardization for DDP content (Hase et al., 2024)…\n\nDocumentation\n\nDDP structure?\nMeasurements?\n\nCompleteness & scope\n\nMissing data?\nLimited time frames?"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-iii-data-donation",
+    "href": "02-study-participant-perspective.html#step-iii-data-donation",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-iii-data-donation-1",
+    "href": "02-study-participant-perspective.html#step-iii-data-donation-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-iii-data-donation-2",
+    "href": "02-study-participant-perspective.html#step-iii-data-donation-2",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#step-iii-data-donation-3",
+    "href": "02-study-participant-perspective.html#step-iii-data-donation-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Data donation",
+    "text": "Step III: Data donation\n\nFigure. Data donation study - participant perspective"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#section-3",
+    "href": "02-study-participant-perspective.html#section-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "📢 Task 2: Try donating your data.\nUpload and inspect your data. Did you encounter any difficulties in sharing your data?\nFeel free to work in groups of 2-3 people."
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#bias-in-data-donation-studies",
+    "href": "02-study-participant-perspective.html#bias-in-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Bias in Data Donation Studies",
+    "text": "Bias in Data Donation Studies\nSimilar to tracking studies, data donation characterized by (Hase et al., 2024; Hase & Haim, 2024; Keusch et al., 2024):\n\nErrors in representation (coverage error, non-response error)\nMeasurement errors (Missing data, Specification error)\n\n👉 Not necessarily less biased than survey data - but subject to different bias?\n👉 We will talk about this in Session 4️⃣."
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#summary-participant-perspective",
+    "href": "02-study-participant-perspective.html#summary-participant-perspective",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Summary: Participant perspective 📚",
+    "text": "Summary: Participant perspective 📚\n\nSummary: Key steps from the participant perspective …\n\nData request\nData download\nData donation\n\nFurther literature:\n\nBoeschoten et al. (2022)\nCarrière et al. (2024)"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#section-4",
+    "href": "02-study-participant-perspective.html#section-4",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Questions? 🤔"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#references",
+    "href": "02-study-participant-perspective.html#references",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "References",
+    "text": "References\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nEdelson, L., & McCoy, D. (2021). Facebook is obstructing our work on disinformation. Other researchers could be next. The Guardian. https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://link.springer.com/10.1007/978-3-658-36629-2_41-1\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Carrière, T., De Vreese, C., Haßler, J., Loecherbach, F., Kmetty, Z., Möller, J., Ohme, J., Schmidbauer, E., Struminskaya, B., Trilling, D., Welbers, K., & Haim, M. (2024). Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies? Internet Policy Review, 13(3). https://doi.org/10.14763/2024.3.1793\n\n\nHase, V., & Haim, M. (2024). Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies. Computational Communication Research, 6(2), 1. https://doi.org/10.5117/CCR2024.2.2.HASE\n\n\nKeusch, F., Pankowska, P. K., Cernat, A., & Bach, R. L. (2024). Do You Have Two Minutes to Talk about Your Data? Willingness to Participate and Nonparticipation Bias in Facebook Data Donation. Field Methods, 36(4), 279–293. https://doi.org/10.1177/1525822X231225907\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319"
   }
 ]

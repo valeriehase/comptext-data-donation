@@ -52,7 +52,7 @@ subtitle: " Data Donation Studies for Collecting Digital Trace Data"
 -   [Slides - PDF](pdf/03-study-researcher-perspective.pdf)
 -   📢 [Data for Task 3](data/sample_youtube.csv)
 
-**Session 4️⃣: Bias& Outro **
+**Session 4️⃣: Bia s& Outro **
 
 -   Slides - HTML
 -   Slides - PDF
