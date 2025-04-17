@@ -2021,5 +2021,82 @@
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "References",
     "text": "References\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., De Schipper, N. C., & Araujo, T. (2024). Best practices for studies using digital data donation. Quality & Quantity. https://doi.org/10.1007/s11135-024-01983-x\n\n\nEdelson, L., & McCoy, D. (2021). Facebook is obstructing our work on disinformation. Other researchers could be next. The Guardian. https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://link.springer.com/10.1007/978-3-658-36629-2_41-1\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Carrière, T., De Vreese, C., Haßler, J., Loecherbach, F., Kmetty, Z., Möller, J., Ohme, J., Schmidbauer, E., Struminskaya, B., Trilling, D., Welbers, K., & Haim, M. (2024). Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies? Internet Policy Review, 13(3). https://doi.org/10.14763/2024.3.1793\n\n\nHase, V., & Haim, M. (2024). Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies. Computational Communication Research, 6(2), 1. https://doi.org/10.5117/CCR2024.2.2.HASE\n\n\nKeusch, F., Pankowska, P. K., Cernat, A., & Bach, R. L. (2024). Do You Have Two Minutes to Talk about Your Data? Willingness to Participate and Nonparticipation Bias in Facebook Data Donation. Field Methods, 36(4), 279–293. https://doi.org/10.1177/1525822X231225907\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10.1080/19312458.2023.2181319"
+  },
+  {
+    "objectID": "04-bias-outro.html#agenda",
+    "href": "04-bias-outro.html#agenda",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Agenda",
+    "text": "Agenda\n\nBias in Data Donation Studies\nWhat’s Next for Data Donation?\nOutro\n\n\nImage by Hope House Press via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#what-is-next-for-data-donation-studies",
+    "href": "04-bias-outro.html#what-is-next-for-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2) What is next for data donation studies?",
+    "text": "2) What is next for data donation studies?\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#the-road-ahead-i-advancing-the-method",
+    "href": "04-bias-outro.html#the-road-ahead-i-advancing-the-method",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "The road ahead I: Advancing the method",
+    "text": "The road ahead I: Advancing the method\n\nMultimodal & cross-platform data 📸 (Wedel et al., 2024)\nIn-tool, local classification (e.g., local SML/LLMs?)\nWorkflow/UX-perspective\n\n\nSource: Image by DariuszSankowski via Pixabay"
+  },
+  {
+    "objectID": "04-bias-outro.html#the-road-ahead-ii-platforms-and-data-access-as-a-political-tool",
+    "href": "04-bias-outro.html#the-road-ahead-ii-platforms-and-data-access-as-a-political-tool",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "The road ahead II: Platforms (and data access) as a political tool",
+    "text": "The road ahead II: Platforms (and data access) as a political tool\n\nPlatforms do (willingly?) not provide data according to the GDPR/DSA (Hase et al., 2024)\nThe EU has started to sanction platforms like X/TikTok\nDSA may become the subject of larger geo-political debates with the USA (Seiling et al., 2025)\n\n\nSource: Image by WilliamCho via Pixabay"
+  },
+  {
+    "objectID": "04-bias-outro.html#outro",
+    "href": "04-bias-outro.html#outro",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "3) Outro",
+    "text": "3) Outro\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#we-want-your-feedback",
+    "href": "04-bias-outro.html#we-want-your-feedback",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "We want your feedback! 🙃",
+    "text": "We want your feedback! 🙃\n👉 Please fill out this 3-minute feedback form: https://forms.gle/KLMweywhW7odGyfk8\n\nQR code for survey"
+  },
+  {
+    "objectID": "04-bias-outro.html#section",
+    "href": "04-bias-outro.html#section",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Questions 🤔"
+  },
+  {
+    "objectID": "04-bias-outro.html#quellen",
+    "href": "04-bias-outro.html#quellen",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nData Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase\n\n\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Carrière, T., De Vreese, C., Haßler, J., Loecherbach, F., Kmetty, Z., Möller, J., Ohme, J., Schmidbauer, E., Struminskaya, B., Trilling, D., Welbers, K., & Haim, M. (2024). Fulfilling Data Access Obligations: How Could (and Should) Platforms Facilitate Data Donation Studies? Internet Policy Review, 13(3). https://doi.org/10.14763/2024.3.1793\n\n\nSeiling, L., Ohme, J., & De Vreese, C. (2025). Wird Europa den DSA in Verhandlungen mit Trump opfern? Tagesspiegel. https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/wird-europa-den-dsa-in-verhandlungen-mit-trump-opfern\n\n\nThorson, K., Cotter, K., Medeiros, M., & Pak, C. (2021). Algorithmic inference, political interest, and exposure to news and politics on Facebook. Information, Communication & Society, 24(2), 183–200. https://doi.org/10.1080/1369118X.2019.1642934\n\n\nWedel, L., Ohme, J., & Araujo, T. (2024). Augmenting Data Download Packages – Integrating Data Donations, Video Metadata, and the Multimodal Nature of Audio-visual Content. Methods&#44; Data&#44; Analyses (Online First), 32 Pages. https://doi.org/10.12758/MDA.2024.08\n\n\nWojcieszak, M., Menchen-Trevino, E., Clemm Von Hohenberg, B., De Leeuw, S., Gonçalves, J., Davidson, S., & Gonçalves, A. (2024). Non-News Websites Expose People to More Political Content Than News Websites: Evidence from Browsing Data in Three Countries. Political Communication, 41(1), 129–151. https://doi.org/10.1080/10584609.2023.2238641"
+  },
+  {
+    "objectID": "04-bias-outro.html#whats-next-for-data-donation-studies",
+    "href": "04-bias-outro.html#whats-next-for-data-donation-studies",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2) What’s next for data donation studies?",
+    "text": "2) What’s next for data donation studies?\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#the-road-ahead-iii-can-we-improve-and-apply-the-method",
+    "href": "04-bias-outro.html#the-road-ahead-iii-can-we-improve-and-apply-the-method",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "The road ahead III: Can we improve and apply the method?",
+    "text": "The road ahead III: Can we improve and apply the method?\n\nCan the method actually be applied for empirical research? (few examples, like Thorson et al., 2021; Wojcieszak et al., 2024)\nRequires interdisciplinary perspectives (e.g., addressing bias, integration in probability-based panels)\n\n\nSource: Image by Vladislav Babienko via Pixabay"
+  },
+  {
+    "objectID": "04-bias-outro.html#section-1",
+    "href": "04-bias-outro.html#section-1",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Thanks for joining the workshop 🙌"
   }
 ]

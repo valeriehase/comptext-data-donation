@@ -1,8 +1,7 @@
 ---
 format:
   revealjs:
-    logo: "https://cms-cdn.lmu.de/assets/img/Logo_LMU.svg"
-    footer: "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
+    footer: "Data Donation Studies - COMPTEXT - Frieder Rodewald, Valerie Hase"
     center-title-slide: false
     theme: ["theme/q-theme.scss"]
     code-fold: show
@@ -19,92 +18,85 @@ bibliography: "references/references.bib"
 csl: references/apa.csl
 ---
 
-<h1>Digitale Datenspuren nutzbar machen</h1>
+<h1>Follow the User?!</h1>
 
-<h3>Datenspenden als Methode der Kommunikationswissenschaft</h3>
+<h3>Data Donation Studies for Collecting Digital Trace Data</h3>
 
 <hr>
 
-Sitzung 6️⃣: Wrap-Up
+Session 4️⃣: Bias & Outro 
 
-Valerie Hase (Ludwig-Maximilians-Universität München)
+Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
-👉 [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
+<hr>
 
-## 1) Wo werden sich Datenspende-Studien hinentwickeln?
+👉 Part of the SPP DFG Project [Integrating Data Donations in Survey Infrastructure](https://data-donation-science.de)
 
-![Quelle: Foto von Markus Winkler auf Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+## Agenda
 
-## Zukunftsperspektive I: Neue Datentypen
+1. **Bias in Data Donation Studies**
 
--   Neue Plattformen 👩‍💻 (z.B. TikTok)
+2. **What's Next for Data Donation?**
 
--   Multimodale Daten 📸
+3. **Outro**
 
-aber damit auch neue Herausforderungen, u.a. ...
+![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
-::: incremental
--   Wie können wir Fotos, Videos oder Audiodateien anonymisieren?
--   Wie können wir DDPs "plattformagnostisch" anfragen und DDTs "platformagnostisch" bauen?
-:::
 
-## Zukunftsperspektive II: Politische Debatten rund um den DSA
+## 2) What's next for data donation studies?
 
--   Anstehende Implementierung des Digital Services Act [@hase_fulfilling_2023]
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
--   Druck auf Plattformen, Daten in Einklang mit bestehendem Recht bereitzustellen
+## The road ahead I: Advancing the method
 
-aber damit auch neue Herausforderungen, u.a. ...
+- Multimodal & cross-platform data 📸 [@wedel_etal2024]
 
-::: incremental
--   Wer prüft und sanktioniert, ob Plattformen ihrer Pflicht, Daten bereitzustellen, nachkommen?
--   Welche Daten wollen und brauchen wir aus sozialwissenschaftlicer Perspektive überhaupt?
-:::
+- In-tool, local classification (e.g., local SML/LLMs?)
 
-## Zukunftsperspektive III: Kritische Perspektive auf empirische Anwendung
+- Workflow/UX-perspective
 
-::: incremental
--   aktuell Datenspenden mehr methodisches "Spielfeld" (z.B. im Hinblick auf DDTs, Bias)
+![Source: Image by DariuszSankowski via Pixabay](images/future1.jpg){fig-alt="Image of multimedia data" fig-align="left" width="200"}
 
--   hier braucht es interdisziplinäre Perspektiven auf...
+## The road ahead II: Platforms (and data access) as a political tool
 
-    -   Strategien gegen Verzerrungen (z.B. statistische Methoden, Verankerung in probabilistischen Panels)
+-   Platforms do (willingly?) not provide data according to the GDPR/DSA [@hase_etal2024]
 
-    -   Forschungsinfrastrukturen [@strippel_editorial_2023]
+-   The EU has started to sanction platforms like X/TikTok
+
+-   DSA may become the subject of larger geo-political debates with the USA [@seiling_etal2025]
+
+![Source: Image by WilliamCho via Pixabay](images/future2.jpg){fig-alt="Image of the Lady of Justice" fig-align="left" width="200"}
+
+
+## The road ahead III: Can we improve and apply the method?
+
+-   Can the method actually be applied for empirical research? [few examples, like @thorson_etal2021; @wojcieszak_etal2024]
+
+- Requires interdisciplinary perspectives (e.g., addressing bias, integration in probability-based panels)
     
--   darüber hinaus: 👉 Relevanz der Methode wird sich an ihrem empirischen **Beitrag zur Beantwortung substanzieller sozial- bzw. kommunikationswissenschaftlicher Fragen** messen lassen müssen
-:::
-
-## Zusammenfassung: Datenspenden-Studien 📚
-
--   ✅ akkuratere Messungen durch Zeitstempel
-
--   ✅ z.T. Messung neuer Variablen (z.B. zu algorithmischer Inferenz)
-
--   ✅ zusätzliche Datenquellen neben APIs, Tracking, etc.
-
--   ❌ weiterhin Verzerrungen durch Stichproben- und Messfehler
-
--   ❌ unklare theoretische Rückbindung
-
--   ❌ (bisher) fehlende Umsetzung für substanzielle theoretische Fragen
+![Source: Image by Vladislav Babienko via Pixabay](images/future3.jpg){fig-alt="Image of crossroads" fig-align="left" width="200"}
 
 ##
 
 ::: {style="font-size: 400%;text-align:center;"}
-**Fragen?** 🤔
+**Questions** 🤔
 :::
 
-## Euer Feedback 🙃
+## 3) Outro
 
--   **1 Satz**, was euch gut gefallen hat/im Workshop weiterbehalten werden soll
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
--   **1 Satz**, was euch nicht gut gefallen hat/im Workshop verändert werden soll
+## We want your feedback! 🙃
+
+👉 Please fill out this 3-minute feedback form: [https://forms.gle/KLMweywhW7odGyfk8](https://forms.gle/KLMweywhW7odGyfk8)
+
+    
+![QR code for survey](images/qr.png){fig-alt="QR code for survey" fig-align="left" width="200"}
 
 ##
 
 ::: {style="font-size: 400%;text-align:center;"}
-**Danke** 🙌
+**Thanks for joining the workshop** 🙌
 :::
 
 ## Quellen
