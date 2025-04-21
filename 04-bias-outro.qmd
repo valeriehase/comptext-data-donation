@@ -42,6 +42,39 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
+## 1) Bias in Data Donation Studies
+
+![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
+
+## What is bias?
+
+
+
+Any empirical study includes error, that is, deviations from the true value
+of a theoretical concept introduced by its measurement. Non-systematic
+error resembles random deviations that influence the variance of estimates,
+while systematic error, also called bias, depends on omitted variables. Bias
+influences observed means or variances, thereby potentially attenuating or
+inflating inferential conclusions (Peytchev, 2013).2
+
+## Errors in representation
+
+::: incremental
+-   Low response rates [e.g., @hase_haim2024a; @keusch_etal2024]
+
+    - Behavioral intentions as "willingness to donate" high (79-52% of survey respondents)
+    - Actual behavior as "participation in data donation" low (37-12% of survey respondents)
+    - Well known intention-behavior gap [@kmetty_etal2025]
+
+-   Non-response bias
+
+-   Primary used in non-probability panels (e.g. online access panels)
+
+-   Survey design strategies: For now, 🤑 is the only thing that works.
+
+-   👉 Again, we will talk about this in session 4️⃣.
+
+:::
 
 ## 2) What's next for data donation studies?
 
