@@ -35,7 +35,7 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 ## 
 
 ::: {style="font-size: 200%;text-align:center;"}
-*What are methodological decisions researchers you have to take in data donation studies?* 🤔
+*What are methodological decisions researchers have to take in data donation studies?* 🤔
 :::
 
 ## Data donation study - researcher perspective
@@ -221,7 +221,7 @@ Key decisions:
 
 ## Step I.III: How do I integrate the tool in surveys & recruit participants?
 
--   Often: Survey, then forwarding to an external site
+-   Often: survey, then forwarding to an external site
 -   Less often: Integration in existing survey infrastructure [@haim_integrating_2023]
 
 ## Step I.III: How do I integrate the tool in surveys & recruit participants?
@@ -275,13 +275,13 @@ This is how your data may look like:
 
 *Download the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python.....*
 
-(1) how you would clean the data?
+(1) How you would clean the data?
 
-(2) how you would identify health-related searches using NLP methods?
+(2) How you would identify health-related searches using NLP methods?
 
 :::
 
-![Figure. Donated data - example](images/sample-yt.jpg){fig-alt="Example of YouTube searches" fig-align="left" width="200"}
+![Figure. Donated data - example](images/sample-yt.jpg){fig-alt="Example of YouTube searches" fig-align="left" width="100"}
 
 ## Step II.II: How do I check for bias?
 

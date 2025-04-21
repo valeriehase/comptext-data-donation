@@ -1467,7 +1467,7 @@
     "href": "03-study-researcher-perspective.html#section",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "What are methodological decisions researchers you have to take in data donation studies? 🤔"
+    "text": "What are methodological decisions researchers have to take in data donation studies? 🤔"
   },
   {
     "objectID": "03-study-researcher-perspective.html#agenda",
@@ -1579,7 +1579,7 @@
     "href": "03-study-researcher-perspective.html#step-i.iii-how-do-i-integrate-the-tool-in-surveys-recruit-participants",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Step I.III: How do I integrate the tool in surveys & recruit participants?",
-    "text": "Step I.III: How do I integrate the tool in surveys & recruit participants?\n\nOften: Survey, then forwarding to an external site\nLess often: Integration in existing survey infrastructure (Haim et al., 2023)"
+    "text": "Step I.III: How do I integrate the tool in surveys & recruit participants?\n\nOften: survey, then forwarding to an external site\nLess often: Integration in existing survey infrastructure (Haim et al., 2023)"
   },
   {
     "objectID": "03-study-researcher-perspective.html#step-i.iii-how-do-i-integrate-the-tool-in-surveys-recruit-participants-1",
@@ -1782,7 +1782,7 @@
     "href": "03-study-researcher-perspective.html#section-3",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "📢 Task 4: Classify search terms\nDownload the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python…..\n\nhow you would clean the data?\nhow you would identify health-related searches using NLP methods?\n\n\n\nFigure. Donated data - example"
+    "text": "📢 Task 4: Classify search terms\nDownload the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python…..\n\nHow you would clean the data?\nHow you would identify health-related searches using NLP methods?\n\n\n\nFigure. Donated data - example"
   },
   {
     "objectID": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-1",
