@@ -1852,7 +1852,7 @@
     "href": "02-study-participant-perspective.html#what-are-data-donation-studies-1",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "What are data donation studies?",
-    "text": "What are data donation studies?\nDefinition 💡: Data donation studies are a user-centric method for collecting digital traces:\n\n\nUsers have the right to request, access, and download data that platforms collect about them.\nThey can make their data packages (DDPs) available to science via data donation tools (DDTs), often in the context of surveys.\nResearchers use CSS methods to filter, anonymize, and aggregate this data locally on participants’ devices before any data is sent to researchers."
+    "text": "What are data donation studies?\nDefinition 💡: Data donation studies are a user-centric method for collecting digital traces:\n\n\nUsers have the right to request, access, and download data that platforms collect about them.\nThey can make their data packages (DDPs) available to science via data donation tools (DDTs), often in the context of surveys.\nResearchers use CSS methods to filter, anonymize, and aggregate this data locally on participants’ devices.\nParticipants can inspect/delete their data before any data is transferred."
   },
   {
     "objectID": "02-study-participant-perspective.html#which-types-of-data-do-ddps-contain",
@@ -1999,7 +1999,7 @@
     "href": "02-study-participant-perspective.html#bias-in-data-donation-studies",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Bias in Data Donation Studies",
-    "text": "Bias in Data Donation Studies\nSimilar to tracking studies, data donation characterized by (Hase et al., 2024; Hase & Haim, 2024; Keusch et al., 2024):\n\nErrors in representation (coverage error, non-response error)\nMeasurement errors (Missing data, Specification error)\n\n👉 Not necessarily less biased than survey data - but subject to different bias?\n👉 We will talk about this in Session 4️⃣."
+    "text": "Bias in Data Donation Studies\nSimilar to tracking studies, data donation characterized by (Hase et al., 2024; Hase & Haim, 2024; Keusch et al., 2024):\n\nErrors in representation (e.g., coverage error, non-response error)\nMeasurement errors (e.g., missing data, specification error)\n\n👉 Not necessarily less biased than survey data - but subject to different bias?\n👉 We will talk about this in Session 4️⃣."
   },
   {
     "objectID": "02-study-participant-perspective.html#summary-participant-perspective",

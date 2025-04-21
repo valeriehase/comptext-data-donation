@@ -80,17 +80,18 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ::: incremental
 - Users have the right to request, access, and download data that platforms collect about them.
-- They can make their data packages (DDPs) available to science via data donation tools (DDTs), often in the context of surveys.
-- Researchers use CSS methods to filter, anonymize, and aggregate this data locally on participants' devices before any data is sent to researchers.
+- They can make their _data packages (DDPs)_ available to science via _data donation tools (DDTs)_, often in the context of surveys.
+- Researchers use CSS methods to filter, anonymize, and aggregate this data locally on participants' devices.
+- Participants can inspect/delete their data before any data is transferred.
 :::
 
 ## Which types of data do DDPs contain?
 
 For platforms like Facebook, Instagram, or YouTube, for example... [@hase_etal2024]
 
-- User profiles (e.g., privacy settings)
-- Activities (e.g., friends, likes, searches, exposure, analog movements)
-- Content and context (e.g., ads watched, algorithmically inferred interests)
+- _User profiles_ (e.g., privacy settings)
+- _Activities_ (e.g., friends, likes, searches, exposure, analog movements)
+- _Content and context_ (e.g., ads watched, algorithmically inferred interests)
 
 ## How is data from DDPs different?
 
@@ -215,8 +216,8 @@ Feel free to work in groups of 2-3 people.
 
 Similar to tracking studies, data donation characterized by [@keusch_etal2024; @hase_etal2024; @hase_haim2024a]:
 
--   Errors in representation (coverage error, non-response error)
--   Measurement errors (Missing data, Specification error)
+-   Errors in representation (e.g., coverage error, non-response error)
+-   Measurement errors (e.g., missing data, specification error)
 
 👉 Not necessarily less biased than survey data - but subject to different bias?
 
