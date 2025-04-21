@@ -24,7 +24,7 @@ csl: references/apa.csl
 
 <hr>
 
-Session 4️⃣: Bias & Outro 
+Session 4️⃣: Bias & Outro
 
 Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
@@ -34,11 +34,11 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ## Agenda
 
-1. **Bias in Data Donation Studies**
+1.  **Bias in Data Donation Studies**
 
-2. **What's Next for Data Donation?**
+2.  **What's Next for Data Donation?**
 
-3. **Outro**
+3.  **Outro**
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
@@ -48,32 +48,144 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ## What is bias?
 
+**Definition** 💡: *Deviations from the true value of a theoretical concept introduced by its measurement* [@peytchev_2013]
 
+-   Non-systematic errors: random deviations influence variance of estimates
+-   Systematic errors (or: **bias**): depend on omitted variables
 
-Any empirical study includes error, that is, deviations from the true value
-of a theoretical concept introduced by its measurement. Non-systematic
-error resembles random deviations that influence the variance of estimates,
-while systematic error, also called bias, depends on omitted variables. Bias
-influences observed means or variances, thereby potentially attenuating or
-inflating inferential conclusions (Peytchev, 2013).2
+👉 Bias can influence descriptive results but also attenuate/inflate inferential conclusions.
+
+## What is bias?
+
+-   Errors in representation: *Who participates in data donation studies?*
+-   Errors in measurement: *Which latent concepts can we measure with data donation studies?*
+
+![Source: Image from Boeschoten et al., 2022, p. 396](images/bias-1.jpg){fig-alt="Error framework for data donation studies" fig-align="left" width="300"}
 
 ## Errors in representation
 
+For example ...
+
 ::: incremental
--   Low response rates [e.g., @hase_haim2024a; @keusch_etal2024]
+-   **Coverage error**: Who is (not) represented in the sampling frame? (e.g., social media users vs. YouTube users)
 
-    - Behavioral intentions as "willingness to donate" high (79-52% of survey respondents)
-    - Actual behavior as "participation in data donation" low (37-12% of survey respondents)
-    - Well known intention-behavior gap [@kmetty_etal2025]
+-   **Sampling error**: Who is (not) represented in the sample (e.g., non-probability samples)
 
--   Non-response bias
+-   **Non-response error**: Who does (not) want to participate in the data donation?
 
--   Primary used in non-probability panels (e.g. online access panels)
+-   **Compliance error**: Who is (not) able to participate in the data donation?
+:::
 
--   Survey design strategies: For now, 🤑 is the only thing that works.
+## 
 
--   👉 Again, we will talk about this in session 4️⃣.
+::: {style="font-size: 200%;text-align:center;"}
+*What do you think: Which participant characteristics may correlate with non-response or non-compliance?* 🤔
+:::
 
+## Errors in representation
+
+Example study by @hase_haim2024a:
+
+![Source: Figure from Hase & Haim (2024)](images/bias-2.jpg){fig-alt="non-response bias in data donation studies" fig-align="left" width="300"}
+
+## 
+
+::: {style="font-size: 200%;text-align:center;"}
+*Any ideas (from your discipline): How can we quantify/address errors in representation?* 🤔
+:::
+
+## Errors in representation: Quantification
+
+-   Response rates across study stages
+-   Para data as quality indicators (e.g., speeding)
+-   Non-response bias (e.g. traits of survey vs. donation participants)
+
+## Errors in representation: Solutions
+
+-   **A posteriori strategies**:
+
+    -   Infrastructure: Integration in probability-based panels
+
+    -   Survey design strategies (e.g., incentives, study framing)
+
+    -   DDT design (e.g. UX-perspective)
+
+-   **Post hoc strategies**:
+
+    -   Para data (e.g., quality indicators like speeding)
+
+    -   Statistical modeling [e.g., weighting, see @pak_correcting_2022]
+
+## Errors in representation: Solutions
+
+For now: limited studies, limited success of existing solutions
+
+![Source: Figure from Hase & Haim (2024)](images/bias-3.jpg){fig-alt="non-response bias in data donation studies" fig-align="left" width="300"}
+
+##
+::: {style="font-size: 200%;text-align:center;"}
+*What do you think: How could errors in measurements sneak into data donation studies?* 🤔
+:::
+
+## Errors in measurement
+
+For example ...
+
+::: incremental
+-   **Construct (in-)validity**: How do DDP variables relate to latent measurements? (e.g., likes vs. political participation)
+
+-   **Measurement error**: How correct is data in our DDP? (e.g., missing data)
+
+-   **Extraction error**: Did we extract all relevant files and variables?
+:::
+
+## Errors in measurements
+
+Example study by @valkenburg_etal2024:
+
+![Source: Figure from Valkenburg et al. (2024)](images/bias-4.jpg){fig-alt="non-response bias in data donation studies" fig-align="left" width="300"}
+
+##
+
+::: {style="font-size: 200%;text-align:center;"}
+*Any ideas (from your discipline): How can we quantify/address errors in measurements?* 🤔
+:::
+
+## Errors in measurement: Quantification
+
+-   Para data (e.g., failed uploads)
+-   Correlation between self-reported and observed behavior
+-   Multi Trait Multi Method (MTMM) approaches [@cernat_etal2024]
+-   Estimation of misclassification effects [@teblunthuis_etal2024]
+
+## Errors in representation: Solutions
+
+-   **A posteriori strategies**:
+
+    -   Talk to everyone (e.g., IRB, Data Strward)
+
+    -   Repeated testing & DDP download
+
+    -   Simulate downstream errors [@bosch_etal2024]
+
+-   **Post hoc strategies**:
+
+    -   Multiverse approaches
+
+    -   Statistical error correction [@teblunthuis_etal2024]
+
+    -   Error documentation [@gebru_etal2021]
+
+## Errors in representation: Solutions
+
+Example study by @hase_etal2024:
+
+![Source: Figure from Hase et al. 2024](images/bias-5.jpg){fig-alt="measurement bias in data donation studies" fig-align="left" width="300"}
+
+## 
+
+::: {style="font-size: 400%;text-align:center;"}
+**Questions** 🤔
 :::
 
 ## 2) What's next for data donation studies?
@@ -82,11 +194,11 @@ inflating inferential conclusions (Peytchev, 2013).2
 
 ## The road ahead I: Advancing the method
 
-- Multimodal & cross-platform data 📸 [@wedel_etal2024]
+-   Multimodal & cross-platform data 📸 [@wedel_etal2024]
 
-- In-tool, local classification (e.g., local SML/LLMs?)
+-   In-tool, local classification (e.g., local SML/LLMs?)
 
-- Workflow/UX-perspective
+-   Workflow/UX-perspective
 
 ![Source: Image by DariuszSankowski via Pixabay](images/future1.jpg){fig-alt="Image of multimedia data" fig-align="left" width="200"}
 
@@ -100,16 +212,15 @@ inflating inferential conclusions (Peytchev, 2013).2
 
 ![Source: Image by WilliamCho via Pixabay](images/future2.jpg){fig-alt="Image of the Lady of Justice" fig-align="left" width="200"}
 
-
 ## The road ahead III: Can we improve and apply the method?
 
 -   Can the method actually be applied for empirical research? [few examples, like @thorson_etal2021; @wojcieszak_etal2024]
 
-- Requires interdisciplinary perspectives (e.g., addressing bias, integration in probability-based panels)
-    
+-   Requires interdisciplinary perspectives (e.g., addressing bias, integration in probability-based panels)
+
 ![Source: Image by Vladislav Babienko via Pixabay](images/future3.jpg){fig-alt="Image of crossroads" fig-align="left" width="200"}
 
-##
+## 
 
 ::: {style="font-size: 400%;text-align:center;"}
 **Questions** 🤔
@@ -121,12 +232,11 @@ inflating inferential conclusions (Peytchev, 2013).2
 
 ## We want your feedback! 🙃
 
-👉 Please fill out this 3-minute feedback form: [https://forms.gle/KLMweywhW7odGyfk8](https://forms.gle/KLMweywhW7odGyfk8)
+👉 Please fill out this 3-minute feedback form: <https://forms.gle/KLMweywhW7odGyfk8>
 
-    
 ![QR code for survey](images/qr.png){fig-alt="QR code for survey" fig-align="left" width="200"}
 
-##
+## 
 
 ::: {style="font-size: 400%;text-align:center;"}
 **Thanks for joining the workshop** 🙌
