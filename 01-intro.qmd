@@ -126,16 +126,6 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 
 **Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
 
-::: incremental
--   "records of activity (trace data) undertaken through an online information system" [@howison_validity_2011, S. 2]
-
--   "individuals leave behavioural residue (unconscious traces of actions) when they interact online" [@hinds_what_2018, S. 2]
-:::
-
-## What is digital trace data?
-
-**Definition** 💡: *The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena*
-
 -   e.g., tweets, likes, shares on social media
 -   e.g., geo data (locations, movements)
 -   e.g., digital payments
@@ -178,15 +168,6 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 -   often less reactive (e.g., less concerns about social desirability)
 :::
 
-## Which types of data does this include?
-
-Depending on the data collection method... [@stollfus_computational_2023; @ohme_digital_2024]:
-
--   Digital user profiles/settings (e.g., privacy settings)
--   Digital activities (e.g., usage, messages, etc.)
--   Digital targeting (e.g., ad exposure, algorithmically inferred interests)
--   Analog activities (e.g., travelling, sleeping, sports)
-
 ## Which (latent) constructs can we measure?
 
 <div>
@@ -220,7 +201,7 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 ## Why are digital traces becoming more popular?
 
 -   **Problems with self-reported data** (e.g., via survey)
-    -   Self-reported data may be subject to specific bias, like social desirability [@scharkow_accuracy_2016; @parry_etal2021]
+    -   Self-reported data subject to specific bias [@scharkow_accuracy_2016; @parry_etal2021]
     -   Response rates in surveys are declining [@luiten_survey_2020]
 
 ## Why are digital traces becoming more popular?
@@ -241,13 +222,11 @@ Digital traces are neither necessarily less biased, nor cheaper, or larger (we w
 
 ## (Dis-)advantages of digital trace data
 
-::: incremental
 -   ✅ More fine-grained, often longitudinal measures due to timestamps
 -   ✅ Partly measurement of new variables (e.g., algorithmic inference)
 -   ❌ Bias due to errors in representation and measurement
 -   ❌ Implementation can be expensive
 -   ❌ More data does not mean better data!
-:::
 
 ## Summary: What is digital trace data? 📚
 
