@@ -74,7 +74,8 @@ PhD, University of Mannheim (DFG project on data donation)
 
 Research interests:
 
--   CSS (automated content analysis, digital traces, bias)
+-   CSS (automated content analysis, digital traces, bias) \
+"I study methods to measure what people do online".
 
 -   Privacy concerns & behavior
 
