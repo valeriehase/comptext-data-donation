@@ -970,7 +970,7 @@
     "href": "01-intro.html#section",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Which examples for digital trace data you know? 🤔"
+    "text": "Before we start: Have you requested and downloaded your DDP? 🤔\n\nOtherwise, please check your email and the use link: https://next.eyra.co/assignment/334/participate?participant=XXX"
   },
   {
     "objectID": "01-intro.html#agenda",
@@ -1096,7 +1096,7 @@
     "href": "01-intro.html#section-1",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Which methods do you know/have you used for collecting digital trace data? 🤔"
+    "text": "Which examples for digital trace data you know? 🤔"
   },
   {
     "objectID": "01-intro.html#platform--and-user-centric-methods",
@@ -1138,7 +1138,7 @@
     "href": "01-intro.html#section-2",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Questions? 🤔"
+    "text": "Which methods do you know/have you used for collecting digital trace data? 🤔"
   },
   {
     "objectID": "01-intro.html#references",
@@ -2231,5 +2231,12 @@
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
     "text": "Thanks for joining the workshop 🙌"
+  },
+  {
+    "objectID": "01-intro.html#section-3",
+    "href": "01-intro.html#section-3",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "",
+    "text": "Questions? 🤔"
   }
 ]
