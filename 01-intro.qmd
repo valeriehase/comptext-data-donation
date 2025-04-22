@@ -42,7 +42,7 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
-## 
+##
 
 ::: {style="font-size: 200%;text-align:center;"}
 **Before we start: Have you requested and downloaded your DDP?** 🤔
@@ -74,10 +74,10 @@ PhD, University of Mannheim (DFG project on data donation)
 
 Research interests:
 
--   CSS (automated content analysis, digital traces, bias) \
-"I study methods to measure what people do online".
+-   CSS (automated content analysis, digital traces, bias)
 
--   Privacy concerns & behavior
+-   Privacy concerns & behavior \
+"I study what people do online"
 
 More info: [github.com/frodew](https://github.com/frodew) & [frieder-rodewald.de](https://frieder-rodewald.de/)
 
@@ -109,7 +109,7 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 -   ✅ Understanding data donation as a *method* of data access
 -   ✅ Working through key steps of data donation methods (user & researcher view)
 -   ✅ Discussing when (not) to use data donation studies
--   ❌ Detailed implementation (e.g., server set-up)
+-   ❌ Detailed implementation (e.g., server set-up, coding data extraction scripts)
 :::
 
 ## Timetable
@@ -125,10 +125,18 @@ Shoutout to the organizers behind the 7th COMPTEXT, especially
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
-## 
+##
 
 ::: {style="font-size: 200%;text-align:center;"}
 *Which examples for digital trace data you know?* 🤔
+:::
+
+::: {.notes}
+
+- What do you think of when you hear this term?
+- Have you ever worked with one of these
+- Hint, you probably produced such data coming here, e.g., using GoogleMaps
+
 :::
 
 ## What is digital trace data?
@@ -253,7 +261,7 @@ Digital traces are neither necessarily less biased, nor cheaper, or larger (we w
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
-## 
+##
 
 ::: {style="font-size: 200%;text-align:center;"}
 Which methods do you know/have you used for collecting digital trace data*?* 🤔
@@ -300,7 +308,7 @@ Which methods do you know/have you used for collecting digital trace data*?* �
 
     -   @ohme_digital_2024
 
-## 
+##
 
 ::: {style="font-size: 400%;text-align:center;"}
 **Questions?** 🤔

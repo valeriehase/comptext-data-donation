@@ -32,7 +32,7 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 👉 Part of the SPP DFG Project [Integrating Data Donations in Survey Infrastructure](https://data-donation-science.de)
 
-## 
+##
 
 ::: {style="font-size: 200%;text-align:center;"}
 *What are methodological decisions researchers have to take in data donation studies?* 🤔
@@ -60,7 +60,7 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ## Step I: Research design & tool set-up
 
-![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
 
 ## Step I: Research design & tool set-up
 
@@ -118,19 +118,19 @@ Choose a tool, e.g., ...
 
 ## Step I.II: How do I operationalize key variables?
 
-<h3>Extraction🔎:</h3> 
+<h3>Extraction🔎:</h3>
 
 ![Figure. Filtering data - File extraction](images/extraction.jpg){fig-alt="Files in data donation packages" fig-align="left" width="200"}
 
 ## Step I.II: How do I operationalize key variables?
 
-<h3>Extraction🔎:</h3> 
+<h3>Extraction🔎:</h3>
 
 ![Figure. Filtering data - Python code](images/filtering.jpg){fig-alt="Python code for extracting files" fig-align="left" width="200"}
 
 ## Step I.II: How do I operationalize key variables?
 
-<h3>Extraction🔎:</h3> 
+<h3>Extraction🔎:</h3>
 
 ![Figure. Filtering data - Python code](images/filtering-a.jpg){fig-alt="Python code for extracting files" fig-align="left" width="200"}
 
@@ -143,13 +143,13 @@ Choose a tool, e.g., ...
 
 ## Step I.II: How do I operationalize key variables?
 
-<h3>Anonymization 🙈:</h3> 
+<h3>Anonymization 🙈:</h3>
 
 ![Figure. Anonymization - Example of Whitelists](images/anonymization.jpg){fig-alt="Example whitelists for news outlets" fig-align="left" width="200"}
 
 ## Step I.II: How do I operationalize key variables?
 
-<h3>Anonymization 🙈:</h3> 
+<h3>Anonymization 🙈:</h3>
 
 ![Figure. Example of anonymized data](images/anonymization-a.jpg){fig-alt="Example of anonymized data" fig-align="left" width="200"}
 
@@ -162,7 +162,7 @@ Choose a tool, e.g., ...
 
 ## Step I.II: How do I operationalize key variables?
 
-<h3>Aggregation 🧮:</h3> 
+<h3>Aggregation 🧮:</h3>
 
 ![Figure. Aggregation - Python code](images/filtering-a.jpg){fig-alt="Python code for aggregation" fig-align="left" width="200"}
 
@@ -194,12 +194,56 @@ Key issues 🚨 [@hase_etal2024]
 -   Differences across languages & devices
 -   Insufficient in-tool classification
 
-## 
+##
 ::: {style="font-size: 200%;text-align:center;"}
 **Let's have a look at the technical set-up 💻:**
 
-**Running the DDT locally** 
+SHOW SOME IMAGES OR EVEN THE VIDEO HERE.
+Or just switch to the website and explain the setup there.
+https://next.eyra.co/assignment/335/content
+
 :::
+
+::: {.notes}
+
+- The hard part is testing; the for the coding you can use AI, especially if you know python and have an "example setup"
+
+:::
+
+## Strategy to make the extraction works
+
+1. Look at the DDP; download it for multiple time periods and for different languages
+2. Understand the structure of the JSON or CSV.
+3. Get an example file running.
+4. Write the extraction code.
+5. Test your script.
+
+## Example code
+
+```
+def extract_subscriptions(subscriptions_csv, locale):
+    """Extract YouTube channel subscriptions"""
+
+    # Define column name
+    if "Kanaltitel" in subscriptions_csv.columns:  # language sensitive
+        channel_column = "Kanaltitel"
+    else:
+        channel_column = "Channel Title"
+
+    tl_channel = translate(
+        {
+            "en": "Subscribed Channel",
+            "de": "Abonnierter Kanal",
+            "nl": "Geabonneerd kanaal",
+        },
+        locale,
+    )
+
+    # Create DataFrame with just the channel names
+    subscriptions_df = pd.DataFrame({tl_channel: subscriptions_csv[channel_column]})
+
+    return subscriptions_df
+```
 
 ## Step I: Research design & tool set-up
 
@@ -235,11 +279,11 @@ Key decisions:
 
 ## Step I: Research design & tool set-up
 
-![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
 
 ## Step II: Data cleaning & augmentation (Valerie)
 
-![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
 
 
 ## Step II.I: How do I clean and extend data?
@@ -262,7 +306,7 @@ This is how your data may look like:
 
 ##
 ::: {style="font-size: 100%;text-align:center;"}
-**📢 Task 3: Classify search terms** 
+**📢 Task 3: Classify search terms**
 
 *Download the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss this (no-code group) or do this in R/Python (code group).....*
 
@@ -279,17 +323,17 @@ This is how your data may look like:
 -   Errors in representation and measurements, e.g.
     -   based on systematic drop-out [@pak_correcting_2022]
     -   based on systematic misclassification of digital traces [@teblunthuis_etal2024]
-    
+
 👉 You know the drill: We will talk about this in session 4️⃣.
 
 ## Step II: Data cleaning & augmentation
 
-![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
+![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
 
 ## Step III: Modelling (Valerie)
 
-![Figure. Data donation study - researcher perspective](images/ablauf-4c.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
-    
+![Figure. Data donation study - researcher perspective](images/ablauf-4c.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
+
 ## Step III.I: How do I analyze results?
 
 Think carefully about...
@@ -312,7 +356,7 @@ Think carefully about...
 
     -   @carriere_etal2024
 
-## 
+##
 
 ::: {style="font-size: 400%;text-align:center;"}
 **Questions?** 🤔
