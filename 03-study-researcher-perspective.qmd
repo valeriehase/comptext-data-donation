@@ -44,19 +44,17 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ## Agenda
 
-1. **Research design & tool set-up**, including
-   
-   📢 **Task 3**: Modify the data donation tool
+1. **Research design & tool set-up**
 
 2. **Data cleaning & augmentation**, including
 
-   📢 **Task 4**: Classify search terms
+   📢 **Task 3**: Classify search terms
 
 3. **Modelling digital traces**
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
-## 1) Research design & tool set-up
+## 1) Research design & tool set-up (Frieder)
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
@@ -198,17 +196,9 @@ Key issues 🚨 [@hase_etal2024]
 
 ## 
 ::: {style="font-size: 200%;text-align:center;"}
-**Let's have a look at the technical set-up (Frieder: Run example?)** 
-:::
+**Let's have a look at the technical set-up 💻:**
 
-##
-
-::: {style="font-size: 200%;text-align:center;"}
-**📢 Task 3: Modify the data donation tool** 
-
-*Frieder: can we ask them to change filtering scripts, etc.? YouTube-URL extraction?* 
-
-Feel free to work in groups of 2-3 people.
+**Running the DDT locally** 
 :::
 
 ## Step I: Research design & tool set-up
@@ -247,7 +237,7 @@ Key decisions:
 
 ![Figure. Data donation study - researcher perspective](images/ablauf-4a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
 
-## Step II: Data cleaning & augmentation
+## Step II: Data cleaning & augmentation (Valerie)
 
 ![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
 
@@ -268,12 +258,13 @@ This is how your data may look like:
 
 -   Manual annotation by participants during data donation
 -   APIs/scraping to extend collected data
+-   Text-as-data methods for classification
 
 ##
 ::: {style="font-size: 100%;text-align:center;"}
-**📢 Task 4: Classify search terms** 
+**📢 Task 3: Classify search terms** 
 
-*Download the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python.....*
+*Download the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss this (no-code group) or do this in R/Python (code group).....*
 
 (1) How you would clean the data?
 
@@ -289,14 +280,13 @@ This is how your data may look like:
     -   based on systematic drop-out [@pak_correcting_2022]
     -   based on systematic misclassification of digital traces [@teblunthuis_etal2024]
     
-    
 👉 You know the drill: We will talk about this in session 4️⃣.
 
 ## Step II: Data cleaning & augmentation
 
 ![Figure. Data donation study - researcher perspective](images/ablauf-4b.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
 
-## Step III: Modelling
+## Step III: Modelling (Valerie)
 
 ![Figure. Data donation study - researcher perspective](images/ablauf-4c.jpg){fig-alt="process of data donation study" fig-align="left" width="300"} 
     

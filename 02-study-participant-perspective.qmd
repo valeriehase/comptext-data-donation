@@ -44,7 +44,7 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
-## 1) What are data donation studies?
+## 1) What are data donation studies? (Valerie)
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
@@ -101,7 +101,6 @@ Compared to **APIs** [@stollfus_computational_2023; @ohme_digital_2024]...
 - Longitudinal data without “rate limits” 
 - Partly additional measurements (e.g., exposure data; non-public data)
 
-
 ## How is data from DDPs different?
 
 Compared to **tracking** [@stollfus_computational_2023; @ohme_digital_2024]...
@@ -121,7 +120,7 @@ Compared to **tracking** [@stollfus_computational_2023; @ohme_digital_2024]...
     -   @boeschoten_privacy-preserving_2022
     -   @carriere_etal2024
 
-## 2) Participant perspective
+## 2) Participant perspective (Frieder)
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 

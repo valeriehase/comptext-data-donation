@@ -970,7 +970,7 @@
     "href": "01-intro.html#section",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Before we start: Have you requested and downloaded your DDP? 🤔\n\nOtherwise, please check your email and the use link: https://next.eyra.co/assignment/334/participate?participant=XXX"
+    "text": "Before we start: Have you requested and downloaded your DDP? 🤔\n\nOtherwise, please check your email and use this link: https://next.eyra.co/assignment/334/participate?participant=XXX"
   },
   {
     "objectID": "01-intro.html#agenda",
@@ -990,15 +990,15 @@
     "objectID": "01-intro.html#what-is-digital-trace-data",
     "href": "01-intro.html#what-is-digital-trace-data",
     "title": "Data Donation Studies: COMPTEXT Workshop",
-    "section": "2. What is digital trace data?",
-    "text": "2. What is digital trace data?\n\nSource: Image by Markus Winkler via Unsplash"
+    "section": "What is digital trace data?",
+    "text": "What is digital trace data?\nDefinition 💡: The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena\n\ne.g., tweets, likes, shares on social media\ne.g., geo data (locations, movements)\ne.g., digital payments\ne.g., Spotify playlists"
   },
   {
     "objectID": "01-intro.html#what-is-digital-trace-data-1",
     "href": "01-intro.html#what-is-digital-trace-data-1",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "What is digital trace data?",
-    "text": "What is digital trace data?\nDefinition 💡: The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena\n\ne.g., tweets, likes, shares on social media\ne.g., geo data (locations, movements)\ne.g., digital payments\ne.g., Spotify playlists"
+    "text": "What is digital trace data?\nDefinition 💡: The recording and storing of activities on digital platforms to draw conclusions about digital and analog phenomena\n\ne.g., tweets, likes, shares on social media\n\nExample: Instagram Like"
   },
   {
     "objectID": "01-intro.html#what-is-digital-trace-data-2",
@@ -1474,7 +1474,7 @@
     "href": "03-study-researcher-perspective.html#agenda",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Agenda",
-    "text": "Agenda\n\nResearch design & tool set-up, including\n📢 Task 3: Modify the data donation tool\nData cleaning & augmentation, including\n📢 Task 4: Classify search terms\nModelling digital traces\n\n\nImage by Hope House Press via Unsplash"
+    "text": "Agenda\n\nResearch design & tool set-up\nData cleaning & augmentation, including\n📢 Task 3: Classify search terms\nModelling digital traces\n\n\nImage by Hope House Press via Unsplash"
   },
   {
     "objectID": "03-study-researcher-perspective.html#research-design-tool-set-up",
@@ -1649,7 +1649,7 @@
     "href": "03-study-researcher-perspective.html#section-1",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Let’s have a look at the technical set-up (Frieder: Run example?)"
+    "text": "Let’s have a look at the technical set-up 💻:\nRunning the DDT locally"
   },
   {
     "objectID": "03-study-researcher-perspective.html#references",
@@ -1775,14 +1775,14 @@
     "href": "03-study-researcher-perspective.html#section-2",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "📢 Task 3: Modify the data donation tool\nFrieder: can we ask them to change filtering scripts, etc.? YouTube-URL extraction?\nFeel free to work in groups of 2-3 people."
+    "text": "📢 Task 3: Classify search terms\nDownload the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss this (no-code group) or do this in R/Python (code group)…..\n\nHow you would clean the data?\nHow you would identify health-related searches using NLP methods?\n\n\n\nFigure. Donated data - example"
   },
   {
     "objectID": "03-study-researcher-perspective.html#section-3",
     "href": "03-study-researcher-perspective.html#section-3",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "📢 Task 4: Classify search terms\nDownload the data for Task 4 from the workshop website. This contains YouTube searches collected from a German social media sample. Either discuss or do this in R/Python…..\n\nHow you would clean the data?\nHow you would identify health-related searches using NLP methods?\n\n\n\nFigure. Donated data - example"
+    "text": "Questions? 🤔"
   },
   {
     "objectID": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-1",
@@ -1796,7 +1796,7 @@
     "href": "03-study-researcher-perspective.html#step-ii.i-how-do-i-clean-and-extend-data-2",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Step II.I: How do I clean and extend data?",
-    "text": "Step II.I: How do I clean and extend data?\n\nManual annotation by participants during data donation\nAPIs/scraping to extend collected data"
+    "text": "Step II.I: How do I clean and extend data?\n\nManual annotation by participants during data donation\nAPIs/scraping to extend collected data\nText-as-data methods for classification"
   },
   {
     "objectID": "03-study-researcher-perspective.html#section-4",
@@ -1823,8 +1823,8 @@
     "objectID": "02-study-participant-perspective.html#what-are-data-donation-studies",
     "href": "02-study-participant-perspective.html#what-are-data-donation-studies",
     "title": "Data Donation Studies: COMPTEXT Workshop",
-    "section": "1) What are data donation studies?",
-    "text": "1) What are data donation studies?\n\nSource: Image by Markus Winkler via Unsplash"
+    "section": "What are data donation studies?",
+    "text": "What are data donation studies?\nDefinition 💡: Data donation studies are a user-centric method for collecting digital traces:\n\n\nUsers have the right to request, access, and download data that platforms collect about them.\nThey can make their data packages (DDPs) available to science via data donation tools (DDTs), often in the context of surveys.\nResearchers use CSS methods to filter, anonymize, and aggregate this data locally on participants’ devices.\nParticipants can inspect/delete their data before any data is transferred."
   },
   {
     "objectID": "02-study-participant-perspective.html#changes-in-legal-contexts",
@@ -2125,7 +2125,7 @@
     "href": "04-bias-outro.html#errors-in-representation",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Errors in representation",
-    "text": "Errors in representation\nFor example …\n\n\nCoverage error: Who is (not) represented in the sampling frame? (e.g., social media users vs. YouTube users)\nSampling error: Who is (not) represented in the sample (e.g., non-probability samples)\nNon-response error: Who does (not) want to participate in the data donation?\nCompliance error: Who is (not) able to participate in the data donation?"
+    "text": "Errors in representation\nFor example …\n\n\nCoverage error: Who is (not) represented in the sampling frame? (e.g., social media users vs. YouTube users)\nSampling error: Who is (not) represented in the sample? (e.g., non-probability samples)\nNon-response error: Who does (not) want to participate in the data donation?\nCompliance error: Who is (not) able to participate in the data donation?"
   },
   {
     "objectID": "04-bias-outro.html#errors-in-representation-1",
@@ -2146,7 +2146,7 @@
     "href": "04-bias-outro.html#errors-in-representation-solutions",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "Errors in representation: Solutions",
-    "text": "Errors in representation: Solutions\n\nA posteriori strategies:\n\nInfrastructure: Integration in probability-based panels\nSurvey design strategies (e.g., incentives, study framing)\nDDT design (e.g. UX-perspective)\n\nPost hoc strategies:\n\nPara data (e.g., quality indicators like speeding)\nStatistical modeling (e.g., weighting, see Pak et al., 2022)"
+    "text": "Errors in representation: Solutions\n\nA posteriori strategies:\n\nInfrastructure: Integration in probability-based panels\nSurvey design strategies (e.g., incentives, study framing)\nDDT design (e.g. UX-perspective)\n\nPost hoc strategies:\n\nStatistical modeling (e.g., weighting, see Pak et al., 2022)"
   },
   {
     "objectID": "04-bias-outro.html#errors-in-representation-solutions-1",
@@ -2209,14 +2209,14 @@
     "href": "04-bias-outro.html#section-4",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Questions 🤔"
+    "text": "Questions? 🤔"
   },
   {
     "objectID": "04-bias-outro.html#section-5",
     "href": "04-bias-outro.html#section-5",
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
-    "text": "Questions 🤔"
+    "text": "Questions? 🤔"
   },
   {
     "objectID": "04-bias-outro.html#errors-in-representation-solutions-3",
@@ -2238,5 +2238,96 @@
     "title": "Data Donation Studies: COMPTEXT Workshop",
     "section": "",
     "text": "Questions? 🤔"
+  },
+  {
+    "objectID": "01-intro.html#intro-valerie",
+    "href": "01-intro.html#intro-valerie",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1. Intro (Valerie)",
+    "text": "1. Intro (Valerie)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "01-intro.html#what-is-digital-trace-data-frieder",
+    "href": "01-intro.html#what-is-digital-trace-data-frieder",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2. What is digital trace data? (Frieder)",
+    "text": "2. What is digital trace data? (Frieder)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "01-intro.html#how-can-we-collect-digital-traces-valerie",
+    "href": "01-intro.html#how-can-we-collect-digital-traces-valerie",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "3. How can we collect digital traces? (Valerie)",
+    "text": "3. How can we collect digital traces? (Valerie)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#what-are-data-donation-studies-valerie",
+    "href": "02-study-participant-perspective.html#what-are-data-donation-studies-valerie",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1) What are data donation studies? (Valerie)",
+    "text": "1) What are data donation studies? (Valerie)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "02-study-participant-perspective.html#participant-perspective-frieder",
+    "href": "02-study-participant-perspective.html#participant-perspective-frieder",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2) Participant perspective (Frieder)",
+    "text": "2) Participant perspective (Frieder)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#research-design-tool-set-up-frieder",
+    "href": "03-study-researcher-perspective.html#research-design-tool-set-up-frieder",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1) Research design & tool set-up (Frieder)",
+    "text": "1) Research design & tool set-up (Frieder)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-ii-data-cleaning-augmentation-valerie",
+    "href": "03-study-researcher-perspective.html#step-ii-data-cleaning-augmentation-valerie",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step II: Data cleaning & augmentation (Valerie)",
+    "text": "Step II: Data cleaning & augmentation (Valerie)\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "03-study-researcher-perspective.html#step-iii-modelling-valerie",
+    "href": "03-study-researcher-perspective.html#step-iii-modelling-valerie",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "Step III: Modelling (Valerie)",
+    "text": "Step III: Modelling (Valerie)\n\nFigure. Data donation study - researcher perspective"
+  },
+  {
+    "objectID": "04-bias-outro.html#bias-in-data-donation-studies-valerie",
+    "href": "04-bias-outro.html#bias-in-data-donation-studies-valerie",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "1) Bias in Data Donation Studies (Valerie)",
+    "text": "1) Bias in Data Donation Studies (Valerie)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#whats-next-for-data-donation-studies-frieder",
+    "href": "04-bias-outro.html#whats-next-for-data-donation-studies-frieder",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "2) What’s next for data donation studies? (Frieder)",
+    "text": "2) What’s next for data donation studies? (Frieder)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#outro-frieder",
+    "href": "04-bias-outro.html#outro-frieder",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "3) Outro (Frieder)",
+    "text": "3) Outro (Frieder)\n\nSource: Image by Markus Winkler via Unsplash"
+  },
+  {
+    "objectID": "04-bias-outro.html#the-road-ahead-ii-data-as-a-political-tool",
+    "href": "04-bias-outro.html#the-road-ahead-ii-data-as-a-political-tool",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "The road ahead II: Data as a political tool",
+    "text": "The road ahead II: Data as a political tool\n\nPlatforms do (willingly?) not provide data according to the GDPR/DSA (Hase et al., 2024)\nThe EU has started to sanction platforms like X/TikTok\nDSA may become the subject of larger geo-political debates with the USA (Seiling et al., 2025)\n\n\nSource: Image by WilliamCho via Pixabay"
+  },
+  {
+    "objectID": "04-bias-outro.html#the-road-ahead-iii-can-we-improve-apply-the-method",
+    "href": "04-bias-outro.html#the-road-ahead-iii-can-we-improve-apply-the-method",
+    "title": "Data Donation Studies: COMPTEXT Workshop",
+    "section": "The road ahead III: Can we improve & apply the method?",
+    "text": "The road ahead III: Can we improve & apply the method?\n\nCan the method actually be applied for empirical research? (few examples, like Thorson et al., 2021; Wojcieszak et al., 2024)\nRequires interdisciplinary perspectives (e.g., addressing bias, integration in probability-based panels)\n\n\nSource: Image by Vladislav Babienko via Pixabay"
   }
 ]

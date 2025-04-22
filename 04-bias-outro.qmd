@@ -42,7 +42,7 @@ Frieder Rodewald (University of Mannheim) & Valerie Hase (LMU Munich)
 
 ![Image by Hope House Press via Unsplash](images/agenda.jpg){fig-align="left" width="10%"}
 
-## 1) Bias in Data Donation Studies
+## 1) Bias in Data Donation Studies (Valerie)
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
@@ -69,7 +69,7 @@ For example ...
 ::: incremental
 -   **Coverage error**: Who is (not) represented in the sampling frame? (e.g., social media users vs. YouTube users)
 
--   **Sampling error**: Who is (not) represented in the sample (e.g., non-probability samples)
+-   **Sampling error**: Who is (not) represented in the sample? (e.g., non-probability samples)
 
 -   **Non-response error**: Who does (not) want to participate in the data donation?
 
@@ -111,8 +111,6 @@ Example study by @hase_haim2024a:
     -   DDT design (e.g. UX-perspective)
 
 -   **Post hoc strategies**:
-
-    -   Para data (e.g., quality indicators like speeding)
 
     -   Statistical modeling [e.g., weighting, see @pak_correcting_2022]
 
@@ -185,10 +183,10 @@ Example study by @hase_etal2024:
 ## 
 
 ::: {style="font-size: 400%;text-align:center;"}
-**Questions** 🤔
+**Questions?** 🤔
 :::
 
-## 2) What's next for data donation studies?
+## 2) What's next for data donation studies? (Frieder)
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
@@ -202,7 +200,7 @@ Example study by @hase_etal2024:
 
 ![Source: Image by DariuszSankowski via Pixabay](images/future1.jpg){fig-alt="Image of multimedia data" fig-align="left" width="200"}
 
-## The road ahead II: Platforms (and data access) as a political tool
+## The road ahead II: Data as a political tool
 
 -   Platforms do (willingly?) not provide data according to the GDPR/DSA [@hase_etal2024]
 
@@ -212,7 +210,7 @@ Example study by @hase_etal2024:
 
 ![Source: Image by WilliamCho via Pixabay](images/future2.jpg){fig-alt="Image of the Lady of Justice" fig-align="left" width="200"}
 
-## The road ahead III: Can we improve and apply the method?
+## The road ahead III: Can we improve & apply the method?
 
 -   Can the method actually be applied for empirical research? [few examples, like @thorson_etal2021; @wojcieszak_etal2024]
 
@@ -223,10 +221,10 @@ Example study by @hase_etal2024:
 ## 
 
 ::: {style="font-size: 400%;text-align:center;"}
-**Questions** 🤔
+**Questions?** 🤔
 :::
 
-## 3) Outro
+## 3) Outro (Frieder)
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
