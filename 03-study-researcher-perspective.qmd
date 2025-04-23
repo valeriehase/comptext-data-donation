@@ -198,11 +198,67 @@ Key issues 🚨 [@hase_etal2024]
 ::: {style="font-size: 200%;text-align:center;"}
 **Let's have a look at the technical set-up 💻:**
 
-SHOW SOME IMAGES OR EVEN THE VIDEO HERE.
-Or just switch to the website and explain the setup there.
-https://next.eyra.co/assignment/335/content
+\
+\
+
+[https://github.com/eyra/mono](https://github.com/eyra/mono)
+[https://github.com/eyra/feldspar](https://github.com/eyra/feldspar)
 
 :::
+
+::: {.notes}
+
+- The example flow is here: "https://next.eyra.co/assignment/335/content"
+
+:::
+
+---
+
+![Video. Next settings](images/next_settings.mov){fig-alt="Next settings video" fig-align="left" width="1400"}
+
+---
+
+![Video. Next workflow](images/next_workflow.mov){fig-alt="Next workflow video" fig-align="left" width="1400"}
+
+---
+
+![Figure. Next setup 1](images/next_1.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 2](images/next_2.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 3](images/next_3.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 4](images/next_4.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 5](images/next_5.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 6](images/next_6.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 7](images/next_7.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 8](images/next_8.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 9](images/next_9.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
+
+---
+
+![Figure. Next setup 10](images/next_10.png){fig-alt="Next workflow screenshots" fig-align="left" width="200"}
 
 ::: {.notes}
 
@@ -210,13 +266,14 @@ https://next.eyra.co/assignment/335/content
 
 :::
 
-## Strategy to make the extraction works
+## Strategy to make the extraction work
 
 1. Look at the DDP; download it for multiple time periods and for different languages
 2. Understand the structure of the JSON or CSV.
 3. Get an example file running.
 4. Write the extraction code.
-5. Test your script.
+5. Test your script, first locally and then in the wild.
+6. Adapt your script.
 
 ## Example code
 
