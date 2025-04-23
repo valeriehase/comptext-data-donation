@@ -86,6 +86,14 @@ This may sound silly but:
 -   To date: methodological playground
 -   *What good is a method that is not used to advance theories/empirical knowledge?*
 
+::: {.notes}
+
+- If you have studied Twitter in the 2010's you know that this is pretty much what went wrong there, i.e., most often researchers had a nice data set and then looked for a suitable question to study.
+-> But the scientific way is better the other way around!
+-> Here it also makes a lot of sense to pre-register your study. You will also see in a moment why/how this helps you during programming.
+
+:::
+
 ## Step I: Research design & tool set-up
 
 Key decisions:
@@ -102,12 +110,27 @@ Choose a tool, e.g., ...
 -   Data Donation Module [@pfiffner_data_2022] (Switzerland, different platforms)
 -   WhatsR [@kohne_etal2024] (Germany, WhatsApp)
 
+::: {.notes}
+
+- Or you can program your own tool for your own application.
+- A good starting point is to look for data donation studies that were on the same platform; and use their scripts.
+
+::: 
+
 ## Step I.II: How do I operationalize key variables?
 
 -   Participants "upload" data
 -   Local extraction, anonymization, & aggregation
 -   Users can delete data
 -   Informed consent, only then: send to researcher server
+
+::: {.notes}
+
+- From a researcher perspective this makes it also appealing for ethics and data protection
+-> More cumbersome to explain but once they understand it, they like it.
+
+::: 
+
 
 ## Step I.II: How do I operationalize key variables?
 
@@ -160,6 +183,12 @@ Choose a tool, e.g., ...
 -   Users can delete data
 -   Informed consent, only then: send to researcher server
 
+::: {.notes}
+
+- This often goes hand-in-hand with anonymization, but requires you to know your research question: If you aggregate too much here, you might not have all the information you need for your analyses.
+
+::: 
+
 ## Step I.II: How do I operationalize key variables?
 
 <h3>Aggregation 🧮:</h3>
@@ -192,7 +221,13 @@ Key issues 🚨 [@hase_etal2024]
 -   Missing documentation by platforms (e.g., file structure)
 -   Sudden changes in DDPs
 -   Differences across languages & devices
--   Insufficient in-tool classification
+-   Insufficient in-tool classification (e.g., LLM integration)
+
+::: {.notes}
+
+- It might be nice to directly classify information during extraction (also in terms of data protection), but since all the data is extracted on the participants devices, this makes it really hard to implement because they would have to do the API calls from their devices, handle the computing power,...
+
+:::
 
 ##
 ::: {style="font-size: 200%;text-align:center;"}
@@ -209,6 +244,7 @@ Key issues 🚨 [@hase_etal2024]
 ::: {.notes}
 
 - The example flow is here: "https://next.eyra.co/assignment/335/content"
+- This is just one example for a data donation tool, but arguably the most elaborate platform out there (that you can self-host)
 
 :::
 
@@ -262,23 +298,23 @@ Key issues 🚨 [@hase_etal2024]
 
 ::: {.notes}
 
-- The hard part is testing; the for the coding you can use AI, especially if you know python and have an "example setup"
+- ...and how does this actually work: Pyodide; we just install python in a participants browser. That how we can code python and work with a language that is more suited to data wrangling than JavaScript
 
 :::
 
 ## Strategy to make the extraction work
 
-1. Look at the DDP; download it for multiple time periods and for different languages
+1. Take a look at the DDP; download it, best for multiple time periods and for different languages
 2. Understand the structure of the JSON or CSV.
 3. Get an example file running.
-4. Write the extraction code.
+4. Write the code for the extraction script.
 5. Test your script, first locally and then in the wild.
 6. Adapt your script.
 
 ## Example code
 
 ```
-def extract_subscriptions(subscriptions_csv, locale):
+def extract_subscriptions(subscriptions_csv):
     """Extract YouTube channel subscriptions"""
 
     # Define column name
@@ -286,18 +322,12 @@ def extract_subscriptions(subscriptions_csv, locale):
         channel_column = "Kanaltitel"
     else:
         channel_column = "Channel Title"
-
-    tl_channel = translate(
-        {
-            "en": "Subscribed Channel",
-            "de": "Abonnierter Kanal",
-            "nl": "Geabonneerd kanaal",
-        },
-        locale,
-    )
-
+    
+    # Define description
+    channel_name = "Subscribed Channel"
+    
     # Create DataFrame with just the channel names
-    subscriptions_df = pd.DataFrame({tl_channel: subscriptions_csv[channel_column]})
+    subscriptions_df = pd.DataFrame({channel_name: subscriptions_csv[channel_column]})
 
     return subscriptions_df
 ```
@@ -315,6 +345,12 @@ Key decisions:
 -   Often: survey, then forwarding to an external site
 -   Less often: Integration in existing survey infrastructure [@haim_integrating_2023]
 
+::: {.notes}
+
+- The often use setup of "first survey, then donation" has the advantage that you know who participated in your study and then understand how your final sample of people who actually donate their data is biased.
+
+:::
+
 ## Step I.III: How do I integrate the tool in surveys & recruit participants?
 
 ::: incremental
@@ -331,6 +367,12 @@ Key decisions:
 -   Survey design strategies: For now, 🤑 is the only thing that works.
 
 -   👉 Again, we will talk about this in session 4️⃣.
+
+:::
+
+::: {.notes}
+
+- As you see this method, like every method, has its shortcomings.
 
 :::
 

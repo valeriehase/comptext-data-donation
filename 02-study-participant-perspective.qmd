@@ -124,6 +124,13 @@ Compared to **tracking** [@stollfus_computational_2023; @ohme_digital_2024]...
 
 ![Source: Image by Markus Winkler via Unsplash](images/methods.jpg){fig-alt="image of lupe" fig-align="left" width="300"}
 
+::: {.notes}
+
+- As data donation is really centered on the participant, we best start to understand data donation by taking their perspective.
+- You already did one part of this process before coming here: Requesting and downloading your data from YouTube, Instagram, or LinkedIn
+
+:::
+
 ## Data donation studies - participant perspective
 
 ![Figure. Data donation study - participant perspective](images/ablauf-3.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
@@ -144,6 +151,16 @@ Compared to **tracking** [@stollfus_computational_2023; @ohme_digital_2024]...
 
 ::: {style="font-size: 200%;text-align:center;"}
 *How easy (or hard) did you find it to request your data? Did you encounter any obstacles?* 🤔
+:::
+
+::: {.notes}
+
+Possible issues might be:
+- Switching between smartphone and PC is hard.
+- Hard to remember passwords.
+- Which accounts do I choose?
+- In case of different language: Do I understand the instructions?
+
 :::
 
 ## Step I: Data request
@@ -176,6 +193,8 @@ Feel free to work in groups of 2-3 people.
 ::: {.notes}
 
 - You downloaded your data before coming here; if not, I have example data on this USB-stick :)
+- If you need help, just raise your hand.
+- Note: If people find inconsistencies, let them report them afterwards as a nice segway to the "download" part.
 
 :::
 
@@ -191,6 +210,13 @@ Different degrees in standardization for DDP content [@hase_etal2024]...
 
   - Missing data?
   - Limited time frames?
+  - Language sensitive?
+  
+::: {.notes}
+
+- Plus everything may change over time...
+
+::: 
 
 ## Step III: Data donation
 
@@ -222,8 +248,10 @@ Feel free to work in groups of 2-3 people.
 ::: {.notes}
 
 - We prepared this script for a data donation study we are about to field.
-- You'll find that the data is anonymized and most often aggregated to counts (per day).
+- You'll find that the data is anonymized and most often aggregated to counts (per day); but in theory you can do anything you want here.
 - We dive into this part and what happens here later; hint: Here is where the magic(code) happens.
+
+- Additional question: What did you expect to see? In the future there will be additional visualization options here.
 
 :::
 

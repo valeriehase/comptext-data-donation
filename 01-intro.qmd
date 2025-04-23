@@ -185,6 +185,13 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 -   often less reactive (e.g., less concerns about social desirability)
 :::
 
+
+::: {.notes}
+
+- ...and if you have ever worked with such data you know they are messy; but can be combined with lots of different computational methods like image detection, GIS or text extraction
+
+:::
+
 ## Which (latent) constructs can we measure?
 
 <div>
@@ -215,6 +222,13 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 -   „how many minutes"?
 :::
 
+::: {.notes}
+
+- Think about this question for a minute and try to find an educated guess.
+- I think you can already tell that this is really hard to answer; one the one hand because you might not be able to recall your behavior - and then in a survey you might not want to give the correct answer, because you think your behavior is socially undesirable
+
+:::
+
 ## Why are digital traces becoming more popular?
 
 -   **Problems with self-reported data** (e.g., via survey)
@@ -227,6 +241,12 @@ Depending on the data collection method... [@stollfus_computational_2023; @ohme_
 -   **Availabillity**
     -   cheap (e.g., via APIs)
     -   large data sets ("big data")
+
+::: {.notes}
+
+- Quite often in the CSS crowd: "You can apply cool methods to it" :)
+
+:::
 
 ## Why are digital traces becoming more popular?
 
@@ -242,7 +262,7 @@ Digital traces are neither necessarily less biased, nor cheaper, or larger (we w
 -   ✅ More fine-grained, often longitudinal measures due to timestamps
 -   ✅ Partly measurement of new variables (e.g., algorithmic inference)
 -   ❌ Bias due to errors in representation and measurement
--   ❌ Implementation can be expensive
+-   ❌ Implementation can be expensive and cumbersome
 -   ❌ More data does not mean better data!
 
 ## Summary: What is digital trace data? 📚
