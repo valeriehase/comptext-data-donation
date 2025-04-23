@@ -243,11 +243,12 @@ Key issues 🚨 [@hase_etal2024]
 
 ::: {.notes}
 
-- The example flow is here: "https://next.eyra.co/assignment/335/content"
+- The example flow is here: "[https://next.eyra.co/assignment/335/content](https://next.eyra.co/assignment/335/content)"
 - This is just one example for a data donation tool, but arguably the most elaborate platform out there (that you can self-host)
 
 :::
 
+<!--
 ---
 
 ![Video. Next settings](images/next_settings.mov){fig-alt="Next settings video" fig-align="left" width="1400"}
@@ -255,6 +256,8 @@ Key issues 🚨 [@hase_etal2024]
 ---
 
 ![Video. Next workflow](images/next_workflow.mov){fig-alt="Next workflow video" fig-align="left" width="1400"}
+
+-->
 
 ---
 
@@ -311,10 +314,70 @@ Key issues 🚨 [@hase_etal2024]
 5. Test your script, first locally and then in the wild.
 6. Adapt your script.
 
-## Example code
+## Example: Extract list of subscriptions
+
+![Figure. subscriptions.csv](images/subscriptions_csv.jpeg.png){fig-alt="Screenshot of subscriptions.csv" fig-align="left" width="200"}
+
+---
 
 ```
-def extract_subscriptions(subscriptions_csv):
+...
+    "subscriptions": {
+        "extraction_function": ef.extract_subscriptions,
+        "possible_filenames": ["Abos.csv", "subscriptions.csv"],
+        "title": {
+            "en": "Which channels are you subscribed to?",
+            "de": "Welche Kanäle haben Sie abonniert?",
+            "nl": "Op welke kanalen ben je geabonneerd?",
+        },
+    },
+... 
+ 
+```
+
+---
+
+```
+def extract_youtube_content_from_zip_folder(zip_file_path, possible_filenames):
+    """Extract content from YouTube data export zip file using filenames"""
+    
+    try:
+        with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
+            # Get the list of file names in the zip file
+            filenames = zip_ref.namelist()
+
+            # Look for matching files
+            for possible_filename in possible_filenames:
+                for filename in filenames:
+                    if possible_filename in filename:
+                        try:
+                            # Process based on file extension
+                            if filename.endswith(".json"):
+                                with zip_ref.open(filename) as json_file:
+                                    json_content = json.loads(json_file.read())
+                                    return json_content
+                            elif file_name.endswith(".csv"):
+                                with zip_ref.open(file_name) as csv_file:
+                                    csv_content = pd.read_csv(csv_file)
+                                    return csv_content
+                                    
+                        # Try the next matching file if there's an error 
+                        except Exception as e:
+                            print(f"Error reading file {file_name}: {e}")
+                            continue  
+            # If we've checked all files and found no match
+            print(f"No file matching file '{possible_filenames}' found")
+            return None
+    except Exception as e:
+        print(f"Error extracting YouTube content: {e}")
+        return None
+
+```
+
+---
+
+```
+def extract_subscriptions(subscriptions_csv): # csv file is read before
     """Extract YouTube channel subscriptions"""
 
     # Define column name
@@ -331,6 +394,10 @@ def extract_subscriptions(subscriptions_csv):
 
     return subscriptions_df
 ```
+
+---
+
+![Figure. Processed subscriptions.csv](images/subscriptions_donated.png){fig-alt="Screenshot of the processed subscriptions.csv" fig-align="left" width="200"}
 
 ## Step I: Research design & tool set-up
 
