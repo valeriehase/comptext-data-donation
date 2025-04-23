@@ -6,6 +6,7 @@ format:
     theme: ["theme/q-theme.scss"]
     code-fold: show
     code-copy: true
+    code-block-height: 670px
     self-contained: true
     number-sections: false
     smaller: true
@@ -115,7 +116,7 @@ Choose a tool, e.g., ...
 - Or you can program your own tool for your own application.
 - A good starting point is to look for data donation studies that were on the same platform; and use their scripts.
 
-::: 
+:::
 
 ## Step I.II: How do I operationalize key variables?
 
@@ -129,7 +130,7 @@ Choose a tool, e.g., ...
 - From a researcher perspective this makes it also appealing for ethics and data protection
 -> More cumbersome to explain but once they understand it, they like it.
 
-::: 
+:::
 
 
 ## Step I.II: How do I operationalize key variables?
@@ -187,7 +188,7 @@ Choose a tool, e.g., ...
 
 - This often goes hand-in-hand with anonymization, but requires you to know your research question: If you aggregate too much here, you might not have all the information you need for your analyses.
 
-::: 
+:::
 
 ## Step I.II: How do I operationalize key variables?
 
@@ -320,7 +321,9 @@ Key issues 🚨 [@hase_etal2024]
 
 ---
 
-```
+<div style="font-size: 1.5em;">
+
+```{.python}
 ...
     "subscriptions": {
         "extraction_function": ef.extract_subscriptions,
@@ -331,21 +334,24 @@ Key issues 🚨 [@hase_etal2024]
             "nl": "Op welke kanalen ben je geabonneerd?",
         },
     },
-... 
- 
+...
+
 ```
+
+</div>
 
 ---
 
-```
+<div style="font-size: 1.5em;">
+
+```{.python}
 def extract_youtube_content_from_zip_folder(zip_file_path, possible_filenames):
     """Extract content from YouTube data export zip file using filenames"""
-    
+
     try:
         with zipfile.ZipFile(zip_file_path, "r") as zip_ref:
             # Get the list of file names in the zip file
             filenames = zip_ref.namelist()
-
             # Look for matching files
             for possible_filename in possible_filenames:
                 for filename in filenames:
@@ -360,23 +366,25 @@ def extract_youtube_content_from_zip_folder(zip_file_path, possible_filenames):
                                 with zip_ref.open(file_name) as csv_file:
                                     csv_content = pd.read_csv(csv_file)
                                     return csv_content
-                                    
-                        # Try the next matching file if there's an error 
+
+                        # Try the next matching file if there's an error
                         except Exception as e:
                             print(f"Error reading file {file_name}: {e}")
-                            continue  
+                            continue
             # If we've checked all files and found no match
             print(f"No file matching file '{possible_filenames}' found")
             return None
     except Exception as e:
         print(f"Error extracting YouTube content: {e}")
         return None
-
 ```
+</div>
 
 ---
 
-```
+<div style="font-size: 1.5em;">
+
+```{.python}
 def extract_subscriptions(subscriptions_csv): # csv file is read before
     """Extract YouTube channel subscriptions"""
 
@@ -385,16 +393,16 @@ def extract_subscriptions(subscriptions_csv): # csv file is read before
         channel_column = "Kanaltitel"
     else:
         channel_column = "Channel Title"
-    
+
     # Define description
     channel_name = "Subscribed Channel"
-    
+
     # Create DataFrame with just the channel names
     subscriptions_df = pd.DataFrame({channel_name: subscriptions_csv[channel_column]})
 
     return subscriptions_df
 ```
-
+</div>
 ---
 
 ![Figure. Processed subscriptions.csv](images/subscriptions_donated.png){fig-alt="Screenshot of the processed subscriptions.csv" fig-align="left" width="200"}
